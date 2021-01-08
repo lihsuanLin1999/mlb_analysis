@@ -1,0 +1,31 @@
+team,league,W,L,ERA,G,GS,CG,SHO,SV,SVO,IP,H,R,ER,HR,HB,BB,SO,WHIP,AVG,url
+Tampa Bay Rays,AL,--,--,7.11,--,--,--,--,--,0,55.2,47,54,44,3,5,26,56,1.31,.223,https://www.mlb.com/rays
+Arizona Diamondbacks,NL,--,--,7.63,--,--,--,--,--,0,61.1,35,56,52,4,2,32,63,1.09,.161,https://www.mlb.com/dbacks
+Los Angeles Dodgers,NL,--,--,7.76,--,--,--,--,--,0,53.1,40,56,46,4,2,16,53,1.05,.199,https://www.mlb.com/dodgers
+Minnesota Twins,AL,--,--,7.83,--,--,--,--,--,0,54.0,39,53,47,5,3,23,63,1.15,.196,https://www.mlb.com/twins
+Oakland Athletics,AL,--,--,7.99,--,--,--,--,--,0,50.2,33,53,45,5,0,25,52,1.14,.181,https://www.mlb.com/athletics
+St. Louis Cardinals,NL,--,--,8.52,--,--,--,--,--,0,49.2,34,57,47,8,2,33,56,1.35,.187,https://www.mlb.com/cardinals
+Chicago Cubs,NL,--,--,9.58,--,--,--,--,--,0,51.2,43,58,55,5,2,20,58,1.22,.219,https://www.mlb.com/cubs
+New York Yankees,AL,--,--,9.64,--,--,--,--,--,0,56.0,53,72,60,7,3,21,56,1.32,.241,https://www.mlb.com/yankees
+Atlanta Braves,NL,--,--,9.83,--,--,--,--,--,0,61.1,59,86,67,5,2,33,50,1.50,.245,https://www.mlb.com/braves
+Cincinnati Reds,NL,--,--,9.83,--,--,--,--,--,0,50.1,39,70,55,6,6,33,59,1.43,.205,https://www.mlb.com/reds
+Cleveland Indians,AL,--,--,10.05,--,--,--,--,--,0,45.2,37,55,51,7,3,16,58,1.16,.214,https://www.mlb.com/indians
+Toronto Blue Jays,AL,--,--,10.52,--,--,--,--,--,0,63.1,52,88,74,9,2,41,67,1.47,.214,https://www.mlb.com/bluejays
+Texas Rangers,AL,--,--,10.66,--,--,--,--,--,0,63.1,46,81,75,10,3,31,54,1.22,.192,https://www.mlb.com/rangers
+Baltimore Orioles,AL,--,--,10.96,--,--,--,--,--,0,56.2,51,87,69,7,3,32,48,1.46,.230,https://www.mlb.com/orioles
+Miami Marlins,NL,--,--,11.22,--,--,--,--,--,0,59.1,58,83,74,4,3,38,60,1.62,.250,https://www.mlb.com/marlins
+Philadelphia Phillies,NL,--,--,11.26,--,--,--,--,--,0,58.1,61,89,73,7,3,31,53,1.58,.257,https://www.mlb.com/phillies
+Boston Red Sox,AL,--,--,11.72,--,--,--,--,--,0,68.1,69,98,89,8,3,36,82,1.54,.256,https://www.mlb.com/redsox
+Houston Astros,AL,--,--,11.86,--,--,--,--,--,0,57.2,61,86,76,11,4,37,61,1.70,.262,https://www.mlb.com/astros
+New York Mets,NL,--,--,12.03,--,--,--,--,--,0,58.1,60,91,78,9,7,35,67,1.63,.259,https://www.mlb.com/mets
+San Diego Padres,NL,--,--,12.08,--,--,--,--,--,0,50.2,55,78,68,10,1,21,65,1.50,.270,https://www.mlb.com/padres
+Washington Nationals,NL,--,--,12.12,--,--,--,--,--,0,65.1,61,97,88,10,2,58,76,1.82,.232,https://www.mlb.com/nationals
+Detroit Tigers,AL,--,--,12.20,--,--,--,--,--,0,55.1,53,77,75,8,4,19,55,1.30,.243,https://www.mlb.com/tigers
+Milwaukee Brewers,NL,--,--,12.26,--,--,--,--,--,0,50.2,53,75,69,5,4,25,57,1.54,.262,https://www.mlb.com/brewers
+San Francisco Giants,NL,--,--,12.34,--,--,--,--,--,0,58.1,60,92,80,9,6,42,64,1.75,.258,https://www.mlb.com/giants
+Kansas City Royals,AL,--,--,12.51,--,--,--,--,--,0,54.2,57,88,76,9,4,25,67,1.50,.259,https://www.mlb.com/royals
+Pittsburgh Pirates,NL,--,--,12.89,--,--,--,--,--,0,59.1,55,94,85,9,2,36,67,1.53,.238,https://www.mlb.com/pirates
+Chicago White Sox,AL,--,--,14.18,--,--,--,--,--,0,52.2,58,95,83,11,2,32,47,1.71,.270,https://www.mlb.com/whitesox
+Colorado Rockies,NL,--,--,14.31,--,--,--,--,--,0,61.0,70,111,97,11,4,31,44,1.66,.277,https://www.mlb.com/rockies
+Seattle Mariners,AL,--,--,17.57,--,--,--,--,--,0,55.1,66,112,108,14,5,34,57,1.81,.286,https://www.mlb.com/mariners
+Los Angeles Angels,AL,--,--,17.67,--,--,--,--,--,0,54.0,67,118,106,12,3,38,60,1.94,.291,https://www.mlb.com/angels

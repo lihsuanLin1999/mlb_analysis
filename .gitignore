@@ -1,0 +1,7 @@
+venv
+.DS_Store
+.idea/
+.vscode/
+AWS_credentials.csv
+ignore_file/
+new_folder/

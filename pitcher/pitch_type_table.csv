@@ -1,0 +1,6756 @@
+id,type,proportion
+279782,NA,NA
+501817,Cutter,40%
+501817,4-Seam Fastball,28%
+501817,Sinker,24%
+501817,Split Finger,4%
+501817,Curveball,4%
+430962,NA,NA
+434678,4-Seam Fastball,68.4%
+434678,Cutter,18.4%
+434678,Curveball,7.9%
+434678,Changeup,5.3%
+525768,4-Seam Fastball,46.9%
+525768,Slider,31.9%
+525768,Curveball,21.3%
+276912,NA,NA
+425646,NA,NA
+122987,NA,NA
+573668,4-Seam Fastball,62.6%
+573668,Changeup,20.1%
+573668,Slider,8.8%
+573668,Curveball,8.4%
+573668,Cutter,0.2%
+452249,NA,NA
+519242,Slider,38.4%
+519242,4-Seam Fastball,35.8%
+519242,Changeup,15.6%
+519242,Sinker,10.2%
+571704,Slider,58%
+571704,4-Seam Fastball,42%
+349193,NA,NA
+572208,4-Seam Fastball,63.5%
+572208,Slider,23.5%
+572208,Changeup,12.9%
+493159,4-Seam Fastball,50.4%
+493159,Changeup,14%
+493159,Slider,12.9%
+493159,Sinker,10.4%
+493159,Curveball,7%
+493159,Cutter,5.3%
+606995,4-Seam Fastball,71.7%
+606995,Slider,27.8%
+606995,Changeup,0.5%
+477003,Sinker,30.1%
+477003,4-Seam Fastball,26.6%
+477003,Cutter,23.6%
+477003,Changeup,10.3%
+477003,Curveball,8.9%
+477003,Slider,0.5%
+592773,4-Seam Fastball,43.9%
+592773,Slider,38.1%
+592773,Split Finger,18%
+465065,NA,NA
+607231,Sinker,38.8%
+607231,Changeup,23.3%
+607231,4-Seam Fastball,13.3%
+607231,Curveball,12.5%
+607231,Cutter,12.1%
+457567,NA,NA
+591701,4-Seam Fastball,37.5%
+591701,Curveball,35.9%
+591701,Changeup,16.4%
+591701,Sinker,10.2%
+460283,Curveball,49.1%
+460283,4-Seam Fastball,42.7%
+460283,Changeup,8.2%
+656887,4-Seam Fastball,63.2%
+656887,Slider,30.8%
+656887,Changeup,6%
+502009,4-Seam Fastball,41.5%
+502009,Slider,29.6%
+502009,Sinker,17.7%
+502009,Changeup,8.1%
+502009,Curveball,3.1%
+451775,4-Seam Fastball,69.5%
+451775,Cutter,22.9%
+451775,Curveball,6.8%
+451775,Changeup,0.8%
+493157,4-Seam Fastball,63.1%
+493157,Split Finger,32.3%
+493157,Slider,2.5%
+493157,Sinker,2.1%
+607200,Sinker,43.9%
+607200,Curveball,18.4%
+607200,Cutter,16.6%
+607200,4-Seam Fastball,11.6%
+607200,Split Finger,9.5%
+545001,NA,NA
+664869,Sinker,43.7%
+664869,Changeup,25.9%
+664869,4-Seam Fastball,17%
+664869,Slider,11.9%
+664869,Curveball,1.5%
+642564,4-Seam Fastball,55.9%
+642564,Curveball,35.9%
+642564,Changeup,8.1%
+642564,Sinker,0.1%
+615698,Sinker,48%
+615698,Slider,35.3%
+615698,Changeup,10.7%
+615698,4-Seam Fastball,6%
+596133,4-Seam Fastball,54%
+596133,Changeup,27.3%
+596133,Cutter,11.8%
+596133,Curveball,6.9%
+460597,NA,NA
+457935,NA,NA
+623364,4-Seam Fastball,70%
+623364,Curveball,30%
+622663,4-Seam Fastball,56.6%
+622663,Slider,26.9%
+622663,Changeup,16.4%
+596057,4-Seam Fastball,47.6%
+596057,Changeup,30.6%
+596057,Slider,21.6%
+596057,Curveball,0.2%
+592767,4-Seam Fastball,45.6%
+592767,Curveball,36.5%
+592767,Cutter,17.8%
+622783,Changeup,50%
+622783,4-Seam Fastball,50%
+516769,4-Seam Fastball,42.6%
+516769,Slider,24.8%
+516769,Cutter,12.9%
+516769,Curveball,7.9%
+516769,Sinker,7.9%
+516769,Changeup,4%
+597113,4-Seam Fastball,62.8%
+597113,Curveball,36.2%
+597113,Cutter,0.8%
+597113,Changeup,0.2%
+519455,Slider,30.6%
+519455,4-Seam Fastball,30.6%
+519455,Sinker,23.1%
+519455,Curveball,10.2%
+519455,Changeup,5.6%
+453580,NA,NA
+446372,Sinker,44.4%
+446372,Curveball,27.8%
+446372,Cutter,16.7%
+446372,4-Seam Fastball,5.6%
+446372,Changeup,5.6%
+518886,4-Seam Fastball,62.3%
+518886,Curveball,37.7%
+499107,NA,NA
+134268,NA,NA
+595345,Slider,38.7%
+595345,4-Seam Fastball,25.8%
+595345,Sinker,16.1%
+595345,Curveball,11.8%
+595345,Changeup,7.5%
+446321,Slider,30.5%
+446321,Sinker,29.3%
+446321,4-Seam Fastball,27.7%
+446321,Changeup,9.3%
+446321,Curveball,3.2%
+670329,4-Seam Fastball,55.9%
+670329,Changeup,31.6%
+670329,Curveball,11.9%
+670329,Cutter,0.6%
+465679,Cutter,38.7%
+465679,Curveball,37.6%
+465679,4-Seam Fastball,15.8%
+465679,Changeup,7.9%
+502085,Cutter,52.9%
+502085,Curveball,22.1%
+502085,Slider,20.6%
+502085,4-Seam Fastball,4.4%
+608723,4-Seam Fastball,61%
+608723,Curveball,23.5%
+608723,Cutter,12.4%
+608723,Split Finger,3.1%
+150302,Sinker,59.4%
+150302,Changeup,21.2%
+150302,Slider,19.4%
+434619,NA,NA
+595411,Sinker,80.2%
+595411,Slider,17.5%
+595411,Changeup,2.4%
+430942,NA,NA
+670426,4-Seam Fastball,52.6%
+670426,Slider,44%
+670426,Sinker,2.6%
+670426,Changeup,0.9%
+457915,4-Seam Fastball,67.1%
+457915,Slider,16.8%
+457915,Curveball,8.4%
+457915,Changeup,7.7%
+453214,Knuckleball,85.5%
+453214,Sinker,7.9%
+453214,Curveball,3.9%
+453214,4-Seam Fastball,2.6%
+658305,4-Seam Fastball,52.9%
+658305,Slider,42.6%
+658305,Curveball,1.5%
+658305,Changeup,1.5%
+658305,Sinker,1.5%
+640451,4-Seam Fastball,75.9%
+640451,Curveball,14.5%
+640451,Changeup,7.6%
+640451,Sinker,2.1%
+607359,4-Seam Fastball,58.6%
+607359,Slider,31.5%
+607359,Sinker,5.6%
+607359,Changeup,4.3%
+623451,4-Seam Fastball,43.1%
+623451,Sinker,23.3%
+623451,Curveball,15.3%
+623451,Slider,15.3%
+623451,Changeup,3.1%
+543261,Curveball,47.6%
+543261,4-Seam Fastball,33.3%
+543261,Slider,9.5%
+543261,Sinker,9.5%
+548357,Sinker,46%
+548357,Changeup,25.5%
+548357,Curveball,15.5%
+548357,Slider,13%
+608032,4-Seam Fastball,61.5%
+608032,Slider,26.1%
+608032,Changeup,12.4%
+110683,NA,NA
+596720,4-Seam Fastball,46.9%
+596720,Curveball,33.8%
+596720,Cutter,19.3%
+506433,Cutter,43.6%
+506433,Slider,15.2%
+506433,4-Seam Fastball,14.7%
+506433,Curveball,12.1%
+506433,Sinker,9.5%
+506433,Split Finger,4.9%
+547939,NA,NA
+622491,Changeup,30%
+622491,4-Seam Fastball,27.1%
+622491,Sinker,25.2%
+622491,Slider,17.7%
+456501,4-Seam Fastball,32.2%
+456501,Changeup,26.9%
+456501,Curveball,19.8%
+456501,Sinker,11.5%
+456501,Slider,9.5%
+572020,4-Seam Fastball,56.7%
+572020,Curveball,15.7%
+572020,Cutter,14.9%
+572020,Changeup,12.6%
+606160,4-Seam Fastball,47.8%
+606160,Sinker,24.2%
+606160,Changeup,20.8%
+606160,Slider,7.3%
+534576,NA,NA
+650644,Sinker,28.9%
+650644,Cutter,28.7%
+650644,Curveball,21.2%
+650644,Slider,9.5%
+650644,Changeup,9.2%
+650644,4-Seam Fastball,2.5%
+502260,4-Seam Fastball,65%
+502260,Slider,20.4%
+502260,Sinker,14.6%
+592665,4-Seam Fastball,67.6%
+592665,Slider,29.4%
+592665,Sinker,3%
+461872,Slider,59.4%
+461872,4-Seam Fastball,35.9%
+461872,Sinker,4.7%
+542289,Changeup,35.8%
+542289,4-Seam Fastball,32.8%
+542289,Slider,17.9%
+542289,Sinker,13.4%
+592879,4-Seam Fastball,46%
+592879,Curveball,26.9%
+592879,Slider,21.8%
+592879,Changeup,5.3%
+543136,NA,NA
+448287,NA,NA
+276542,4-Seam Fastball,49.1%
+276542,Changeup,27.9%
+276542,Slider,12.5%
+276542,Sinker,10.3%
+276542,Curveball,0.1%
+571584,4-Seam Fastball,57.9%
+571584,Slider,30.3%
+571584,Curveball,11.6%
+571584,Sinker,0.2%
+594792,4-Seam Fastball,38.3%
+594792,Slider,33.3%
+594792,Sinker,21.7%
+594792,Changeup,6.7%
+611093,Changeup,47.6%
+611093,4-Seam Fastball,42.9%
+611093,Slider,9.5%
+445060,Sinker,29.6%
+445060,Slider,26.1%
+445060,4-Seam Fastball,19.6%
+445060,Split Finger,15.1%
+445060,Curveball,9.5%
+476601,NA,NA
+622505,Sinker,75%
+622505,Changeup,15.9%
+622505,Slider,9.2%
+669214,4-Seam Fastball,54.4%
+669214,Curveball,21.9%
+669214,Slider,21.3%
+669214,Changeup,2.4%
+502304,4-Seam Fastball,58%
+502304,Slider,37.7%
+502304,Changeup,4.3%
+435140,NA,NA
+457812,NA,NA
+606930,Cutter,52.4%
+606930,4-Seam Fastball,46.6%
+606930,Changeup,1%
+607473,Slider,36.3%
+607473,4-Seam Fastball,34.7%
+607473,Sinker,17.3%
+607473,Changeup,11.7%
+519076,Sinker,28.3%
+519076,Slider,27%
+519076,4-Seam Fastball,23.8%
+519076,Curveball,20.1%
+519076,Changeup,0.7%
+641729,4-Seam Fastball,62.2%
+641729,Slider,30.6%
+641729,Changeup,7.2%
+542609,4-Seam Fastball,60.9%
+542609,Slider,36.3%
+542609,Changeup,2.7%
+542609,Sinker,0.1%
+573109,Cutter,31.8%
+573109,4-Seam Fastball,28.8%
+573109,Changeup,15.2%
+573109,Slider,15.2%
+573109,Sinker,9.1%
+594772,4-Seam Fastball,42%
+594772,Slider,27%
+594772,Curveball,11.5%
+594772,Changeup,9.7%
+594772,Sinker,9.7%
+572788,4-Seam Fastball,48.3%
+572788,Slider,17.7%
+572788,Changeup,14.1%
+572788,Sinker,13.9%
+572788,Curveball,6%
+657228,4-Seam Fastball,37.9%
+657228,Slider,35.7%
+657228,Changeup,14.6%
+657228,Sinker,11.9%
+277417,NA,NA
+464400,NA,NA
+642770,Sinker,67.7%
+642770,Slider,27.2%
+642770,Changeup,4.7%
+642770,4-Seam Fastball,0.4%
+628452,4-Seam Fastball,38.2%
+628452,Slider,33.2%
+628452,Changeup,20.8%
+628452,Sinker,7.8%
+642152,4-Seam Fastball,31.4%
+642152,Sinker,28.1%
+642152,Cutter,23.2%
+642152,Curveball,10.5%
+642152,Changeup,6.8%
+451661,4-Seam Fastball,72.8%
+451661,Curveball,21.2%
+451661,Changeup,6%
+669060,4-Seam Fastball,46%
+669060,Slider,18.8%
+669060,Sinker,16.9%
+669060,Changeup,11.5%
+669060,Curveball,6.7%
+434638,NA,NA
+430589,Sinker,70.5%
+430589,Slider,28.7%
+430589,4-Seam Fastball,0.8%
+641154,4-Seam Fastball,32.2%
+641154,Changeup,29.9%
+641154,Sinker,22.5%
+641154,Cutter,8.4%
+641154,Curveball,7%
+656954,Sinker,47.4%
+656954,Slider,33.5%
+656954,Changeup,18.4%
+656954,4-Seam Fastball,0.7%
+434538,Sinker,35.1%
+434538,Slider,30.4%
+434538,Changeup,26%
+434538,4-Seam Fastball,8.5%
+607555,Sinker,57.7%
+607555,Changeup,25.4%
+607555,Slider,16.2%
+607555,4-Seam Fastball,0.8%
+594736,4-Seam Fastball,43%
+594736,Changeup,37.3%
+594736,Curveball,18.7%
+594736,Cutter,1%
+594311,4-Seam Fastball,48.7%
+594311,Slider,28.4%
+594311,Sinker,22.9%
+453307,4-Seam Fastball,47.2%
+453307,Changeup,21.3%
+453307,Cutter,21.3%
+453307,Slider,10.2%
+448165,NA,NA
+458250,NA,NA
+656977,4-Seam Fastball,54.3%
+656977,Slider,37%
+656977,Cutter,7.4%
+656977,Changeup,1.2%
+573185,4-Seam Fastball,52.2%
+573185,Changeup,24.1%
+573185,Slider,20%
+573185,Curveball,3.5%
+573185,Sinker,0.2%
+453156,Sinker,54%
+453156,Changeup,33%
+453156,Slider,10.5%
+453156,Curveball,2.4%
+519411,4-Seam Fastball,70.2%
+519411,Curveball,19.3%
+519411,Changeup,8.8%
+519411,Sinker,1.8%
+543698,Sinker,84.3%
+543698,Curveball,15.7%
+518567,Cutter,52.3%
+518567,Changeup,34%
+518567,Curveball,11.8%
+518567,4-Seam Fastball,2%
+430636,NA,NA
+622554,4-Seam Fastball,59.7%
+622554,Slider,34.1%
+622554,Changeup,4.7%
+622554,Sinker,1.5%
+449161,NA,NA
+642073,Slider,50.9%
+642073,4-Seam Fastball,36.4%
+642073,Curveball,6.3%
+642073,Changeup,6.3%
+543805,NA,NA
+461325,Changeup,34.6%
+461325,Split Finger,20.4%
+461325,Sinker,19.7%
+461325,4-Seam Fastball,18.3%
+461325,Curveball,7%
+608566,4-Seam Fastball,37.8%
+608566,Curveball,25%
+608566,Slider,17.4%
+608566,Sinker,14.4%
+608566,Changeup,5.3%
+641771,Sinker,42.1%
+641771,Slider,34.5%
+641771,Curveball,17.6%
+641771,Changeup,4.2%
+641771,4-Seam Fastball,1.6%
+543272,Slider,50.7%
+543272,4-Seam Fastball,35.5%
+543272,Sinker,12.4%
+543272,Curveball,1.4%
+657610,Changeup,36.8%
+657610,Sinker,31.9%
+657610,Slider,26.1%
+657610,4-Seam Fastball,5.2%
+571825,NA,NA
+571963,Cutter,52.6%
+571963,4-Seam Fastball,28.1%
+571963,Slider,19.3%
+429901,NA,NA
+444836,Cutter,42.6%
+444836,4-Seam Fastball,31.7%
+444836,Sinker,16.8%
+444836,Slider,5%
+444836,Changeup,4%
+469690,NA,NA
+605156,Sinker,28%
+605156,4-Seam Fastball,25.7%
+605156,Slider,22.4%
+605156,Changeup,20.6%
+605156,Curveball,3.3%
+571539,Sinker,57.8%
+571539,Cutter,21.1%
+571539,Forkball,19.5%
+571539,Changeup,1.6%
+448179,Curveball,45.6%
+448179,4-Seam Fastball,44.3%
+448179,Slider,3.7%
+448179,Cutter,3.6%
+448179,Sinker,2.6%
+448179,Changeup,0.3%
+408072,NA,NA
+543294,Sinker,34.4%
+543294,Changeup,28.9%
+543294,4-Seam Fastball,20.1%
+543294,Curveball,16.6%
+430641,Slider,41%
+430641,4-Seam Fastball,31.3%
+430641,Sinker,18.4%
+430641,Curveball,9%
+430641,Changeup,0.2%
+592390,4-Seam Fastball,57.9%
+592390,Slider,32.5%
+592390,Curveball,9.6%
+607216,Slider,44.9%
+607216,Sinker,34.7%
+607216,4-Seam Fastball,18.4%
+607216,Changeup,2%
+446264,NA,NA
+572888,Sinker,37.7%
+572888,Cutter,25.4%
+572888,Slider,21.9%
+572888,Changeup,13.3%
+572888,4-Seam Fastball,1.8%
+592533,4-Seam Fastball,34%
+592533,Curveball,26%
+592533,Sinker,16%
+592533,Cutter,14%
+592533,Changeup,10%
+452259,NA,NA
+641312,Slider,53.4%
+641312,4-Seam Fastball,38.6%
+641312,Changeup,6.9%
+641312,Sinker,1.1%
+448855,4-Seam Fastball,33.2%
+448855,Sinker,27.5%
+448855,Curveball,21.8%
+448855,Split Finger,17.6%
+449060,NA,NA
+476454,4-Seam Fastball,49%
+476454,Curveball,41.1%
+476454,Slider,10%
+506606,NA,NA
+452737,NA,NA
+501925,Slider,41%
+501925,Sinker,31.1%
+501925,4-Seam Fastball,26.5%
+501925,Changeup,1.5%
+592340,4-Seam Fastball,49.8%
+592340,Changeup,32.7%
+592340,Curveball,16.8%
+592340,Sinker,0.6%
+408061,4-Seam Fastball,55.2%
+408061,Changeup,35.5%
+408061,Curveball,8.8%
+408061,Sinker,0.5%
+453344,4-Seam Fastball,72.7%
+453344,Cutter,15%
+453344,Slider,12.3%
+667498,4-Seam Fastball,42.5%
+667498,Slider,26.9%
+667498,Curveball,16.5%
+667498,Sinker,11.3%
+667498,Changeup,2.8%
+543243,Curveball,27.6%
+543243,Sinker,26.1%
+543243,4-Seam Fastball,25.8%
+543243,Slider,16.2%
+543243,Changeup,4.2%
+612434,Sinker,50.1%
+612434,Slider,31.2%
+612434,Changeup,18.7%
+441368,NA,NA
+605538,Slider,83.4%
+605538,4-Seam Fastball,16.6%
+669456,4-Seam Fastball,37.4%
+669456,Curveball,26.3%
+669456,Cutter,16.2%
+669456,Slider,11.6%
+669456,Changeup,8.5%
+407822,4-Seam Fastball,43.3%
+407822,Split Finger,40.3%
+407822,Cutter,12.1%
+407822,Curveball,4.3%
+407908,4-Seam Fastball,52.9%
+407908,Split Finger,29.9%
+407908,Curveball,17.2%
+518674,NA,NA
+538227,NA,NA
+542866,4-Seam Fastball,54.7%
+542866,Slider,39%
+542866,Changeup,6.3%
+554234,Sinker,74.4%
+554234,Curveball,15.6%
+554234,Changeup,10%
+282656,NA,NA
+456589,NA,NA
+134320,NA,NA
+644364,Slider,61.8%
+644364,4-Seam Fastball,22.1%
+644364,Sinker,16.2%
+456713,4-Seam Fastball,55.6%
+456713,Curveball,23.2%
+456713,Cutter,12.3%
+456713,Sinker,8.9%
+594965,4-Seam Fastball,61.1%
+594965,Curveball,21.7%
+594965,Cutter,13.3%
+594965,Changeup,3.9%
+622103,4-Seam Fastball,59.6%
+622103,Slider,24.2%
+622103,Sinker,14.4%
+622103,Curveball,1.7%
+435045,4-Seam Fastball,52.6%
+435045,Slider,37.2%
+435045,Changeup,8.9%
+435045,Cutter,1.2%
+446624,NA,NA
+519263,Sinker,48.3%
+519263,Changeup,37.9%
+519263,4-Seam Fastball,8.6%
+519263,Curveball,5.2%
+605333,4-Seam Fastball,82.9%
+605333,Changeup,10.5%
+605333,Curveball,6.7%
+520980,4-Seam Fastball,42.2%
+520980,Changeup,35.9%
+520980,Slider,21.9%
+641427,4-Seam Fastball,60.7%
+641427,Curveball,34.7%
+641427,Sinker,3.4%
+641427,Changeup,1.3%
+467856,NA,NA
+519008,Sinker,59.8%
+519008,Slider,23.6%
+519008,Changeup,16.6%
+572021,Sinker,68.7%
+572021,Slider,27.5%
+572021,Changeup,3.8%
+136880,NA,NA
+232994,NA,NA
+517060,NA,NA
+461766,NA,NA
+608717,4-Seam Fastball,46.4%
+608717,Slider,26.7%
+608717,Curveball,17%
+608717,Changeup,9.9%
+430606,NA,NA
+657566,4-Seam Fastball,45.9%
+657566,Cutter,37%
+657566,Curveball,13.8%
+657566,Changeup,3.4%
+519229,Sinker,51.9%
+519229,Slider,40.4%
+519229,Changeup,3.8%
+519229,4-Seam Fastball,3.8%
+458550,NA,NA
+425426,Sinker,74.1%
+425426,Slider,10.1%
+425426,4-Seam Fastball,10.1%
+425426,Split Finger,4.6%
+425426,Curveball,1.1%
+429722,Slider,42.4%
+429722,4-Seam Fastball,41.2%
+429722,Sinker,10.4%
+429722,Changeup,6%
+606303,4-Seam Fastball,49.2%
+606303,Slider,32.2%
+606303,Sinker,13.6%
+606303,Changeup,5.1%
+623381,4-Seam Fastball,61.7%
+623381,Curveball,22.9%
+623381,Changeup,15.4%
+623381,Slider,0.1%
+433657,NA,NA
+453249,Curveball,48.8%
+453249,Sinker,47.8%
+453249,4-Seam Fastball,3%
+453249,Changeup,0.4%
+491624,Changeup,83.2%
+491624,Sinker,9.4%
+491624,4-Seam Fastball,6.3%
+491624,Slider,1%
+594760,Sinker,45.9%
+594760,Slider,24.3%
+594760,Changeup,12.2%
+594760,Curveball,10.8%
+594760,4-Seam Fastball,6.8%
+622766,4-Seam Fastball,52.9%
+622766,Slider,22.5%
+622766,Changeup,12.7%
+622766,Curveball,11.8%
+450308,4-Seam Fastball,28.9%
+450308,Sinker,20.6%
+450308,Changeup,17.8%
+450308,Curveball,17.6%
+450308,Slider,15.1%
+622864,Sinker,59.4%
+622864,Slider,28.8%
+622864,4-Seam Fastball,6.1%
+622864,Changeup,5.8%
+642232,Cutter,36%
+642232,Changeup,30%
+642232,Sinker,23.4%
+642232,Curveball,10.7%
+542674,4-Seam Fastball,55.6%
+542674,Changeup,32.6%
+542674,Slider,7%
+542674,Sinker,4.8%
+450306,Changeup,35.1%
+450306,4-Seam Fastball,27.6%
+450306,Sinker,22.2%
+450306,Curveball,15.2%
+543867,4-Seam Fastball,55.5%
+543867,Curveball,44.5%
+676606,4-Seam Fastball,64.1%
+676606,Slider,16.1%
+676606,Curveball,11.5%
+676606,Changeup,8.4%
+596064,4-Seam Fastball,56.4%
+596064,Changeup,29.9%
+596064,Curveball,10.6%
+596064,Slider,3.1%
+429780,Sinker,32.5%
+429780,Changeup,28.6%
+429780,Cutter,27.8%
+429780,Curveball,8.7%
+429780,4-Seam Fastball,2.4%
+502136,NA,NA
+664353,4-Seam Fastball,54.5%
+664353,Changeup,20.5%
+664353,Slider,13.1%
+664353,Curveball,11.9%
+543557,Cutter,29.9%
+543557,4-Seam Fastball,22.7%
+543557,Changeup,21.6%
+543557,Sinker,15.5%
+543557,Curveball,10.3%
+457754,4-Seam Fastball,51%
+457754,Slider,40.6%
+457754,Curveball,8.4%
+425856,4-Seam Fastball,38.6%
+425856,Curveball,34%
+425856,Sinker,15.6%
+425856,Cutter,10.1%
+425856,Changeup,1.7%
+458155,NA,NA
+621107,Sinker,51.6%
+621107,Slider,20.3%
+621107,Curveball,13.1%
+621107,4-Seam Fastball,9.6%
+621107,Changeup,5.4%
+448281,4-Seam Fastball,81.9%
+448281,Slider,12.6%
+448281,Split Finger,5.5%
+572403,Sinker,40%
+572403,Slider,30.4%
+572403,Curveball,16.4%
+572403,4-Seam Fastball,12.6%
+572403,Changeup,0.6%
+594835,Sinker,45.2%
+594835,Cutter,24.4%
+594835,Curveball,16.1%
+594835,Changeup,14.3%
+608328,4-Seam Fastball,46.9%
+608328,Curveball,24.5%
+608328,Slider,21.7%
+608328,Changeup,7%
+606965,Changeup,42.9%
+606965,4-Seam Fastball,38.5%
+606965,Slider,18.7%
+450852,NA,NA
+640463,4-Seam Fastball,36.6%
+640463,Curveball,30.5%
+640463,Changeup,22%
+640463,Sinker,11%
+434298,NA,NA
+571572,4-Seam Fastball,43.4%
+571572,Sinker,31.9%
+571572,Slider,13.7%
+571572,Changeup,7.1%
+571572,Curveball,3.8%
+519144,Sinker,42.6%
+519144,Slider,29.2%
+519144,Changeup,12.6%
+519144,4-Seam Fastball,10.5%
+519144,Curveball,5.1%
+571945,4-Seam Fastball,27.4%
+571945,Sinker,23.8%
+571945,Slider,23.6%
+571945,Curveball,21.4%
+571945,Changeup,3.9%
+518489,4-Seam Fastball,58.3%
+518489,Slider,33%
+518489,Changeup,5%
+518489,Sinker,3.8%
+471183,NA,NA
+519240,Sinker,54%
+519240,Slider,37.1%
+519240,Changeup,8.9%
+457732,4-Seam Fastball,59.1%
+457732,Cutter,34.1%
+457732,Curveball,6.8%
+430629,NA,NA
+458589,NA,NA
+543409,4-Seam Fastball,75%
+543409,Slider,17.5%
+543409,Sinker,7.5%
+476589,Slider,47.2%
+476589,4-Seam Fastball,30.6%
+476589,Changeup,17.8%
+476589,Curveball,4.1%
+476589,Sinker,0.2%
+592593,4-Seam Fastball,52.8%
+592593,Changeup,20.3%
+592593,Curveball,16.9%
+592593,Cutter,10%
+571948,Sinker,53.8%
+571948,Curveball,44.1%
+571948,Changeup,2%
+429984,NA,NA
+453192,Slider,60%
+453192,4-Seam Fastball,30.2%
+453192,Sinker,9.8%
+595032,4-Seam Fastball,55%
+595032,Changeup,35%
+595032,Slider,10%
+467726,NA,NA
+613534,Slider,83.8%
+613534,4-Seam Fastball,16.2%
+458003,NA,NA
+502028,Slider,47.7%
+502028,4-Seam Fastball,30.6%
+502028,Sinker,16.6%
+502028,Split Finger,5.2%
+608334,4-Seam Fastball,54.3%
+608334,Changeup,22.9%
+608334,Cutter,11.7%
+608334,Curveball,11.2%
+429783,4-Seam Fastball,63.1%
+429783,Slider,17.2%
+429783,Changeup,12%
+429783,Cutter,7.7%
+276514,4-Seam Fastball,62%
+276514,Split Finger,15%
+276514,Cutter,11.7%
+276514,Curveball,11.3%
+592181,Sinker,69.3%
+592181,Slider,28.9%
+592181,4-Seam Fastball,1.8%
+453264,Sinker,66.7%
+453264,Curveball,13.1%
+453264,4-Seam Fastball,10.7%
+453264,Changeup,9.5%
+457918,4-Seam Fastball,44.3%
+457918,Sinker,22%
+457918,Slider,18.7%
+457918,Changeup,13.9%
+457918,Curveball,1.1%
+276520,Curveball,28.1%
+276520,4-Seam Fastball,23.6%
+276520,Slider,20.7%
+276520,Sinker,10.5%
+276520,Changeup,9.7%
+276520,Cutter,7.5%
+521230,4-Seam Fastball,70.8%
+521230,Slider,22.2%
+521230,Curveball,7%
+605195,Slider,54.8%
+605195,4-Seam Fastball,40%
+605195,Sinker,5.2%
+572831,4-Seam Fastball,44.6%
+572831,Slider,31.8%
+572831,Curveball,19.6%
+572831,Changeup,3%
+572831,Sinker,1%
+592761,4-Seam Fastball,51.3%
+592761,Slider,26.6%
+592761,Changeup,14.6%
+592761,Curveball,7.5%
+620454,4-Seam Fastball,64.7%
+620454,Slider,35.3%
+664871,4-Seam Fastball,67.4%
+664871,Slider,14.8%
+664871,Curveball,13.9%
+664871,Changeup,3.9%
+642701,Slider,46.1%
+642701,Sinker,34.5%
+642701,Changeup,15.1%
+642701,4-Seam Fastball,4.2%
+430941,NA,NA
+430654,NA,NA
+542369,NA,NA
+408241,Cutter,33.4%
+408241,4-Seam Fastball,27.1%
+408241,Sinker,17.4%
+408241,Curveball,14.6%
+408241,Changeup,6.8%
+408241,Slider,0.7%
+444935,4-Seam Fastball,74%
+444935,Cutter,16.5%
+444935,Slider,9.5%
+451990,NA,NA
+408230,NA,NA
+533167,Split Finger,32.5%
+533167,Sinker,25.6%
+533167,4-Seam Fastball,18.6%
+533167,Slider,18.4%
+533167,Curveball,4.9%
+451773,NA,NA
+434159,NA,NA
+607229,Sinker,45%
+607229,Slider,21.2%
+607229,4-Seam Fastball,19.1%
+607229,Changeup,7.2%
+607229,Curveball,6.8%
+607229,Cutter,0.7%
+453178,4-Seam Fastball,49.3%
+453178,Cutter,32.6%
+453178,Curveball,10.1%
+453178,Changeup,7.5%
+453178,Sinker,0.4%
+453265,Changeup,45%
+453265,Sinker,37.1%
+453265,Slider,13.9%
+453265,4-Seam Fastball,3.9%
+283166,NA,NA
+543634,NA,NA
+425492,4-Seam Fastball,40.8%
+425492,Changeup,21.8%
+425492,Sinker,21.5%
+425492,Curveball,12.6%
+425492,Cutter,3.2%
+592848,4-Seam Fastball,80%
+592848,Slider,13.3%
+592848,Changeup,6.7%
+444444,NA,NA
+605228,4-Seam Fastball,50.3%
+605228,Curveball,33.8%
+605228,Changeup,12.4%
+605228,Sinker,3.5%
+664192,Sinker,49.6%
+664192,Curveball,34.1%
+664192,Cutter,15.4%
+664192,Changeup,0.8%
+543056,Curveball,46%
+543056,4-Seam Fastball,38%
+543056,Slider,16%
+429720,NA,NA
+656288,4-Seam Fastball,40.7%
+656288,Curveball,23.8%
+656288,Slider,20.4%
+656288,Changeup,15%
+430638,NA,NA
+595191,4-Seam Fastball,36.7%
+595191,Curveball,31.5%
+595191,Slider,29.5%
+595191,Sinker,2.4%
+543456,Sinker,38.6%
+543456,4-Seam Fastball,28.5%
+543456,Cutter,18.4%
+543456,Changeup,7.6%
+543456,Curveball,6.9%
+434665,Sinker,56.8%
+434665,Curveball,19.4%
+434665,4-Seam Fastball,11.9%
+434665,Split Finger,6.5%
+434665,Cutter,5.4%
+571951,4-Seam Fastball,60.9%
+571951,Curveball,18.1%
+571951,Cutter,14.3%
+571951,Changeup,6.2%
+571951,Sinker,0.5%
+433589,4-Seam Fastball,42.5%
+433589,Cutter,28.6%
+433589,Changeup,18.1%
+433589,Curveball,10.8%
+455119,Sinker,40.4%
+455119,Slider,25.9%
+455119,Cutter,18.8%
+455119,Changeup,10.3%
+455119,4-Seam Fastball,4.6%
+429440,NA,NA
+670036,4-Seam Fastball,46.2%
+670036,Slider,39.4%
+670036,Curveball,7.3%
+670036,Sinker,6.3%
+670036,Cutter,0.8%
+474463,Sinker,40.6%
+474463,Changeup,23.9%
+474463,Cutter,11.8%
+474463,Slider,11%
+474463,Curveball,10.5%
+474463,4-Seam Fastball,2.1%
+458720,NA,NA
+435618,NA,NA
+650382,4-Seam Fastball,72.7%
+650382,Slider,24.4%
+650382,Curveball,2.8%
+434378,4-Seam Fastball,54.8%
+434378,Slider,37%
+434378,Changeup,6.8%
+434378,Curveball,1.4%
+519326,4-Seam Fastball,50.8%
+519326,Slider,41%
+519326,Sinker,6.6%
+519326,Changeup,1.6%
+446399,Curveball,36.7%
+446399,Sinker,19.7%
+446399,4-Seam Fastball,17.9%
+446399,Cutter,16.3%
+446399,Changeup,9.3%
+444520,Sinker,58.7%
+444520,Curveball,19.2%
+444520,Changeup,18.4%
+444520,4-Seam Fastball,3.7%
+502462,Slider,47.1%
+502462,4-Seam Fastball,28.6%
+502462,Sinker,13.1%
+502462,Curveball,11.2%
+594857,4-Seam Fastball,68.8%
+594857,Slider,31.2%
+593958,4-Seam Fastball,38.6%
+593958,Changeup,24.1%
+593958,Cutter,16.3%
+593958,Sinker,15.6%
+593958,Curveball,3.3%
+593958,Slider,2.1%
+501989,NA,NA
+430661,Slider,33.2%
+430661,4-Seam Fastball,31.7%
+430661,Sinker,28%
+430661,Changeup,7.1%
+501936,4-Seam Fastball,39.3%
+501936,Sinker,26.2%
+501936,Slider,19.7%
+501936,Changeup,14.8%
+571893,4-Seam Fastball,59.7%
+571893,Changeup,21.5%
+571893,Slider,18.8%
+622446,Sinker,39.7%
+622446,4-Seam Fastball,28.4%
+622446,Curveball,23%
+622446,Changeup,8.9%
+277405,NA,NA
+458708,Cutter,51%
+458708,Curveball,26.1%
+458708,4-Seam Fastball,18.4%
+458708,Changeup,4%
+458708,Sinker,0.5%
+596074,4-Seam Fastball,65.8%
+596074,Changeup,18.2%
+596074,Slider,15.1%
+596074,Curveball,0.9%
+573244,4-Seam Fastball,54.6%
+573244,Changeup,19.5%
+573244,Curveball,12.9%
+573244,Slider,12.6%
+573244,Sinker,0.3%
+458677,4-Seam Fastball,57.7%
+458677,Cutter,37.4%
+458677,Slider,3.5%
+458677,Sinker,1.4%
+656713,4-Seam Fastball,57.2%
+656713,Curveball,26.2%
+656713,Cutter,13%
+656713,Changeup,3.6%
+660761,Changeup,35.2%
+660761,4-Seam Fastball,34.1%
+660761,Curveball,13.6%
+660761,Sinker,11.4%
+660761,Slider,5.7%
+623149,4-Seam Fastball,59.7%
+623149,Slider,33.3%
+623149,Changeup,7%
+628317,Slider,38.6%
+628317,Changeup,29.4%
+628317,4-Seam Fastball,18.8%
+628317,Sinker,7.1%
+628317,Curveball,3.4%
+628317,Cutter,2.6%
+488768,4-Seam Fastball,45.3%
+488768,Changeup,27.9%
+488768,Slider,13.1%
+488768,Curveball,10.8%
+488768,Sinker,2.9%
+534910,Sinker,55.1%
+534910,Curveball,30.8%
+534910,Slider,12.7%
+534910,4-Seam Fastball,1.4%
+642003,Slider,49.6%
+642003,Sinker,39%
+642003,4-Seam Fastball,8.9%
+642003,Changeup,2.5%
+473646,NA,NA
+400010,NA,NA
+543699,4-Seam Fastball,31.6%
+543699,Sinker,22.9%
+543699,Slider,17.9%
+543699,Curveball,14.8%
+543699,Changeup,12.9%
+650893,4-Seam Fastball,50.4%
+650893,Curveball,30.5%
+650893,Changeup,13.1%
+650893,Sinker,6%
+150119,NA,NA
+650633,Sinker,59.4%
+650633,Curveball,19.6%
+650633,Changeup,14.9%
+650633,4-Seam Fastball,6.2%
+489265,Slider,64.8%
+489265,Sinker,12.8%
+489265,Changeup,11.6%
+489265,4-Seam Fastball,10.8%
+502139,NA,NA
+445213,Sinker,74.3%
+445213,Changeup,13.7%
+445213,Slider,10.5%
+445213,4-Seam Fastball,1.5%
+425883,NA,NA
+489567,NA,NA
+571666,4-Seam Fastball,31.6%
+571666,Slider,28.6%
+571666,Changeup,16%
+571666,Curveball,12.2%
+571666,Sinker,11.6%
+605476,Sinker,47.1%
+605476,Slider,43.7%
+605476,Changeup,6.5%
+605476,4-Seam Fastball,2.7%
+150035,NA,NA
+571946,4-Seam Fastball,68.6%
+571946,Curveball,24.4%
+571946,Cutter,3.6%
+571946,Changeup,2.3%
+571946,Sinker,1.2%
+643290,4-Seam Fastball,53.6%
+643290,Curveball,22.7%
+643290,Slider,16.5%
+643290,Changeup,6.2%
+643290,Sinker,1%
+592869,4-Seam Fastball,49.6%
+592869,Curveball,20.6%
+592869,Sinker,19.1%
+592869,Changeup,6.9%
+592869,Cutter,3.8%
+505447,NA,NA
+123801,NA,NA
+444382,NA,NA
+425794,Curveball,38.3%
+425794,Sinker,27.1%
+425794,Cutter,22.9%
+425794,4-Seam Fastball,9.2%
+425794,Changeup,2.5%
+462956,NA,NA
+523848,4-Seam Fastball,73.3%
+523848,Slider,18.3%
+523848,Changeup,8.4%
+228594,NA,NA
+493547,NA,NA
+594815,4-Seam Fastball,54.5%
+594815,Changeup,31.4%
+594815,Slider,10.5%
+594815,Curveball,3.1%
+594815,Sinker,0.5%
+460156,Slider,30.3%
+460156,4-Seam Fastball,26.4%
+460156,Split Finger,22.2%
+460156,Sinker,13.5%
+460156,Curveball,7.6%
+459967,Sinker,42.9%
+459967,Changeup,20.8%
+459967,Curveball,19.5%
+459967,4-Seam Fastball,13.2%
+459967,Slider,3.6%
+454537,NA,NA
+518764,Curveball,36.8%
+518764,Sinker,31.6%
+518764,Changeup,19.3%
+518764,4-Seam Fastball,7%
+518764,Slider,5.3%
+502102,NA,NA
+605400,Changeup,27.4%
+605400,Curveball,26.7%
+605400,4-Seam Fastball,25.3%
+605400,Sinker,20.7%
+592614,4-Seam Fastball,45.5%
+592614,Changeup,34%
+592614,Curveball,11.8%
+592614,Slider,8.3%
+592614,Sinker,0.5%
+444447,NA,NA
+453241,NA,NA
+582494,Sinker,48.8%
+582494,Slider,38.4%
+582494,Curveball,7.9%
+582494,Changeup,3%
+582494,4-Seam Fastball,1.8%
+461212,NA,NA
+475054,Slider,58.5%
+475054,Sinker,20.1%
+475054,Cutter,15.7%
+475054,4-Seam Fastball,5.7%
+595897,4-Seam Fastball,54.3%
+595897,Slider,43.5%
+595897,Curveball,2.2%
+430634,Sinker,64.8%
+430634,Slider,23.9%
+430634,Changeup,11.4%
+621249,4-Seam Fastball,43%
+621249,Changeup,28.4%
+621249,Curveball,23%
+621249,Sinker,3.3%
+621249,Slider,2.4%
+643511,4-Seam Fastball,52.2%
+643511,Curveball,36.2%
+643511,Sinker,11.6%
+448178,4-Seam Fastball,61.7%
+448178,Curveball,34.4%
+448178,Changeup,3.9%
+435620,NA,NA
+543859,Sinker,32.5%
+543859,4-Seam Fastball,32.2%
+543859,Slider,29.5%
+543859,Cutter,5.8%
+477195,NA,NA
+477229,4-Seam Fastball,54.5%
+477229,Slider,27.3%
+477229,Changeup,18.2%
+544759,4-Seam Fastball,70.8%
+544759,Cutter,16.2%
+544759,Slider,10.4%
+544759,Changeup,1.9%
+544759,Sinker,0.8%
+607309,Sinker,39.8%
+607309,Slider,30.3%
+607309,4-Seam Fastball,19.6%
+607309,Changeup,5.6%
+607309,Curveball,4.8%
+605359,Changeup,38.6%
+605359,Curveball,31.6%
+605359,4-Seam Fastball,20.4%
+605359,Sinker,9.4%
+623406,4-Seam Fastball,32.5%
+623406,Sinker,25.8%
+623406,Curveball,23.3%
+623406,Cutter,8.3%
+623406,Slider,7.5%
+623406,Split Finger,2.5%
+664042,Cutter,40.9%
+664042,4-Seam Fastball,33.6%
+664042,Curveball,22.3%
+664042,Changeup,3.2%
+518445,4-Seam Fastball,34.1%
+518445,Slider,30.1%
+518445,Cutter,21.1%
+518445,Sinker,10.6%
+518445,Changeup,4.1%
+572140,4-Seam Fastball,50.4%
+572140,Curveball,33.7%
+572140,Changeup,15.9%
+276530,NA,NA
+489150,NA,NA
+605130,Slider,41.8%
+605130,4-Seam Fastball,36.5%
+605130,Curveball,21.5%
+605130,Sinker,0.2%
+445590,4-Seam Fastball,31.3%
+445590,Slider,25.6%
+445590,Changeup,19.9%
+445590,Sinker,19.3%
+445590,Curveball,3.9%
+502087,Sinker,49%
+502087,Slider,28.6%
+502087,Changeup,14.3%
+502087,Curveball,8.2%
+660875,Sinker,69.6%
+660875,Changeup,16.5%
+660875,4-Seam Fastball,7.6%
+660875,Slider,6.3%
+527054,Sinker,34.4%
+527054,4-Seam Fastball,25.9%
+527054,Slider,19.1%
+527054,Changeup,11.2%
+527054,Curveball,9.4%
+285079,Knuckleball,80.8%
+285079,4-Seam Fastball,17.5%
+285079,Eephus,1.7%
+608638,Slider,58.8%
+608638,Sinker,32%
+608638,4-Seam Fastball,9.3%
+642397,Sinker,75.1%
+642397,Slider,20.3%
+642397,4-Seam Fastball,4.6%
+657053,4-Seam Fastball,36%
+657053,Curveball,28.9%
+657053,Split Finger,20.4%
+657053,Slider,9.6%
+657053,Sinker,5.1%
+448656,NA,NA
+623167,4-Seam Fastball,58.4%
+623167,Slider,21.9%
+623167,Changeup,12.8%
+623167,Curveball,3.6%
+623167,Sinker,3.3%
+592704,NA,NA
+543809,NA,NA
+543391,4-Seam Fastball,37.4%
+543391,Curveball,24.9%
+543391,Sinker,16.1%
+543391,Changeup,10.8%
+543391,Slider,10.8%
+571439,4-Seam Fastball,65.2%
+571439,Slider,22.8%
+571439,Changeup,12%
+459983,NA,NA
+592769,4-Seam Fastball,61.5%
+592769,Changeup,32.1%
+592769,Slider,6.4%
+592127,4-Seam Fastball,49.2%
+592127,Slider,22%
+592127,Changeup,16.7%
+592127,Sinker,8.3%
+592127,Curveball,3.8%
+572750,4-Seam Fastball,34.1%
+572750,Sinker,29.6%
+572750,Changeup,12.4%
+572750,Cutter,12.4%
+572750,Curveball,11.5%
+570810,4-Seam Fastball,35.6%
+570810,Changeup,27.1%
+570810,Curveball,23.3%
+570810,Sinker,14%
+467850,NA,NA
+488984,Sinker,41.7%
+488984,Cutter,33.2%
+488984,Curveball,23.2%
+488984,4-Seam Fastball,2%
+430664,NA,NA
+446213,NA,NA
+542914,Sinker,54%
+542914,Slider,39%
+542914,Split Finger,6.8%
+542914,4-Seam Fastball,0.3%
+622774,4-Seam Fastball,41.6%
+622774,Curveball,24.7%
+622774,Slider,19.5%
+622774,Sinker,14.3%
+571760,4-Seam Fastball,57.8%
+571760,Curveball,24.8%
+571760,Changeup,17.4%
+543754,NA,NA
+429985,NA,NA
+599998,4-Seam Fastball,47.3%
+599998,Slider,46.9%
+599998,Changeup,3.5%
+599998,Sinker,2.2%
+453222,Sinker,58.1%
+453222,Changeup,16.3%
+453222,Slider,14%
+453222,4-Seam Fastball,7%
+453222,Curveball,4.7%
+449104,4-Seam Fastball,81.9%
+449104,Slider,18.1%
+570649,Sinker,31.3%
+570649,Curveball,25.3%
+570649,4-Seam Fastball,23.2%
+570649,Changeup,18.5%
+570649,Cutter,1.6%
+661255,4-Seam Fastball,54.7%
+661255,Slider,45.3%
+502162,4-Seam Fastball,76.1%
+502162,Curveball,18.2%
+502162,Changeup,5.7%
+542888,Cutter,46%
+542888,4-Seam Fastball,43%
+542888,Slider,11%
+452657,Cutter,31.8%
+452657,4-Seam Fastball,27.8%
+452657,Sinker,14.1%
+452657,Changeup,13.5%
+452657,Curveball,12.8%
+516589,Sinker,35.1%
+516589,Cutter,32%
+516589,Curveball,12.2%
+516589,4-Seam Fastball,10.2%
+516589,Slider,7.6%
+516589,Changeup,2.8%
+276056,NA,NA
+407296,NA,NA
+218596,Sinker,47.3%
+218596,Cutter,22.8%
+218596,Curveball,11.6%
+218596,Split Finger,11.2%
+218596,4-Seam Fastball,7%
+234194,4-Seam Fastball,58.5%
+234194,Sinker,24.6%
+234194,Slider,13.6%
+234194,Changeup,3.4%
+605396,4-Seam Fastball,68%
+605396,Curveball,24.3%
+605396,Slider,5.8%
+605396,Changeup,1.9%
+623433,4-Seam Fastball,64.1%
+623433,Curveball,35%
+623433,Sinker,0.8%
+592254,Sinker,69.3%
+592254,Changeup,22.1%
+592254,Slider,8.6%
+608371,4-Seam Fastball,48.1%
+608371,Curveball,31.9%
+608371,Slider,18.5%
+608371,Changeup,1.5%
+460072,NA,NA
+467785,4-Seam Fastball,60.5%
+467785,Slider,20.8%
+467785,Sinker,12.6%
+467785,Changeup,6.1%
+543548,4-Seam Fastball,42.8%
+543548,Changeup,39%
+543548,Slider,11.5%
+543548,Curveball,4.2%
+543548,Sinker,2.6%
+573589,Sinker,41.6%
+573589,Slider,25.1%
+573589,Curveball,16.5%
+573589,4-Seam Fastball,10.9%
+573589,Changeup,5.9%
+622786,Sinker,62.5%
+622786,Curveball,22.2%
+622786,Slider,9.7%
+622786,4-Seam Fastball,5.6%
+592741,4-Seam Fastball,51.2%
+592741,Split Finger,40.8%
+592741,Slider,8.1%
+432934,Slider,56.5%
+432934,4-Seam Fastball,42.7%
+432934,Changeup,0.7%
+622382,Changeup,38.4%
+622382,4-Seam Fastball,36.5%
+622382,Slider,19.3%
+622382,Sinker,5.6%
+622382,Curveball,0.2%
+621052,4-Seam Fastball,48.8%
+621052,Slider,18.7%
+621052,Curveball,16.8%
+621052,Sinker,11.7%
+621052,Changeup,4.1%
+572971,Sinker,32.3%
+572971,Cutter,30.9%
+572971,Changeup,27.9%
+572971,Slider,6.6%
+572971,4-Seam Fastball,2.3%
+543964,Slider,39.3%
+543964,Sinker,33.2%
+543964,4-Seam Fastball,27.3%
+543964,Curveball,0.2%
+571858,4-Seam Fastball,60.2%
+571858,Changeup,23.9%
+571858,Slider,15.9%
+572193,Cutter,43.6%
+572193,Sinker,31.7%
+572193,4-Seam Fastball,14.4%
+572193,Slider,5.1%
+572193,Changeup,5.1%
+670280,4-Seam Fastball,59.3%
+670280,Split Finger,26.3%
+670280,Curveball,14.4%
+605164,4-Seam Fastball,33.6%
+605164,Slider,25%
+605164,Changeup,21.3%
+605164,Curveball,11.7%
+605164,Sinker,8.3%
+430681,NA,NA
+643615,Sinker,48.1%
+643615,Cutter,21.1%
+643615,Slider,15.7%
+643615,4-Seam Fastball,8.1%
+643615,Changeup,7%
+622694,4-Seam Fastball,58.9%
+622694,Slider,35.1%
+622694,Changeup,6%
+607162,4-Seam Fastball,49.6%
+607162,Changeup,20.2%
+607162,Slider,17.6%
+607162,Sinker,12.6%
+605151,4-Seam Fastball,59.8%
+605151,Curveball,22.5%
+605151,Changeup,11.6%
+605151,Sinker,6.2%
+465657,4-Seam Fastball,65.5%
+465657,Slider,19.9%
+465657,Changeup,9%
+465657,Curveball,5%
+465657,Cutter,0.5%
+621281,Cutter,34.5%
+621281,4-Seam Fastball,28.3%
+621281,Changeup,21.4%
+621281,Curveball,13.8%
+621281,Sinker,2.1%
+673633,Split Finger,54.4%
+673633,4-Seam Fastball,45.2%
+673633,Slider,0.4%
+499877,NA,NA
+519151,Slider,41.9%
+519151,4-Seam Fastball,37.1%
+519151,Curveball,21%
+656322,Sinker,31.3%
+656322,4-Seam Fastball,27.9%
+656322,Changeup,18.9%
+656322,Slider,13.8%
+656322,Cutter,5.7%
+656322,Curveball,2.4%
+450172,Sinker,41.7%
+450172,Changeup,30.6%
+450172,Curveball,18.5%
+450172,4-Seam Fastball,9.3%
+150249,NA,NA
+445163,4-Seam Fastball,47.6%
+445163,Cutter,25%
+445163,Curveball,15.2%
+445163,Slider,7.4%
+445163,Changeup,2.7%
+445163,Sinker,2%
+570240,Sinker,42%
+570240,Slider,30.4%
+570240,Changeup,21.1%
+570240,4-Seam Fastball,6.5%
+519175,NA,NA
+668683,Sinker,59.1%
+668683,Curveball,36%
+668683,4-Seam Fastball,3.7%
+668683,Changeup,1.2%
+644428,4-Seam Fastball,46.9%
+644428,Changeup,22.4%
+644428,Slider,16.3%
+644428,Curveball,14.3%
+452764,NA,NA
+115629,4-Seam Fastball,73.8%
+115629,Slider,16.1%
+115629,Changeup,8%
+115629,Sinker,1.6%
+115629,Curveball,0.5%
+543031,Sinker,31.5%
+543031,Cutter,28%
+543031,4-Seam Fastball,22.6%
+543031,Curveball,12.5%
+543031,Changeup,5.4%
+517414,Changeup,35.1%
+517414,4-Seam Fastball,28.2%
+517414,Sinker,25.2%
+517414,Curveball,9.9%
+517414,Slider,1.5%
+475115,Cutter,36.7%
+475115,4-Seam Fastball,34%
+475115,Slider,28.1%
+475115,Sinker,1.2%
+425562,NA,NA
+596112,Slider,65.9%
+596112,4-Seam Fastball,30.1%
+596112,Split Finger,4%
+554374,4-Seam Fastball,65.7%
+554374,Curveball,26.7%
+554374,Changeup,6.5%
+554374,Sinker,1.2%
+456662,NA,NA
+592865,Slider,54.8%
+592865,4-Seam Fastball,43.8%
+592865,Sinker,1.5%
+119469,NA,NA
+462515,Changeup,40.8%
+462515,4-Seam Fastball,40.8%
+462515,Slider,18.4%
+595798,Slider,37.4%
+595798,Sinker,26.7%
+595798,4-Seam Fastball,23.7%
+595798,Changeup,11.5%
+595798,Curveball,0.8%
+500674,NA,NA
+475095,NA,NA
+487675,Slider,71.7%
+487675,4-Seam Fastball,22%
+487675,Changeup,4.7%
+487675,Sinker,1.6%
+119215,NA,NA
+593969,4-Seam Fastball,49.4%
+593969,Cutter,23.2%
+593969,Changeup,19%
+593969,Curveball,8%
+593969,Sinker,0.4%
+592094,4-Seam Fastball,53.5%
+592094,Curveball,31.2%
+592094,Changeup,15.4%
+593833,Cutter,81.6%
+593833,Changeup,13.3%
+593833,Curveball,5.1%
+488683,NA,NA
+657277,4-Seam Fastball,33.7%
+657277,Changeup,30.8%
+657277,Slider,15.3%
+657277,Sinker,14.9%
+657277,Cutter,5.3%
+548384,Cutter,44.3%
+548384,Slider,18.8%
+548384,4-Seam Fastball,11.6%
+548384,Sinker,11.3%
+548384,Curveball,10.7%
+548384,Changeup,3.3%
+400291,NA,NA
+425835,4-Seam Fastball,61.1%
+425835,Slider,36.1%
+425835,Curveball,2.8%
+605194,4-Seam Fastball,33.8%
+605194,Slider,22.6%
+605194,Changeup,21.6%
+605194,Sinker,13.5%
+605194,Curveball,8.6%
+460657,NA,NA
+502165,NA,NA
+400104,NA,NA
+621345,Cutter,42.6%
+621345,4-Seam Fastball,38.8%
+621345,Changeup,18.6%
+642231,Sinker,65.4%
+642231,Changeup,25%
+642231,Slider,9.6%
+502033,NA,NA
+488674,Sinker,59.4%
+488674,Split Finger,25.1%
+488674,Slider,15.4%
+488674,4-Seam Fastball,0.1%
+641816,4-Seam Fastball,54.9%
+641816,Slider,32.4%
+641816,Split Finger,11.7%
+641816,Curveball,0.9%
+543208,Sinker,49.3%
+543208,Slider,23.9%
+543208,Curveball,20.9%
+543208,Changeup,4.5%
+543208,4-Seam Fastball,1.5%
+113296,NA,NA
+592145,4-Seam Fastball,45%
+592145,Slider,30%
+592145,Curveball,25%
+543901,Sinker,50.9%
+543901,Curveball,21.7%
+543901,Changeup,17.8%
+543901,Cutter,8.4%
+543901,4-Seam Fastball,1.2%
+463645,NA,NA
+622097,Changeup,28.5%
+622097,Slider,25.7%
+622097,4-Seam Fastball,24.3%
+622097,Sinker,21.5%
+592169,Curveball,37.3%
+592169,4-Seam Fastball,34.5%
+592169,Sinker,27%
+592169,Changeup,1.1%
+119984,NA,NA
+457779,Sinker,65%
+457779,Slider,27.5%
+457779,Changeup,7.5%
+518533,NA,NA
+456043,NA,NA
+471896,NA,NA
+501638,NA,NA
+407835,NA,NA
+445156,NA,NA
+501687,NA,NA
+453385,Sinker,56.9%
+453385,Slider,26%
+453385,4-Seam Fastball,15.4%
+453385,Changeup,1.8%
+462382,Sinker,59.3%
+462382,Curveball,27.4%
+462382,4-Seam Fastball,9%
+462382,Changeup,4.3%
+542432,4-Seam Fastball,62.6%
+542432,Changeup,26.5%
+542432,Slider,11%
+502253,NA,NA
+607030,Curveball,56.7%
+607030,Cutter,36.7%
+607030,4-Seam Fastball,6.7%
+518693,Sinker,43.1%
+518693,4-Seam Fastball,27.5%
+518693,Curveball,21.1%
+518693,Split Finger,8.3%
+543054,Sinker,57.1%
+543054,Curveball,13%
+543054,4-Seam Fastball,10.7%
+543054,Slider,10.3%
+543054,Changeup,8.5%
+543054,Cutter,0.4%
+446488,NA,NA
+605452,Sinker,38%
+605452,4-Seam Fastball,24.9%
+605452,Slider,20.7%
+605452,Curveball,9%
+605452,Changeup,7.6%
+608678,Slider,35.6%
+608678,Cutter,29.8%
+608678,4-Seam Fastball,20.9%
+608678,Sinker,13.6%
+460008,4-Seam Fastball,57.9%
+460008,Curveball,22.8%
+460008,Changeup,19.3%
+594902,4-Seam Fastball,51.9%
+594902,Curveball,44.4%
+594902,Sinker,3.7%
+642121,4-Seam Fastball,57.5%
+642121,Changeup,26%
+642121,Slider,16.6%
+476011,NA,NA
+605200,Sinker,42.2%
+605200,Changeup,41.3%
+605200,Cutter,13.6%
+605200,Curveball,2.8%
+592779,Sinker,48.8%
+592779,Slider,32.5%
+592779,Changeup,13.4%
+592779,4-Seam Fastball,5.3%
+592238,Sinker,58.7%
+592238,Slider,23.9%
+592238,Changeup,17.4%
+572119,Sinker,44.9%
+572119,Curveball,43.1%
+572119,Changeup,12%
+606424,4-Seam Fastball,48.6%
+606424,Slider,33.1%
+606424,Changeup,18.3%
+639373,4-Seam Fastball,62.9%
+639373,Slider,35.5%
+639373,Changeup,1.5%
+592644,4-Seam Fastball,50.2%
+592644,Slider,32.7%
+592644,Curveball,12.6%
+592644,Changeup,4.5%
+571510,4-Seam Fastball,50.3%
+571510,Slider,22.7%
+571510,Changeup,17.2%
+571510,Curveball,7.5%
+571510,Sinker,2.4%
+334492,NA,NA
+407297,NA,NA
+448614,Cutter,42.5%
+448614,4-Seam Fastball,24.7%
+448614,Curveball,15.1%
+448614,Sinker,12.3%
+448614,Slider,5.5%
+517451,NA,NA
+425848,NA,NA
+605488,Sinker,46.9%
+605488,Slider,27.2%
+605488,Changeup,25.9%
+451482,NA,NA
+669160,Sinker,51.4%
+669160,Cutter,24.6%
+669160,Curveball,13.4%
+669160,4-Seam Fastball,5.5%
+669160,Changeup,5.1%
+607352,Sinker,45.8%
+607352,4-Seam Fastball,17.8%
+607352,Curveball,17.8%
+607352,Changeup,10.2%
+607352,Cutter,8.5%
+656186,Slider,53.2%
+656186,4-Seam Fastball,46.8%
+570632,Sinker,41.7%
+570632,Slider,32.3%
+570632,4-Seam Fastball,18.9%
+570632,Changeup,7.1%
+460284,NA,NA
+570714,4-Seam Fastball,62.7%
+570714,Slider,24.5%
+570714,Curveball,4.8%
+570714,Changeup,3%
+570714,Cutter,2.8%
+570714,Sinker,2.2%
+457425,NA,NA
+150359,Sinker,50.1%
+150359,Curveball,29.4%
+150359,4-Seam Fastball,11.7%
+150359,Changeup,8.8%
+459411,NA,NA
+469802,NA,NA
+448200,NA,NA
+518865,NA,NA
+621111,4-Seam Fastball,53.8%
+621111,Curveball,16%
+621111,Cutter,14.3%
+621111,Sinker,8.7%
+621111,Slider,7.2%
+446454,NA,NA
+570666,Slider,54.4%
+570666,4-Seam Fastball,16.9%
+570666,Sinker,14.2%
+570666,Changeup,12.5%
+570666,Curveball,1.9%
+502032,Cutter,36.1%
+502032,Sinker,29.7%
+502032,4-Seam Fastball,26.5%
+502032,Slider,7.4%
+502032,Changeup,0.2%
+545333,4-Seam Fastball,40.9%
+545333,Cutter,19.7%
+545333,Slider,16.5%
+545333,Curveball,15.7%
+545333,Sinker,7%
+545333,Changeup,0.3%
+489334,Sinker,58.6%
+489334,Slider,20.7%
+489334,Curveball,12.2%
+489334,4-Seam Fastball,6.9%
+489334,Changeup,1.6%
+543271,NA,NA
+542266,4-Seam Fastball,57%
+542266,Curveball,17.2%
+542266,Sinker,13.5%
+542266,Changeup,12.3%
+430900,NA,NA
+444371,NA,NA
+543900,4-Seam Fastball,48.1%
+543900,Changeup,18.5%
+543900,Slider,18.5%
+543900,Sinker,14.8%
+502171,Sinker,47.5%
+502171,Split Finger,35.2%
+502171,Curveball,16.7%
+502171,4-Seam Fastball,0.6%
+475479,Cutter,26.9%
+475479,Curveball,26.6%
+475479,Sinker,24.1%
+475479,4-Seam Fastball,22.4%
+598271,4-Seam Fastball,36.5%
+598271,Curveball,34.6%
+598271,Slider,26.7%
+598271,Changeup,1.6%
+598271,Sinker,0.6%
+573166,4-Seam Fastball,66%
+573166,Changeup,19.1%
+573166,Curveball,10.6%
+573166,Slider,4.3%
+605177,4-Seam Fastball,38%
+605177,Sinker,35.3%
+605177,Slider,26.6%
+608648,Curveball,55.6%
+608648,4-Seam Fastball,42.5%
+608648,Sinker,2%
+543193,4-Seam Fastball,54.4%
+543193,Changeup,32.2%
+543193,Curveball,9.7%
+543193,Slider,3.7%
+592570,4-Seam Fastball,54.4%
+592570,Changeup,34.9%
+592570,Slider,10.7%
+571800,4-Seam Fastball,53.3%
+571800,Slider,31%
+571800,Changeup,11.5%
+571800,Sinker,4.3%
+499856,NA,NA
+623395,4-Seam Fastball,64%
+623395,Curveball,14.8%
+623395,Sinker,12%
+623395,Changeup,9.1%
+457447,NA,NA
+571786,NA,NA
+676220,Sinker,64.9%
+676220,Slider,35.1%
+282567,NA,NA
+451788,Cutter,33.7%
+451788,4-Seam Fastball,26.8%
+451788,Changeup,18.5%
+451788,Sinker,10.1%
+451788,Curveball,8%
+451788,Slider,2.9%
+213711,NA,NA
+543426,NA,NA
+657140,Sinker,31.7%
+657140,Slider,24.2%
+657140,4-Seam Fastball,16.7%
+657140,Changeup,14.4%
+657140,Curveball,13.1%
+502154,Sinker,80.3%
+502154,Slider,19.7%
+545064,Slider,42%
+545064,Sinker,36%
+545064,4-Seam Fastball,22%
+456899,NA,NA
+489294,4-Seam Fastball,50.5%
+489294,Curveball,49.5%
+592454,Changeup,65%
+592454,4-Seam Fastball,35%
+543652,Sinker,42.7%
+543652,Slider,23.4%
+543652,Changeup,12.6%
+543652,4-Seam Fastball,11.8%
+543652,Curveball,9.5%
+501852,NA,NA
+434884,NA,NA
+150407,NA,NA
+489119,Cutter,49.5%
+489119,Changeup,23.5%
+489119,Curveball,10.9%
+489119,4-Seam Fastball,10.9%
+489119,Sinker,3.9%
+489119,Slider,1.4%
+445197,Slider,44.9%
+445197,4-Seam Fastball,43.9%
+445197,Curveball,8.3%
+445197,Sinker,3%
+400067,NA,NA
+458094,NA,NA
+600968,Slider,42.4%
+600968,Sinker,40%
+600968,4-Seam Fastball,14.1%
+600968,Changeup,3.5%
+624133,Sinker,35.1%
+624133,4-Seam Fastball,25.5%
+624133,Slider,20.2%
+624133,Changeup,19.1%
+451216,NA,NA
+477132,4-Seam Fastball,41.1%
+477132,Slider,39.9%
+477132,Curveball,18.8%
+477132,Changeup,0.2%
+500872,4-Seam Fastball,70.9%
+500872,Curveball,16.9%
+500872,Slider,10.1%
+500872,Changeup,2%
+572125,Slider,59%
+572125,4-Seam Fastball,40.4%
+572125,Sinker,0.6%
+444884,NA,NA
+474699,Sinker,42.4%
+474699,Cutter,36.9%
+474699,4-Seam Fastball,13.5%
+474699,Curveball,6.8%
+474699,Changeup,0.5%
+641793,4-Seam Fastball,54.7%
+641793,Slider,34.2%
+641793,Changeup,11.1%
+592547,4-Seam Fastball,56.1%
+592547,Slider,21.4%
+592547,Curveball,12.4%
+592547,Changeup,9.8%
+592547,Sinker,0.3%
+445926,Sinker,39.7%
+445926,Cutter,33.8%
+445926,Slider,14.1%
+445926,4-Seam Fastball,7.2%
+445926,Changeup,5.2%
+488787,NA,NA
+544930,4-Seam Fastball,68.4%
+544930,Curveball,22.4%
+544930,Cutter,6.6%
+544930,Sinker,2.6%
+592826,4-Seam Fastball,52.8%
+592826,Curveball,16.2%
+592826,Changeup,14.3%
+592826,Slider,12%
+592826,Sinker,4.8%
+662253,4-Seam Fastball,66.1%
+662253,Slider,32.5%
+662253,Cutter,0.7%
+662253,Sinker,0.7%
+425532,Sinker,36%
+425532,Cutter,29.8%
+425532,Changeup,18%
+425532,4-Seam Fastball,12.8%
+425532,Slider,2.8%
+425532,Curveball,0.7%
+488776,NA,NA
+475243,4-Seam Fastball,46.9%
+475243,Cutter,20.3%
+475243,Sinker,9.7%
+475243,Slider,9.6%
+475243,Changeup,8.8%
+475243,Curveball,4.8%
+501992,4-Seam Fastball,62.6%
+501992,Curveball,19.8%
+501992,Changeup,17.6%
+660623,Slider,47.4%
+660623,4-Seam Fastball,42.6%
+660623,Changeup,9.7%
+660623,Sinker,0.3%
+605155,Cutter,43.5%
+605155,Curveball,32.8%
+605155,Slider,21.3%
+605155,4-Seam Fastball,1.6%
+605155,Sinker,0.8%
+621094,4-Seam Fastball,65.4%
+621094,Slider,26.9%
+621094,Split Finger,7.7%
+518790,Sinker,58.7%
+518790,Slider,18.1%
+518790,4-Seam Fastball,9.4%
+518790,Curveball,7.2%
+518790,Changeup,6.5%
+456167,4-Seam Fastball,51.7%
+456167,Curveball,30.4%
+456167,Changeup,11.1%
+456167,Cutter,5.7%
+456167,Sinker,1.1%
+660853,4-Seam Fastball,58.5%
+660853,Changeup,19.3%
+660853,Slider,18.8%
+660853,Curveball,3.4%
+594762,4-Seam Fastball,65.1%
+594762,Cutter,20.9%
+594762,Curveball,14%
+572889,Changeup,50%
+572889,Sinker,37.5%
+572889,Slider,12.5%
+430599,Slider,34.1%
+430599,4-Seam Fastball,28.2%
+430599,Changeup,15.4%
+430599,Curveball,11.9%
+430599,Sinker,10.3%
+664028,4-Seam Fastball,67.4%
+664028,Slider,24.1%
+664028,Changeup,8.5%
+621381,4-Seam Fastball,29.2%
+621381,Sinker,26.6%
+621381,Curveball,21.1%
+621381,Slider,12.7%
+621381,Changeup,10.4%
+641627,4-Seam Fastball,63.6%
+641627,Curveball,25.3%
+641627,Slider,7.8%
+641627,Changeup,2.3%
+641627,Sinker,0.9%
+592120,Sinker,50.7%
+592120,Slider,17.6%
+592120,Changeup,13.5%
+592120,4-Seam Fastball,12.8%
+592120,Cutter,5.4%
+592102,4-Seam Fastball,53.8%
+592102,Curveball,46.2%
+474668,Sinker,37.9%
+474668,4-Seam Fastball,35.3%
+474668,Curveball,19%
+474668,Changeup,7.8%
+276371,NA,NA
+514639,NA,NA
+500721,4-Seam Fastball,59.6%
+500721,Curveball,33.2%
+500721,Sinker,4.4%
+500721,Changeup,2.8%
+455949,NA,NA
+430912,4-Seam Fastball,35.4%
+430912,Curveball,23.2%
+430912,Sinker,20%
+430912,Changeup,10.9%
+430912,Slider,10.5%
+595918,Slider,45.4%
+595918,4-Seam Fastball,34.4%
+595918,Cutter,9.7%
+595918,Changeup,7.9%
+595918,Curveball,2.6%
+516853,NA,NA
+572102,4-Seam Fastball,58.1%
+572102,Slider,19%
+572102,Curveball,11.8%
+572102,Changeup,11.1%
+466412,NA,NA
+592836,4-Seam Fastball,38.3%
+592836,Cutter,21.5%
+592836,Split Finger,18.7%
+592836,Sinker,11.3%
+592836,Curveball,10.1%
+591693,Slider,54.4%
+591693,4-Seam Fastball,36.5%
+591693,Changeup,9.1%
+623184,4-Seam Fastball,52%
+623184,Slider,43.3%
+623184,Changeup,4.5%
+623184,Sinker,0.2%
+434442,Sinker,62.8%
+434442,Curveball,28.3%
+434442,Changeup,7.9%
+434442,4-Seam Fastball,1%
+620982,Sinker,66.7%
+620982,Changeup,33.3%
+642545,Slider,45.8%
+642545,4-Seam Fastball,31.5%
+642545,Sinker,11.5%
+642545,Changeup,11.2%
+544993,4-Seam Fastball,69.7%
+544993,Slider,19.1%
+544993,Split Finger,11.2%
+621261,4-Seam Fastball,48.4%
+621261,Slider,25.6%
+621261,Changeup,18.8%
+621261,Sinker,5.4%
+621261,Curveball,1.8%
+573188,4-Seam Fastball,43.8%
+573188,Cutter,38.3%
+573188,Curveball,11.7%
+573188,Changeup,6.3%
+642098,Slider,46.7%
+642098,4-Seam Fastball,44.4%
+642098,Curveball,5.6%
+642098,Changeup,3.3%
+435221,Sinker,37.1%
+435221,Cutter,31.5%
+435221,Curveball,23.6%
+435221,Slider,7%
+435221,4-Seam Fastball,0.8%
+450527,NA,NA
+592279,Slider,44.4%
+592279,4-Seam Fastball,30.9%
+592279,Sinker,22.5%
+592279,Changeup,2.3%
+534947,4-Seam Fastball,55.1%
+534947,Changeup,20%
+534947,Curveball,15.2%
+534947,Sinker,9.7%
+452293,NA,NA
+598287,4-Seam Fastball,36%
+598287,Changeup,33%
+598287,Curveball,31%
+605154,4-Seam Fastball,56.6%
+605154,Slider,42.8%
+605154,Changeup,0.6%
+488846,4-Seam Fastball,32.3%
+488846,Sinker,22%
+488846,Slider,18.2%
+488846,Changeup,14.9%
+488846,Curveball,12.5%
+519259,NA,NA
+433578,NA,NA
+592662,4-Seam Fastball,47.3%
+592662,Slider,30.5%
+592662,Curveball,15.8%
+592662,Sinker,3.7%
+592662,Changeup,2.8%
+518655,NA,NA
+641745,4-Seam Fastball,38.3%
+641745,Slider,38.2%
+641745,Sinker,21.4%
+641745,Changeup,2%
+467100,Sinker,45.8%
+467100,Curveball,25.4%
+467100,Changeup,15.5%
+467100,4-Seam Fastball,13.4%
+664129,Sinker,51.1%
+664129,Slider,45.5%
+664129,4-Seam Fastball,2.7%
+664129,Changeup,0.7%
+500610,4-Seam Fastball,42.3%
+500610,Changeup,40%
+500610,Curveball,10.8%
+500610,Slider,6.9%
+430963,NA,NA
+134321,NA,NA
+460024,Cutter,44.9%
+460024,4-Seam Fastball,29.7%
+460024,Curveball,19.7%
+460024,Sinker,3.8%
+460024,Slider,1.9%
+543178,NA,NA
+449170,4-Seam Fastball,56.3%
+449170,Slider,39.9%
+449170,Sinker,3.8%
+453381,NA,NA
+471911,4-Seam Fastball,34%
+471911,Slider,28.3%
+471911,Changeup,28%
+471911,Curveball,5.2%
+471911,Sinker,4.5%
+462089,4-Seam Fastball,84.4%
+462089,Changeup,15.6%
+621385,4-Seam Fastball,52.1%
+621385,Slider,37.9%
+621385,Changeup,10%
+641838,Sinker,50%
+641838,Changeup,23%
+641838,Split Finger,15%
+641838,Curveball,5%
+641838,4-Seam Fastball,4%
+641838,Slider,3%
+474599,NA,NA
+663567,4-Seam Fastball,52.7%
+663567,Changeup,21.9%
+663567,Curveball,12.8%
+663567,Slider,12.1%
+663567,Sinker,0.4%
+571057,4-Seam Fastball,54.7%
+571057,Curveball,31.1%
+571057,Changeup,12.9%
+571057,Sinker,1.3%
+642840,4-Seam Fastball,51.9%
+642840,Slider,42.6%
+642840,Changeup,5.6%
+668665,4-Seam Fastball,63.8%
+668665,Slider,28.4%
+668665,Changeup,5%
+668665,Sinker,2.8%
+150122,NA,NA
+466918,NA,NA
+444468,4-Seam Fastball,49.2%
+444468,Slider,36.9%
+444468,Sinker,10.3%
+444468,Changeup,3.6%
+453311,Changeup,42.7%
+453311,Sinker,27.7%
+453311,4-Seam Fastball,15.3%
+453311,Curveball,8.8%
+453311,Slider,5.6%
+434679,NA,NA
+462102,NA,NA
+543017,Slider,41.8%
+543017,Curveball,29.6%
+543017,4-Seam Fastball,24.5%
+543017,Sinker,4.1%
+445193,NA,NA
+542923,4-Seam Fastball,46.1%
+542923,Sinker,33.9%
+542923,Curveball,15.2%
+542923,Split Finger,4.8%
+543070,NA,NA
+469097,NA,NA
+573046,Sinker,56.1%
+573046,Changeup,29.3%
+573046,4-Seam Fastball,9.8%
+573046,Slider,4.9%
+641438,4-Seam Fastball,44.4%
+641438,Changeup,23%
+641438,Curveball,19.3%
+641438,Slider,13.4%
+641571,4-Seam Fastball,45.3%
+641571,Slider,19.2%
+641571,Changeup,17.7%
+641571,Curveball,9.7%
+641571,Sinker,8.2%
+407819,Sinker,63.6%
+407819,Cutter,22.9%
+407819,4-Seam Fastball,7.5%
+407819,Slider,6.1%
+664126,4-Seam Fastball,57.3%
+664126,Slider,40.8%
+664126,Sinker,1.8%
+613317,Slider,46.3%
+613317,Sinker,29.2%
+613317,4-Seam Fastball,24.6%
+452733,Sinker,58.8%
+452733,Slider,27.9%
+452733,Changeup,13.2%
+543495,NA,NA
+502609,NA,NA
+547749,4-Seam Fastball,57.7%
+547749,Curveball,21.2%
+547749,Forkball,16.8%
+547749,Slider,4.4%
+663765,4-Seam Fastball,43.3%
+663765,Slider,26.9%
+663765,Curveball,21.1%
+663765,Sinker,7.5%
+663765,Changeup,1.1%
+573204,4-Seam Fastball,54.4%
+573204,Curveball,25.3%
+573204,Slider,16.4%
+573204,Cutter,3.8%
+444446,4-Seam Fastball,63.9%
+444446,Curveball,20.7%
+444446,Sinker,7.9%
+444446,Changeup,7.5%
+434565,NA,NA
+457461,NA,NA
+458537,4-Seam Fastball,55.9%
+458537,Slider,21.1%
+458537,Curveball,13.1%
+458537,Sinker,7%
+458537,Changeup,2.8%
+445246,NA,NA
+459939,NA,NA
+453172,Sinker,51.5%
+453172,Curveball,26.5%
+453172,Changeup,14.3%
+453172,4-Seam Fastball,7.8%
+497807,4-Seam Fastball,63.6%
+497807,Curveball,17.9%
+497807,Slider,16.1%
+497807,Changeup,2.5%
+275933,NA,NA
+595235,4-Seam Fastball,62.5%
+595235,Slider,21.9%
+595235,Changeup,15.6%
+449774,NA,NA
+622250,4-Seam Fastball,47.7%
+622250,Slider,34.1%
+622250,Sinker,18.2%
+448159,4-Seam Fastball,49.5%
+448159,Slider,34.1%
+448159,Sinker,11.2%
+448159,Split Finger,5.3%
+491646,Sinker,48.5%
+491646,Changeup,23%
+491646,Slider,20.7%
+491646,Curveball,5.6%
+491646,4-Seam Fastball,2.2%
+458567,NA,NA
+519141,4-Seam Fastball,79.6%
+519141,Curveball,20.4%
+489295,Sinker,77.2%
+489295,Cutter,14.8%
+489295,4-Seam Fastball,8.1%
+450832,NA,NA
+547348,Sinker,71.8%
+547348,Curveball,23.1%
+547348,4-Seam Fastball,5.1%
+518713,NA,NA
+572070,4-Seam Fastball,46.3%
+572070,Slider,37.8%
+572070,Sinker,8.4%
+572070,Curveball,7.5%
+594987,Curveball,37.1%
+594987,Sinker,35.1%
+594987,Cutter,23%
+594987,Changeup,4.6%
+594987,4-Seam Fastball,0.3%
+542587,4-Seam Fastball,61.3%
+542587,Slider,34.8%
+542587,Changeup,3.9%
+503569,Sinker,60.4%
+503569,Slider,20.3%
+503569,Split Finger,18.6%
+503569,4-Seam Fastball,0.7%
+150221,NA,NA
+459429,4-Seam Fastball,96.4%
+459429,Slider,3%
+459429,Sinker,0.6%
+547820,NA,NA
+240694,NA,NA
+594992,4-Seam Fastball,35.2%
+594992,Slider,35.2%
+594992,Sinker,29.6%
+572751,NA,NA
+519145,NA,NA
+518782,NA,NA
+207267,NA,NA
+592135,4-Seam Fastball,52.7%
+592135,Slider,46.1%
+592135,Split Finger,1.2%
+656354,4-Seam Fastball,52.8%
+656354,Curveball,18.9%
+656354,Changeup,15.7%
+656354,Slider,12.6%
+213680,NA,NA
+547179,4-Seam Fastball,33.1%
+547179,Changeup,17.8%
+547179,Cutter,17.6%
+547179,Slider,17.4%
+547179,Sinker,7.6%
+547179,Curveball,6.6%
+571656,4-Seam Fastball,52.8%
+571656,Changeup,32.6%
+571656,Slider,14.7%
+518875,Slider,60.2%
+518875,4-Seam Fastball,39.7%
+518875,Changeup,0.1%
+465629,Split Finger,63.1%
+465629,4-Seam Fastball,27.4%
+465629,Slider,6%
+465629,Sinker,3.6%
+605397,4-Seam Fastball,27%
+605397,Slider,24.2%
+605397,Curveball,19.9%
+605397,Sinker,11.9%
+605397,Changeup,10.7%
+605397,Cutter,6.2%
+457448,Sinker,67.9%
+457448,Changeup,17.7%
+457448,Cutter,7.7%
+457448,Curveball,6.3%
+457448,4-Seam Fastball,0.4%
+605540,4-Seam Fastball,34.5%
+605540,Sinker,30.6%
+605540,Changeup,17.5%
+605540,Slider,10.9%
+605540,Curveball,6.4%
+658551,Sinker,55.7%
+658551,Changeup,31.1%
+658551,Slider,13.1%
+448609,4-Seam Fastball,47.9%
+448609,Slider,32%
+448609,Split Finger,20.1%
+516414,Sinker,55.8%
+516414,Slider,30.2%
+516414,4-Seam Fastball,11.6%
+516414,Changeup,2.3%
+547874,Cutter,33.9%
+547874,4-Seam Fastball,21.5%
+547874,Split Finger,19.5%
+547874,Sinker,18.4%
+547874,Curveball,6.7%
+453562,Sinker,52.1%
+453562,Slider,23.2%
+453562,Changeup,17%
+453562,Curveball,7.3%
+453562,4-Seam Fastball,0.4%
+516969,Sinker,48.6%
+516969,Changeup,21.6%
+516969,4-Seam Fastball,18.9%
+516969,Slider,5.4%
+516969,Curveball,2.7%
+516969,Cutter,2.7%
+502522,4-Seam Fastball,70.9%
+502522,Slider,19.6%
+502522,Sinker,8%
+502522,Changeup,1.5%
+605121,Slider,52.1%
+605121,4-Seam Fastball,40.8%
+605121,Sinker,6.1%
+605121,Changeup,0.9%
+664045,Slider,23.6%
+664045,4-Seam Fastball,22.7%
+664045,Sinker,21.6%
+664045,Curveball,19.1%
+664045,Changeup,13%
+453186,NA,NA
+435044,Sinker,57.8%
+435044,Slider,30.8%
+435044,4-Seam Fastball,5.9%
+435044,Changeup,5.4%
+543819,NA,NA
+594798,4-Seam Fastball,44.9%
+594798,Slider,35.5%
+594798,Changeup,16.9%
+594798,Curveball,2.6%
+623454,4-Seam Fastball,70%
+623454,Changeup,16%
+623454,Curveball,10%
+623454,Slider,4%
+650813,4-Seam Fastball,39.4%
+650813,Sinker,28.8%
+650813,Changeup,19.2%
+650813,Curveball,12.5%
+519437,4-Seam Fastball,54.6%
+519437,Cutter,39%
+519437,Curveball,6.3%
+502202,4-Seam Fastball,55.2%
+502202,Changeup,26.6%
+502202,Slider,17.6%
+502202,Curveball,0.6%
+656738,Sinker,66.4%
+656738,Curveball,23.6%
+656738,Changeup,10%
+450729,Sinker,62.1%
+450729,Cutter,14.6%
+450729,Curveball,13.2%
+450729,Changeup,9.5%
+450729,4-Seam Fastball,0.6%
+462522,NA,NA
+605135,Sinker,38.2%
+605135,Cutter,23%
+605135,4-Seam Fastball,16.5%
+605135,Changeup,10.3%
+605135,Curveball,9.4%
+605135,Slider,2.6%
+429717,Cutter,41%
+429717,4-Seam Fastball,30%
+429717,Curveball,14.2%
+429717,Sinker,11.3%
+429717,Split Finger,3.5%
+501985,4-Seam Fastball,50.7%
+501985,Changeup,22.2%
+501985,Slider,20.7%
+501985,Curveball,6.4%
+518863,Sinker,34.1%
+518863,4-Seam Fastball,32.5%
+518863,Slider,21.8%
+518863,Changeup,11.5%
+592170,4-Seam Fastball,39.1%
+592170,Curveball,23.5%
+592170,Sinker,13.9%
+592170,Changeup,13.9%
+592170,Cutter,9.6%
+572990,4-Seam Fastball,45.1%
+572990,Split Finger,40.4%
+572990,Slider,14.5%
+606983,Sinker,35.7%
+606983,Slider,29.7%
+606983,Changeup,21.9%
+606983,Curveball,8.8%
+606983,4-Seam Fastball,3.9%
+543766,Cutter,62.1%
+543766,Slider,17%
+543766,Curveball,16.3%
+543766,Changeup,4.6%
+623354,Slider,72.4%
+623354,4-Seam Fastball,25%
+623354,Changeup,2.6%
+641541,Sinker,30.6%
+641541,4-Seam Fastball,28.3%
+641541,Slider,19.7%
+641541,Curveball,12.4%
+641541,Changeup,9%
+642100,Sinker,29.9%
+642100,Curveball,25.2%
+642100,Slider,22.4%
+642100,4-Seam Fastball,22.4%
+543734,Sinker,42.4%
+543734,Cutter,35.6%
+543734,Slider,11.9%
+543734,Changeup,5.1%
+543734,Curveball,5.1%
+643256,Slider,49.2%
+643256,4-Seam Fastball,28.2%
+643256,Sinker,22.6%
+600917,4-Seam Fastball,57.4%
+600917,Slider,31.9%
+600917,Changeup,10.6%
+650895,Slider,64.7%
+650895,Sinker,34.1%
+650895,4-Seam Fastball,1.3%
+571787,4-Seam Fastball,43.7%
+571787,Changeup,19.9%
+571787,Slider,17.5%
+571787,Curveball,14.4%
+571787,Sinker,4.5%
+425487,NA,NA
+449777,NA,NA
+430935,Cutter,30.8%
+430935,Changeup,28.8%
+430935,Curveball,15.4%
+430935,4-Seam Fastball,15.4%
+430935,Sinker,9.6%
+433586,Sinker,31.5%
+433586,Curveball,28.7%
+433586,4-Seam Fastball,23%
+433586,Slider,10.6%
+433586,Changeup,6.2%
+657024,4-Seam Fastball,74.5%
+657024,Slider,17.4%
+657024,Changeup,8.1%
+657681,Changeup,50%
+657681,4-Seam Fastball,48.5%
+657681,Curveball,1.5%
+501563,4-Seam Fastball,73.1%
+501563,Slider,25.9%
+501563,Sinker,1%
+579799,NA,NA
+596101,4-Seam Fastball,39.3%
+596101,Slider,37.5%
+596101,Sinker,15.2%
+596101,Curveball,8%
+606162,4-Seam Fastball,36.9%
+606162,Changeup,30.4%
+606162,Sinker,14.9%
+606162,Slider,14.4%
+606162,Curveball,3.4%
+593582,4-Seam Fastball,61.8%
+593582,Curveball,28.2%
+593582,Slider,8.2%
+593582,Changeup,0.9%
+593582,Sinker,0.9%
+518444,NA,NA
+641835,Sinker,45.2%
+641835,Slider,35.6%
+641835,4-Seam Fastball,19.2%
+621121,Sinker,41.7%
+621121,Curveball,37.6%
+621121,Changeup,18.4%
+621121,Cutter,1.8%
+621121,4-Seam Fastball,0.5%
+661403,Cutter,73.3%
+661403,Slider,21.2%
+661403,4-Seam Fastball,5.5%
+642239,4-Seam Fastball,68.5%
+642239,Curveball,16.2%
+642239,Cutter,15.3%
+628333,4-Seam Fastball,38.8%
+628333,Cutter,20%
+628333,Sinker,15.3%
+628333,Slider,11.8%
+628333,Curveball,7.5%
+628333,Changeup,6.3%
+628333,Eephus,0.4%
+596043,4-Seam Fastball,50.2%
+596043,Cutter,26.8%
+596043,Changeup,12.6%
+596043,Curveball,9.1%
+596043,Sinker,1.3%
+501593,Changeup,58%
+501593,Sinker,31.5%
+501593,Curveball,5.6%
+501593,4-Seam Fastball,4.9%
+596035,Sinker,78.6%
+596035,Slider,12.2%
+596035,Changeup,9.2%
+450351,Sinker,31%
+450351,4-Seam Fastball,22.6%
+450351,Changeup,14.8%
+450351,Slider,12.7%
+450351,Curveball,9.8%
+450351,Cutter,9%
+468396,4-Seam Fastball,61.3%
+468396,Slider,29%
+468396,Sinker,9.7%
+592464,Slider,51.9%
+592464,Curveball,32.1%
+592464,4-Seam Fastball,12.6%
+592464,Sinker,3.1%
+592464,Changeup,0.4%
+594951,Slider,52.4%
+594951,4-Seam Fastball,33.3%
+594951,Sinker,9.5%
+594951,Curveball,4.8%
+466459,NA,NA
+621237,Sinker,76.8%
+621237,Curveball,11.9%
+621237,Cutter,11.3%
+621112,Sinker,50%
+621112,Changeup,25%
+621112,Slider,18.8%
+621112,Curveball,6.3%
+491703,4-Seam Fastball,64.2%
+491703,Slider,19.4%
+491703,Changeup,16.4%
+120485,NA,NA
+660271,4-Seam Fastball,48.8%
+660271,Slider,28.7%
+660271,Split Finger,16.3%
+660271,Curveball,6.3%
+408206,NA,NA
+515052,4-Seam Fastball,42.5%
+515052,Slider,30%
+515052,Sinker,20%
+515052,Changeup,7.5%
+605479,4-Seam Fastball,41.9%
+605479,Slider,32.6%
+605479,Sinker,25.6%
+621097,4-Seam Fastball,43.8%
+621097,Changeup,18.9%
+621097,Cutter,18.1%
+621097,Curveball,10.8%
+621097,Sinker,8.3%
+452237,NA,NA
+541652,4-Seam Fastball,40.2%
+541652,Slider,39.2%
+541652,Sinker,13.8%
+541652,Changeup,6.9%
+493337,NA,NA
+553878,4-Seam Fastball,59.4%
+553878,Slider,16.7%
+553878,Curveball,14.2%
+553878,Changeup,8%
+553878,Sinker,1.7%
+519085,Sinker,32%
+519085,Changeup,28.3%
+519085,4-Seam Fastball,26.1%
+519085,Slider,7.1%
+519085,Curveball,6.5%
+621141,Sinker,32.6%
+621141,Curveball,22.2%
+621141,Cutter,20.4%
+621141,Changeup,20.4%
+621141,4-Seam Fastball,4.3%
+553872,4-Seam Fastball,58.4%
+553872,Changeup,38.6%
+553872,Slider,2%
+553872,Sinker,1%
+453198,NA,NA
+459345,NA,NA
+453889,NA,NA
+518617,4-Seam Fastball,55.6%
+518617,Slider,40.4%
+518617,Sinker,3.7%
+518617,Changeup,0.3%
+663978,4-Seam Fastball,58.2%
+663978,Changeup,31%
+663978,Curveball,7.4%
+663978,Cutter,3.4%
+593679,4-Seam Fastball,31.1%
+593679,Slider,28%
+593679,Sinker,25%
+593679,Changeup,13.7%
+593679,Curveball,2.3%
+445971,NA,NA
+435619,NA,NA
+454535,NA,NA
+518553,Slider,51.3%
+518553,Sinker,44.9%
+518553,4-Seam Fastball,2.7%
+518553,Changeup,1.1%
+607968,Cutter,35.5%
+607968,4-Seam Fastball,31%
+607968,Sinker,17.6%
+607968,Changeup,7.5%
+607968,Slider,4.5%
+607968,Curveball,3.9%
+621209,4-Seam Fastball,30%
+621209,Slider,28.3%
+621209,Sinker,19.9%
+621209,Curveball,11.6%
+621209,Changeup,10.2%
+663855,Sinker,60.3%
+663855,Slider,34.7%
+663855,Changeup,4.8%
+663855,4-Seam Fastball,0.2%
+641871,4-Seam Fastball,59%
+641871,Slider,22.4%
+641871,Changeup,18.6%
+519110,NA,NA
+572089,Curveball,36.6%
+572089,Slider,29.7%
+572089,Sinker,17.7%
+572089,4-Seam Fastball,9.7%
+572089,Changeup,6.3%
+346798,Sinker,61.5%
+346798,Slider,20.9%
+346798,Changeup,12.8%
+346798,Curveball,4.8%
+602083,4-Seam Fastball,48.5%
+602083,Curveball,34.3%
+602083,Changeup,11.2%
+602083,Slider,5.2%
+602083,Sinker,0.7%
+592791,Slider,31.9%
+592791,4-Seam Fastball,27.2%
+592791,Sinker,19.8%
+592791,Curveball,15.7%
+592791,Changeup,5.4%
+543606,4-Seam Fastball,39.2%
+543606,Split Finger,28.4%
+543606,Slider,19.1%
+543606,Cutter,9.8%
+543606,Curveball,3.4%
+456776,4-Seam Fastball,47.7%
+456776,Changeup,29.1%
+456776,Sinker,12.1%
+456776,Cutter,7.7%
+456776,Curveball,3.4%
+595465,Cutter,55.9%
+595465,4-Seam Fastball,22.4%
+595465,Curveball,10.7%
+595465,Sinker,10.4%
+595465,Changeup,0.7%
+518560,Sinker,62.2%
+518560,Curveball,31%
+518560,Changeup,4.2%
+518560,4-Seam Fastball,2.6%
+607215,4-Seam Fastball,39.5%
+607215,Curveball,23%
+607215,Sinker,20%
+607215,Changeup,17.5%
+657097,4-Seam Fastball,52.4%
+657097,Changeup,32.7%
+657097,Curveball,14.9%
+516684,NA,NA
+502188,Slider,23.8%
+502188,Cutter,21.8%
+502188,4-Seam Fastball,18.8%
+502188,Split Finger,18.1%
+502188,Sinker,15.8%
+502188,Curveball,1.7%
+450203,4-Seam Fastball,35.5%
+450203,Curveball,32.7%
+450203,Sinker,20.9%
+450203,Cutter,8.8%
+450203,Split Finger,2.1%
+621397,4-Seam Fastball,42.4%
+621397,Curveball,42%
+621397,Changeup,13.1%
+621397,Sinker,2.6%
+460366,NA,NA
+211041,NA,NA
+502457,Cutter,57.6%
+502457,Slider,20.4%
+502457,4-Seam Fastball,13.1%
+502457,Changeup,8.9%
+643354,Sinker,61.5%
+643354,Slider,25%
+643354,Changeup,13.5%
+456102,NA,NA
+592341,4-Seam Fastball,47.1%
+592341,Slider,47.1%
+592341,Sinker,5.9%
+643355,4-Seam Fastball,62.8%
+643355,Curveball,31.6%
+643355,Changeup,5.5%
+425146,NA,NA
+607068,Sinker,62.7%
+607068,Slider,17.6%
+607068,Changeup,11.8%
+607068,4-Seam Fastball,7.8%
+457796,NA,NA
+446367,NA,NA
+518649,4-Seam Fastball,50%
+518649,Cutter,26.5%
+518649,Slider,20.6%
+518649,Curveball,2.9%
+612272,4-Seam Fastball,50%
+612272,Slider,38.5%
+612272,Changeup,11.5%
+500779,4-Seam Fastball,48.6%
+500779,Curveball,31.1%
+500779,Sinker,12.6%
+500779,Changeup,7.7%
+518516,4-Seam Fastball,38.9%
+518516,Cutter,36.6%
+518516,Curveball,22.7%
+518516,Changeup,1.3%
+518516,Sinker,0.6%
+664918,4-Seam Fastball,58.5%
+664918,Curveball,34.1%
+664918,Forkball,7.3%
+571527,4-Seam Fastball,37.2%
+571527,Sinker,22.9%
+571527,Changeup,22.1%
+571527,Curveball,12.2%
+571527,Cutter,5.6%
+445170,Sinker,72.4%
+445170,Slider,23.7%
+445170,Changeup,2.2%
+445170,4-Seam Fastball,1.8%
+489189,NA,NA
+571473,4-Seam Fastball,51.3%
+571473,Sinker,25.6%
+571473,Slider,23.1%
+346847,Sinker,38%
+346847,4-Seam Fastball,35.2%
+346847,Slider,12.9%
+346847,Changeup,9.9%
+346847,Curveball,4.1%
+547007,Sinker,46.8%
+547007,Slider,23.4%
+547007,Curveball,17%
+547007,4-Seam Fastball,10.6%
+547007,Changeup,2.1%
+279824,4-Seam Fastball,26.4%
+279824,Sinker,24.5%
+279824,Changeup,21.1%
+279824,Cutter,19.5%
+279824,Curveball,8.6%
+642571,4-Seam Fastball,44.4%
+642571,Curveball,33.6%
+642571,Cutter,11.9%
+642571,Changeup,10.1%
+501381,4-Seam Fastball,50.1%
+501381,Slider,38.5%
+501381,Changeup,11.4%
+434643,Curveball,34.4%
+434643,Sinker,33.7%
+434643,4-Seam Fastball,27.1%
+434643,Changeup,4.8%
+458678,4-Seam Fastball,61.2%
+458678,Slider,38.8%
+476134,NA,NA
+500724,4-Seam Fastball,53.3%
+500724,Curveball,30.8%
+500724,Slider,15%
+500724,Changeup,0.9%
+476811,NA,NA
+434958,NA,NA
+502158,NA,NA
+571476,4-Seam Fastball,46.1%
+571476,Slider,33.7%
+571476,Changeup,18.3%
+571476,Sinker,2%
+596816,Sinker,39.5%
+596816,4-Seam Fastball,19.8%
+596816,Slider,19.2%
+596816,Curveball,11.9%
+596816,Changeup,9.6%
+543508,4-Seam Fastball,57.7%
+543508,Slider,39.8%
+543508,Changeup,2.4%
+435298,NA,NA
+518397,Sinker,81.2%
+518397,Slider,16.8%
+518397,4-Seam Fastball,2%
+671790,4-Seam Fastball,45.2%
+671790,Slider,28.8%
+671790,Sinker,15.1%
+671790,Curveball,9.6%
+671790,Changeup,1.4%
+502130,Sinker,44.4%
+502130,4-Seam Fastball,29.6%
+502130,Slider,25.9%
+592866,4-Seam Fastball,42.7%
+592866,Slider,26.6%
+592866,Changeup,15.2%
+592866,Sinker,8.4%
+592866,Curveball,7.1%
+648737,4-Seam Fastball,51.1%
+648737,Slider,27.8%
+648737,Sinker,11.9%
+648737,Changeup,9.1%
+543424,4-Seam Fastball,40.1%
+543424,Cutter,35.1%
+543424,Changeup,15.3%
+543424,Curveball,7.9%
+543424,Sinker,1.5%
+476570,Sinker,44.4%
+476570,4-Seam Fastball,24.4%
+476570,Slider,24.4%
+476570,Changeup,6.7%
+532077,4-Seam Fastball,36.4%
+532077,Slider,20%
+532077,Changeup,18.2%
+532077,Cutter,16.4%
+532077,Sinker,9.1%
+455090,NA,NA
+672335,4-Seam Fastball,62.5%
+672335,Slider,35.2%
+672335,Changeup,2.3%
+593372,4-Seam Fastball,34.8%
+593372,Slider,28.1%
+593372,Changeup,20.1%
+593372,Sinker,15.2%
+593372,Cutter,1.7%
+572827,NA,NA
+502208,NA,NA
+434180,NA,NA
+434663,NA,NA
+643338,4-Seam Fastball,73.9%
+643338,Curveball,24.9%
+643338,Sinker,1.2%
+571871,Slider,41.9%
+571871,Sinker,29%
+571871,Changeup,22.6%
+571871,4-Seam Fastball,6.5%
+458006,Sinker,46.4%
+458006,Slider,33.1%
+458006,Changeup,10.3%
+458006,4-Seam Fastball,10.1%
+119125,NA,NA
+455091,NA,NA
+554431,4-Seam Fastball,61.9%
+554431,Slider,20.9%
+554431,Cutter,9.5%
+554431,Curveball,7.7%
+622092,4-Seam Fastball,48%
+622092,Slider,34.3%
+622092,Curveball,13.9%
+622092,Changeup,3.8%
+592351,4-Seam Fastball,48.3%
+592351,Slider,29.2%
+592351,Changeup,13.1%
+592351,Curveball,8.4%
+592351,Sinker,1.1%
+670950,4-Seam Fastball,50.7%
+670950,Changeup,31.1%
+670950,Curveball,18.2%
+501993,NA,NA
+605446,4-Seam Fastball,54.3%
+605446,Curveball,30.4%
+605446,Cutter,15.2%
+605152,4-Seam Fastball,62.6%
+605152,Curveball,22%
+605152,Changeup,15.4%
+453515,NA,NA
+504083,4-Seam Fastball,51.9%
+504083,Slider,40.5%
+504083,Sinker,7.6%
+450275,4-Seam Fastball,57.2%
+450275,Slider,41.6%
+450275,Sinker,1%
+450275,Changeup,0.2%
+572283,4-Seam Fastball,65.3%
+572283,Curveball,27.9%
+572283,Changeup,6.8%
+641755,Slider,59.8%
+641755,4-Seam Fastball,33.4%
+641755,Changeup,6.7%
+470462,NA,NA
+502624,4-Seam Fastball,34.4%
+502624,Changeup,23.5%
+502624,Cutter,20.1%
+502624,Curveball,16.1%
+502624,Sinker,6%
+543174,NA,NA
+605347,Sinker,38.3%
+605347,Curveball,30.9%
+605347,4-Seam Fastball,21.6%
+605347,Changeup,9.3%
+477557,NA,NA
+534428,NA,NA
+571735,4-Seam Fastball,44.3%
+571735,Changeup,31.2%
+571735,Curveball,15.6%
+571735,Sinker,8.9%
+346793,Sinker,67.5%
+346793,Curveball,23.8%
+346793,Changeup,8.7%
+641582,4-Seam Fastball,57.1%
+641582,Changeup,33.5%
+641582,Slider,9.2%
+641582,Sinker,0.2%
+407793,4-Seam Fastball,41.2%
+407793,Cutter,32.6%
+407793,Sinker,13.5%
+407793,Curveball,7.7%
+407793,Changeup,4.9%
+458919,Sinker,49.1%
+458919,4-Seam Fastball,27.9%
+458919,Slider,11%
+458919,Split Finger,6.2%
+458919,Cutter,5.7%
+430663,NA,NA
+434682,NA,NA
+572383,4-Seam Fastball,60.9%
+572383,Curveball,39.1%
+519443,Curveball,39.5%
+519443,Cutter,34.2%
+519443,4-Seam Fastball,26.3%
+456034,4-Seam Fastball,27.5%
+456034,Changeup,26.5%
+456034,Sinker,26.2%
+456034,Cutter,17.3%
+456034,Curveball,2.5%
+448753,NA,NA
+514669,4-Seam Fastball,74.6%
+514669,Slider,25.4%
+623470,Slider,51.2%
+623470,4-Seam Fastball,45.2%
+623470,Changeup,3.6%
+502621,NA,NA
+461848,NA,NA
+658648,Slider,45.9%
+658648,Curveball,24.7%
+658648,4-Seam Fastball,24.7%
+658648,Sinker,4.7%
+592781,4-Seam Fastball,62.2%
+592781,Slider,20.3%
+592781,Changeup,17.4%
+501227,NA,NA
+543521,Slider,43.4%
+543521,4-Seam Fastball,32.4%
+543521,Cutter,12.2%
+543521,Curveball,8%
+543521,Changeup,3.2%
+543521,Sinker,0.8%
+543643,NA,NA
+643466,Slider,38%
+643466,4-Seam Fastball,27.3%
+643466,Sinker,25.4%
+643466,Changeup,9.3%
+502239,Changeup,29.8%
+502239,Sinker,24.6%
+502239,Curveball,23%
+502239,Cutter,12.3%
+502239,4-Seam Fastball,10.3%
+605525,4-Seam Fastball,47.5%
+605525,Slider,26.2%
+605525,Sinker,10.5%
+605525,Curveball,8.4%
+605525,Changeup,7.3%
+657141,4-Seam Fastball,31.9%
+657141,Slider,23%
+657141,Cutter,19.6%
+657141,Curveball,14.1%
+657141,Sinker,10%
+657141,Changeup,1.5%
+448269,NA,NA
+572096,4-Seam Fastball,67.5%
+572096,Slider,20.5%
+572096,Changeup,8.4%
+572096,Sinker,3.7%
+501625,Sinker,39.5%
+501625,Changeup,22.5%
+501625,Slider,21.7%
+501625,4-Seam Fastball,14%
+501625,Cutter,2.3%
+642547,4-Seam Fastball,65.8%
+642547,Curveball,29.8%
+642547,Slider,4.3%
+601713,4-Seam Fastball,49.3%
+601713,Curveball,24.5%
+601713,Slider,20%
+601713,Changeup,6.2%
+452666,4-Seam Fastball,34.7%
+452666,Sinker,22.3%
+452666,Slider,21.9%
+452666,Curveball,17.7%
+452666,Changeup,3.3%
+592426,Slider,43.3%
+592426,4-Seam Fastball,36.1%
+592426,Curveball,19.9%
+592426,Cutter,0.7%
+664196,Sinker,58.3%
+664196,Slider,18%
+664196,4-Seam Fastball,12.8%
+664196,Changeup,9.2%
+664196,Cutter,1.7%
+490063,4-Seam Fastball,43.6%
+490063,Slider,23.1%
+490063,Sinker,17%
+490063,Curveball,10.5%
+490063,Changeup,5.8%
+407791,NA,NA
+571561,4-Seam Fastball,79%
+571561,Slider,19.4%
+571561,Changeup,1.6%
+607067,4-Seam Fastball,39.8%
+607067,Curveball,19.1%
+607067,Cutter,17.8%
+607067,Split Finger,11.6%
+607067,Sinker,11.6%
+621056,4-Seam Fastball,55.6%
+621056,Slider,28.1%
+621056,Changeup,11.3%
+621056,Curveball,5.1%
+544836,4-Seam Fastball,68.8%
+544836,Slider,24%
+544836,Curveball,7.2%
+519043,4-Seam Fastball,55.6%
+519043,Cutter,17.1%
+519043,Curveball,15.4%
+519043,Changeup,12%
+542881,4-Seam Fastball,40.7%
+542881,Changeup,33%
+542881,Cutter,18.1%
+542881,Sinker,6.3%
+542881,Curveball,1.9%
+594985,Sinker,61.7%
+594985,Slider,31.7%
+594985,Changeup,6.7%
+543144,4-Seam Fastball,56.9%
+543144,Changeup,35.3%
+543144,Curveball,7.8%
+573064,Slider,67%
+573064,4-Seam Fastball,17.4%
+573064,Changeup,9.2%
+573064,Curveball,6.4%
+659275,Slider,53.4%
+659275,4-Seam Fastball,37.3%
+659275,Sinker,9.3%
+451491,NA,NA
+493137,NA,NA
+457711,Slider,29.1%
+457711,4-Seam Fastball,28.8%
+457711,Sinker,26.8%
+457711,Curveball,11.5%
+457711,Changeup,3.9%
+466948,4-Seam Fastball,47.7%
+466948,Changeup,35.5%
+466948,Curveball,10.3%
+466948,Sinker,5.6%
+466948,Slider,0.9%
+407842,NA,NA
+605304,4-Seam Fastball,44.9%
+605304,Slider,21%
+605304,Sinker,16.1%
+605304,Curveball,9.6%
+605304,Changeup,8.4%
+543507,4-Seam Fastball,47.7%
+543507,Slider,32.6%
+543507,Changeup,15.6%
+543507,Sinker,4.1%
+502211,Cutter,34.9%
+502211,Curveball,33.2%
+502211,Slider,15.5%
+502211,4-Seam Fastball,13.7%
+502211,Changeup,2.8%
+593140,4-Seam Fastball,54.1%
+593140,Slider,37.7%
+593140,Changeup,8.2%
+460349,NA,NA
+595014,Sinker,55.8%
+595014,Slider,26.3%
+595014,4-Seam Fastball,9.1%
+595014,Cutter,8.8%
+595307,Sinker,54.5%
+595307,Changeup,20.6%
+595307,Curveball,17%
+595307,4-Seam Fastball,7.9%
+476595,Sinker,36.4%
+476595,Slider,21.2%
+476595,4-Seam Fastball,21.2%
+476595,Curveball,18.2%
+476595,Changeup,3%
+605795,4-Seam Fastball,48.6%
+605795,Cutter,21.6%
+605795,Changeup,15.9%
+605795,Curveball,13.9%
+444126,NA,NA
+642008,4-Seam Fastball,67.8%
+642008,Split Finger,22.3%
+642008,Slider,9.9%
+592130,4-Seam Fastball,65.1%
+592130,Changeup,23.7%
+592130,Slider,10.8%
+592130,Sinker,0.5%
+592717,4-Seam Fastball,36.4%
+592717,Curveball,23.1%
+592717,Sinker,21.1%
+592717,Changeup,19.4%
+607481,Sinker,85.2%
+607481,Cutter,9%
+607481,Slider,5.8%
+656756,Sinker,26.6%
+656756,Changeup,25.6%
+656756,Curveball,22.1%
+656756,4-Seam Fastball,19%
+656756,Cutter,6.7%
+435043,Sinker,49.6%
+435043,Slider,31.6%
+435043,Curveball,12.1%
+435043,4-Seam Fastball,6.7%
+608331,4-Seam Fastball,41.8%
+608331,Curveball,22.5%
+608331,Slider,20.7%
+608331,Sinker,10.1%
+608331,Changeup,4.9%
+430911,4-Seam Fastball,67.8%
+430911,Slider,26.1%
+430911,Split Finger,6.1%
+451600,NA,NA
+121125,NA,NA
+518927,Cutter,37.6%
+518927,Changeup,17.6%
+518927,Sinker,17.6%
+518927,Slider,15.5%
+518927,4-Seam Fastball,7.3%
+518927,Curveball,4.5%
+656427,4-Seam Fastball,44.2%
+656427,Slider,28.7%
+656427,Curveball,13.6%
+656427,Sinker,11.4%
+656427,Changeup,2.1%
+218894,NA,NA
+621244,Curveball,29.8%
+621244,4-Seam Fastball,26%
+621244,Sinker,25.5%
+621244,Changeup,18.8%
+453646,4-Seam Fastball,31.2%
+453646,Slider,28.8%
+453646,Curveball,14.4%
+453646,Sinker,12.6%
+453646,Changeup,12.5%
+453646,Eephus,0.4%
+608716,4-Seam Fastball,62%
+608716,Curveball,38%
+544365,Slider,33.5%
+544365,Sinker,25.8%
+544365,4-Seam Fastball,22.1%
+544365,Curveball,10.3%
+544365,Changeup,8.3%
+543001,Slider,28.3%
+543001,4-Seam Fastball,22.8%
+543001,Sinker,22.3%
+543001,Changeup,14.6%
+543001,Curveball,12%
+543475,4-Seam Fastball,43.5%
+543475,Curveball,29.8%
+543475,Slider,12.7%
+543475,Changeup,10%
+543475,Sinker,4%
+476451,Sinker,41.3%
+476451,Changeup,25.8%
+476451,Cutter,17%
+476451,Curveball,13.3%
+476451,4-Seam Fastball,2.5%
+630263,4-Seam Fastball,68.4%
+630263,Curveball,31.6%
+457456,4-Seam Fastball,69.4%
+457456,Sinker,25%
+457456,Slider,5.6%
+502010,4-Seam Fastball,43.1%
+502010,Slider,28.9%
+502010,Sinker,20.4%
+502010,Curveball,3.9%
+502010,Changeup,3.6%
+640470,Slider,39.8%
+640470,4-Seam Fastball,30%
+640470,Sinker,22.2%
+640470,Changeup,8%
+430674,NA,NA
+446641,NA,NA
+596271,Slider,39.2%
+596271,Sinker,28.1%
+596271,4-Seam Fastball,22.4%
+596271,Changeup,10.3%
+605309,Curveball,50.9%
+605309,4-Seam Fastball,47.3%
+605309,Changeup,1.8%
+455605,NA,NA
+663465,4-Seam Fastball,46.7%
+663465,Cutter,30.5%
+663465,Changeup,12.6%
+663465,Curveball,10.2%
+434668,NA,NA
+407878,NA,NA
+429714,NA,NA
+640455,Sinker,54.3%
+640455,Changeup,28%
+640455,Curveball,14%
+640455,Slider,3.7%
+518716,4-Seam Fastball,29.3%
+518716,Cutter,21.8%
+518716,Sinker,17.5%
+518716,Curveball,16.1%
+518716,Changeup,15.2%
+121250,NA,NA
+534812,4-Seam Fastball,68.6%
+534812,Curveball,16.9%
+534812,Slider,14.5%
+519166,4-Seam Fastball,55.7%
+519166,Slider,31%
+519166,Curveball,13.2%
+123790,NA,NA
+607192,4-Seam Fastball,60.6%
+607192,Curveball,34.8%
+607192,Changeup,4.7%
+453329,Cutter,28.2%
+453329,Sinker,20.1%
+453329,Changeup,19.7%
+453329,Curveball,17.4%
+453329,4-Seam Fastball,14.4%
+456045,NA,NA
+458730,4-Seam Fastball,68.8%
+458730,Curveball,31.3%
+543408,4-Seam Fastball,42.8%
+543408,Curveball,21.4%
+543408,Slider,20.3%
+543408,Sinker,9.7%
+543408,Changeup,5.8%
+543219,Changeup,28.3%
+543219,Slider,27.3%
+543219,4-Seam Fastball,23.2%
+543219,Sinker,21.2%
+433579,4-Seam Fastball,29.7%
+433579,Changeup,27.4%
+433579,Cutter,17.3%
+433579,Sinker,15.5%
+433579,Curveball,10.1%
+656725,4-Seam Fastball,42.4%
+656725,Curveball,30.3%
+656725,Sinker,18.2%
+656725,Changeup,9.1%
+552640,Slider,46.1%
+552640,Sinker,45.2%
+552640,Changeup,6.1%
+552640,4-Seam Fastball,2.6%
+276351,4-Seam Fastball,60.8%
+276351,Slider,33.7%
+276351,Sinker,3%
+276351,Changeup,2.5%
+593423,Sinker,38.1%
+593423,Slider,25.1%
+593423,4-Seam Fastball,24%
+593423,Split Finger,12.9%
+453353,NA,NA
+346797,Slider,41.6%
+346797,4-Seam Fastball,34.8%
+346797,Sinker,15.7%
+346797,Curveball,3.4%
+346797,Cutter,2.2%
+346797,Changeup,2.2%
+621389,Sinker,56.7%
+621389,Changeup,26%
+621389,Curveball,8.7%
+621389,Cutter,7.3%
+621389,Slider,1.3%
+433585,Sinker,44.8%
+433585,Curveball,21.5%
+433585,Changeup,16.5%
+433585,Slider,15%
+433585,4-Seam Fastball,2.3%
+456496,Slider,53.1%
+456496,4-Seam Fastball,38.5%
+456496,Sinker,8.5%
+425226,NA,NA
+543331,4-Seam Fastball,53.7%
+543331,Curveball,29.3%
+543331,Slider,14.6%
+543331,Sinker,2.4%
+456071,Sinker,50%
+456071,Changeup,44.8%
+456071,Slider,5.2%
+456379,Slider,54.4%
+456379,Sinker,30.8%
+456379,4-Seam Fastball,12.9%
+456379,Changeup,1.9%
+502381,Sinker,62.5%
+502381,Slider,26.9%
+502381,4-Seam Fastball,8.7%
+502381,Changeup,1.9%
+449079,4-Seam Fastball,33%
+449079,Curveball,31.3%
+449079,Changeup,24.1%
+449079,Sinker,9.8%
+449079,Slider,1.8%
+450212,Slider,62.1%
+450212,Sinker,37.1%
+450212,Cutter,0.4%
+450212,Changeup,0.4%
+595371,4-Seam Fastball,56.9%
+595371,Slider,41.4%
+595371,Changeup,1.7%
+595234,4-Seam Fastball,56.6%
+595234,Slider,23.3%
+595234,Curveball,14%
+595234,Changeup,4.7%
+595234,Sinker,1.6%
+656803,Sinker,50%
+656803,Split Finger,25%
+656803,4-Seam Fastball,18.8%
+656803,Slider,6.3%
+461856,NA,NA
+544150,4-Seam Fastball,34.6%
+544150,Curveball,25.7%
+544150,Slider,16.6%
+544150,Sinker,14.8%
+544150,Changeup,8.4%
+518833,4-Seam Fastball,33.3%
+518833,Slider,29.8%
+518833,Sinker,22.8%
+518833,Changeup,14%
+518495,NA,NA
+444849,NA,NA
+607572,Slider,62.3%
+607572,4-Seam Fastball,37.4%
+607572,Changeup,0.3%
+430950,NA,NA
+600986,4-Seam Fastball,65.7%
+600986,Slider,25.4%
+600986,Changeup,5.9%
+600986,Sinker,2.4%
+600986,Curveball,0.6%
+458950,NA,NA
+460092,NA,NA
+595001,Slider,34.5%
+595001,Curveball,28.2%
+595001,4-Seam Fastball,19%
+595001,Sinker,15.7%
+595001,Changeup,2.6%
+501873,NA,NA
+150277,NA,NA
+592091,Changeup,42%
+592091,4-Seam Fastball,31.7%
+592091,Sinker,16.8%
+592091,Slider,8.2%
+592091,Cutter,1.2%
+474284,4-Seam Fastball,44.4%
+474284,Slider,22%
+474284,Changeup,19.8%
+474284,Curveball,13.1%
+474284,Sinker,0.7%
+469686,NA,NA
+460128,NA,NA
+451596,4-Seam Fastball,30.2%
+451596,Sinker,23.5%
+451596,Slider,21.3%
+451596,Changeup,12.7%
+451596,Curveball,12.3%
+608337,4-Seam Fastball,50.6%
+608337,Changeup,33.7%
+608337,Slider,14.7%
+608337,Curveball,1%
+622161,4-Seam Fastball,59%
+622161,Slider,32.7%
+622161,Changeup,8.3%
+605441,4-Seam Fastball,66.1%
+605441,Curveball,16.1%
+605441,Changeup,9.7%
+605441,Slider,8.1%
+457707,NA,NA
+571710,4-Seam Fastball,64.8%
+571710,Changeup,20.7%
+571710,Slider,14.2%
+571710,Sinker,0.2%
+517448,4-Seam Fastball,69.2%
+517448,Curveball,17.1%
+517448,Changeup,13.7%
+457768,Cutter,31.6%
+457768,4-Seam Fastball,30.9%
+457768,Sinker,25.3%
+457768,Curveball,11.9%
+457768,Changeup,0.3%
+519294,4-Seam Fastball,61.2%
+519294,Split Finger,18.8%
+519294,Slider,17.6%
+519294,Sinker,2.4%
+608652,Slider,41.2%
+608652,4-Seam Fastball,36.1%
+608652,Curveball,21.8%
+608652,Changeup,0.8%
+570257,Sinker,39.3%
+570257,Changeup,29.9%
+570257,4-Seam Fastball,28.2%
+570257,Slider,2.6%
+473879,Sinker,45.2%
+473879,Cutter,27.3%
+473879,Changeup,10.6%
+473879,4-Seam Fastball,9.9%
+473879,Slider,7%
+657117,Slider,58.6%
+657117,4-Seam Fastball,37.9%
+657117,Changeup,3.4%
+116414,NA,NA
+472610,Sinker,36.6%
+472610,Slider,25.7%
+472610,4-Seam Fastball,19.7%
+472610,Split Finger,18%
+670970,4-Seam Fastball,56.2%
+670970,Split Finger,17.4%
+670970,Curveball,14%
+670970,Slider,12.4%
+123387,NA,NA
+621098,4-Seam Fastball,44.1%
+621098,Sinker,27.1%
+621098,Slider,20.3%
+621098,Changeup,8.5%
+124604,NA,NA
+501955,4-Seam Fastball,49.7%
+501955,Slider,35.5%
+501955,Curveball,11.9%
+501955,Sinker,2.9%
+542585,4-Seam Fastball,58.4%
+542585,Slider,28.1%
+542585,Changeup,8.9%
+542585,Sinker,4.6%
+656794,4-Seam Fastball,54%
+656794,Changeup,20%
+656794,Curveball,16.3%
+656794,Slider,9.7%
+502042,4-Seam Fastball,39.9%
+502042,Slider,35.5%
+502042,Changeup,12.1%
+502042,Sinker,10.4%
+502042,Curveball,2.1%
+518883,Sinker,53.3%
+518883,Slider,42.2%
+518883,Changeup,4.4%
+571863,4-Seam Fastball,48.1%
+571863,Cutter,28.3%
+571863,Changeup,16.2%
+571863,Curveball,7.4%
+605240,Cutter,39.5%
+605240,Sinker,29.2%
+605240,Curveball,17.4%
+605240,4-Seam Fastball,8.8%
+605240,Changeup,5%
+446248,NA,NA
+408057,NA,NA
+519096,Sinker,55.3%
+519096,Changeup,18.8%
+519096,Slider,13.9%
+519096,4-Seam Fastball,12%
+545404,4-Seam Fastball,61.9%
+545404,Slider,16.8%
+545404,Curveball,11.6%
+545404,Changeup,9%
+545404,Sinker,0.6%
+425657,Sinker,69.2%
+425657,Slider,21.1%
+425657,Changeup,5.2%
+425657,Curveball,4.5%
+605222,Sinker,33.3%
+605222,4-Seam Fastball,33.3%
+605222,Slider,22.2%
+605222,Curveball,11.1%
+650828,Sinker,44.5%
+650828,Slider,39%
+650828,4-Seam Fastball,13%
+650828,Changeup,3.6%
+434641,NA,NA
+523260,Curveball,63.2%
+523260,Sinker,22.8%
+523260,4-Seam Fastball,14%
+543483,Slider,39%
+543483,4-Seam Fastball,32.8%
+543483,Curveball,28.2%
+493117,4-Seam Fastball,57.7%
+493117,Changeup,26.9%
+493117,Curveball,15.4%
+607560,Slider,49.8%
+607560,4-Seam Fastball,37.5%
+607560,Curveball,12%
+607560,Changeup,0.7%
+664092,Sinker,48.4%
+664092,Slider,45.1%
+664092,Changeup,6.5%
+664682,4-Seam Fastball,38.7%
+664682,Slider,33.9%
+664682,Sinker,24.2%
+664682,Changeup,3.2%
+543238,NA,NA
+594840,4-Seam Fastball,61.1%
+594840,Slider,30.6%
+594840,Changeup,5.6%
+594840,Sinker,2.8%
+425386,4-Seam Fastball,59.6%
+425386,Changeup,14.9%
+425386,Slider,10.6%
+425386,Cutter,6.4%
+425386,Curveball,6.4%
+425386,Sinker,2.1%
+608379,4-Seam Fastball,42.5%
+608379,Changeup,29.2%
+608379,Cutter,27.1%
+608379,Curveball,1.1%
+543725,NA,NA
+456051,Sinker,44.5%
+456051,Slider,29.2%
+456051,Curveball,16.7%
+456051,Changeup,9.7%
+518715,Sinker,36.7%
+518715,Slider,33.3%
+518715,Changeup,30%
+444436,Sinker,51%
+444436,Slider,28.6%
+444436,Changeup,20.3%
+488786,Slider,44.9%
+488786,4-Seam Fastball,40.2%
+488786,Sinker,14%
+488786,Changeup,0.7%
+488786,Curveball,0.1%
+592165,Changeup,37.6%
+592165,Sinker,35%
+592165,4-Seam Fastball,16.2%
+592165,Slider,11.1%
+115399,NA,NA
+421685,4-Seam Fastball,35.1%
+421685,Sinker,32.8%
+421685,Slider,17.2%
+421685,Changeup,10.2%
+421685,Curveball,4.7%
+650671,4-Seam Fastball,68.5%
+650671,Slider,20.2%
+650671,Changeup,11.2%
+571441,NA,NA
+446290,NA,NA
+594943,Sinker,60%
+594943,Cutter,20%
+594943,Changeup,13.3%
+594943,Curveball,6.7%
+133982,NA,NA
+503285,4-Seam Fastball,46%
+503285,Slider,42.9%
+503285,Sinker,11.1%
+607374,Slider,31%
+607374,Split Finger,25.6%
+607374,4-Seam Fastball,25.2%
+607374,Changeup,13.2%
+607374,Sinker,5%
+641962,4-Seam Fastball,72%
+641962,Slider,19.1%
+641962,Sinker,5.1%
+641962,Changeup,2.5%
+641962,Curveball,1.3%
+502166,4-Seam Fastball,59%
+502166,Changeup,23.1%
+502166,Curveball,16.7%
+502166,Cutter,1.3%
+150116,Sinker,33%
+150116,Slider,24.6%
+150116,4-Seam Fastball,15.7%
+150116,Curveball,15.7%
+150116,Changeup,11.1%
+571577,Sinker,45.5%
+571577,Slider,40.9%
+571577,Changeup,13.6%
+621086,Sinker,32.9%
+621086,Curveball,26.3%
+621086,4-Seam Fastball,20.8%
+621086,Changeup,19.9%
+605301,4-Seam Fastball,55.2%
+605301,Slider,32.8%
+605301,Changeup,12%
+664856,4-Seam Fastball,47.7%
+664856,Curveball,43.7%
+664856,Slider,4.6%
+664856,Changeup,4%
+621142,4-Seam Fastball,58.2%
+621142,Slider,22.2%
+621142,Changeup,19.6%
+519186,4-Seam Fastball,55.2%
+519186,Curveball,23.3%
+519186,Changeup,21.6%
+434181,NA,NA
+492821,NA,NA
+424805,NA,NA
+477569,4-Seam Fastball,50.8%
+477569,Changeup,36.1%
+477569,Curveball,11.5%
+477569,Slider,1.6%
+502043,Sinker,35.5%
+502043,Slider,24.9%
+502043,Changeup,17.8%
+502043,4-Seam Fastball,14%
+502043,Curveball,7.8%
+442707,NA,NA
+605276,4-Seam Fastball,67.5%
+605276,Slider,21.4%
+605276,Changeup,7.7%
+605276,Curveball,3.4%
+571901,Sinker,49.9%
+571901,Cutter,31.1%
+571901,Curveball,10.3%
+571901,Changeup,8.8%
+400089,4-Seam Fastball,35.5%
+400089,Slider,22.4%
+400089,Curveball,22.4%
+400089,Cutter,15.9%
+400089,Sinker,3.7%
+425789,NA,NA
+656546,4-Seam Fastball,54.6%
+656546,Changeup,27.3%
+656546,Curveball,18%
+460105,NA,NA
+572744,NA,NA
+571670,Sinker,42.9%
+571670,Slider,31.5%
+571670,Changeup,21.6%
+571670,4-Seam Fastball,4%
+488748,4-Seam Fastball,61.4%
+488748,Curveball,30.7%
+488748,Cutter,7.9%
+622072,Sinker,46.5%
+622072,Curveball,28.7%
+622072,Changeup,23%
+622072,4-Seam Fastball,1.8%
+459999,NA,NA
+594027,4-Seam Fastball,70.1%
+594027,Slider,20.4%
+594027,Sinker,9.4%
+453268,4-Seam Fastball,41.6%
+453268,Slider,30.9%
+453268,Sinker,14.9%
+453268,Changeup,12.6%
+543881,Sinker,40.7%
+543881,Curveball,23.3%
+543881,Slider,19.8%
+543881,4-Seam Fastball,12%
+543881,Changeup,4.2%
+624586,Slider,67.2%
+624586,4-Seam Fastball,17.2%
+624586,Sinker,13.9%
+624586,Changeup,1.6%
+407825,NA,NA
+592753,Curveball,50%
+592753,4-Seam Fastball,43.8%
+592753,Sinker,6.3%
+628711,4-Seam Fastball,55.9%
+628711,Curveball,24.8%
+628711,Changeup,13.3%
+628711,Slider,5.6%
+628711,Sinker,0.5%
+430884,NA,NA
+458681,4-Seam Fastball,49.9%
+458681,Cutter,22.1%
+458681,Sinker,18%
+458681,Curveball,8.9%
+458681,Changeup,1.1%
+453286,4-Seam Fastball,46%
+453286,Slider,19%
+453286,Changeup,16.1%
+453286,Cutter,9.7%
+453286,Curveball,9.2%
+598264,4-Seam Fastball,54.1%
+598264,Curveball,43.1%
+598264,Split Finger,2.9%
+458709,NA,NA
+452061,4-Seam Fastball,36.3%
+452061,Slider,29.2%
+452061,Changeup,22.1%
+452061,Sinker,12.4%
+621199,4-Seam Fastball,37.9%
+621199,Slider,17.7%
+621199,Split Finger,15.7%
+621199,Cutter,14.6%
+621199,Curveball,11.5%
+621199,Sinker,2.7%
+452241,NA,NA
+346799,NA,NA
+623474,4-Seam Fastball,43.1%
+623474,Slider,31.4%
+623474,Sinker,11.1%
+623474,Curveball,10.9%
+623474,Changeup,3.4%
+468504,Curveball,48.9%
+468504,Sinker,35.9%
+468504,Changeup,8.7%
+468504,4-Seam Fastball,6.5%
+458924,Sinker,77.7%
+458924,Slider,17.8%
+458924,Changeup,2.5%
+458924,4-Seam Fastball,2%
+663531,4-Seam Fastball,45.7%
+663531,Slider,27.4%
+663531,Changeup,14%
+663531,Curveball,12.9%
+543334,Sinker,55%
+543334,Slider,30%
+543334,Curveball,10%
+543334,Changeup,5%
+593974,Slider,33.2%
+593974,Changeup,31.4%
+593974,4-Seam Fastball,22.3%
+593974,Sinker,13.1%
+451584,4-Seam Fastball,47.1%
+451584,Cutter,21.8%
+451584,Curveball,18.5%
+451584,Changeup,12.6%
+596001,Slider,46.2%
+596001,4-Seam Fastball,34.8%
+596001,Sinker,14.7%
+596001,Changeup,4.3%
+493603,Slider,47.2%
+493603,Sinker,45.4%
+493603,Cutter,4.1%
+493603,Changeup,2.9%
+493603,4-Seam Fastball,0.3%
+450665,4-Seam Fastball,47.5%
+450665,Changeup,24.8%
+450665,Sinker,14.9%
+450665,Curveball,8.9%
+450665,Slider,4%
+543351,Slider,55.3%
+543351,4-Seam Fastball,41.7%
+543351,Changeup,3%
+150153,NA,NA
+448147,NA,NA
+462995,NA,NA
+673258,4-Seam Fastball,55.6%
+673258,Changeup,41.4%
+673258,Slider,3%
+468517,NA,NA
+656464,4-Seam Fastball,59.7%
+656464,Slider,39.4%
+656464,Changeup,0.9%
+516714,Slider,61.5%
+516714,4-Seam Fastball,37.5%
+516714,Sinker,0.9%
+579328,Cutter,40%
+579328,4-Seam Fastball,37.7%
+579328,Slider,16%
+579328,Changeup,6.3%
+502051,Slider,56.6%
+502051,4-Seam Fastball,34%
+502051,Sinker,9.4%
+554430,4-Seam Fastball,42.1%
+554430,Sinker,23.7%
+554430,Slider,15.9%
+554430,Curveball,10.1%
+554430,Changeup,8.3%
+518774,4-Seam Fastball,53%
+518774,Slider,23.1%
+518774,Curveball,14.2%
+518774,Changeup,9.7%
+235095,NA,NA
+605226,4-Seam Fastball,60.5%
+605226,Slider,27.7%
+605226,Changeup,11.8%
+500903,NA,NA
+664199,4-Seam Fastball,45.5%
+664199,Slider,27%
+664199,Changeup,16.9%
+664199,Curveball,10.5%
+451595,NA,NA
+572998,Slider,42.5%
+572998,Sinker,27.5%
+572998,4-Seam Fastball,26.4%
+572998,Curveball,3.7%
+607405,4-Seam Fastball,59.1%
+607405,Slider,36.4%
+607405,Curveball,4.5%
+643316,4-Seam Fastball,53.2%
+643316,Slider,45.7%
+643316,Changeup,1.1%
+594795,4-Seam Fastball,60.4%
+594795,Curveball,36.2%
+594795,Sinker,3%
+594795,Changeup,0.4%
+489197,4-Seam Fastball,45.8%
+489197,Slider,37.5%
+489197,Sinker,8.3%
+489197,Changeup,8.3%
+407853,NA,NA
+431148,Sinker,49%
+431148,Changeup,18.7%
+431148,Slider,9.9%
+431148,Cutter,9.8%
+431148,4-Seam Fastball,6.6%
+431148,Curveball,6%
+656257,4-Seam Fastball,68.2%
+656257,Slider,31.8%
+519403,NA,NA
+621962,4-Seam Fastball,53.3%
+621962,Changeup,26.8%
+621962,Curveball,10.8%
+621962,Cutter,8.8%
+621962,Eephus,0.2%
+502046,Sinker,34.2%
+502046,4-Seam Fastball,24.8%
+502046,Changeup,23.9%
+502046,Curveball,17.1%
+435179,NA,NA
+517008,Cutter,71.6%
+517008,4-Seam Fastball,28.4%
+430594,NA,NA
+607755,Curveball,53.8%
+607755,Changeup,46.2%
+453284,Split Finger,42.2%
+453284,4-Seam Fastball,41.3%
+453284,Curveball,16.5%
+664157,4-Seam Fastball,64.2%
+664157,Curveball,35.2%
+664157,Changeup,0.6%
+663423,4-Seam Fastball,37.4%
+663423,Slider,23.7%
+663423,Cutter,20.6%
+663423,Split Finger,10.7%
+663423,Sinker,5.3%
+663423,Curveball,2.3%
+445001,NA,NA
+608665,Sinker,60.5%
+608665,Changeup,14.9%
+608665,4-Seam Fastball,8.5%
+608665,Cutter,7%
+608665,Curveball,5.5%
+608665,Slider,3.6%
+594742,Sinker,48.6%
+594742,4-Seam Fastball,18.9%
+594742,Cutter,13.5%
+594742,Slider,10.8%
+594742,Curveball,5.4%
+594742,Changeup,2.7%
+592229,Slider,33.5%
+592229,4-Seam Fastball,20.9%
+592229,Sinker,19.5%
+592229,Changeup,15.8%
+592229,Curveball,10.2%
+663992,4-Seam Fastball,53.8%
+663992,Changeup,46.2%
+476127,NA,NA
+474029,Split Finger,51.5%
+474029,Sinker,24.3%
+474029,4-Seam Fastball,24.3%
+475138,Sinker,59.6%
+475138,Cutter,15.4%
+475138,Changeup,15.4%
+475138,4-Seam Fastball,5.8%
+475138,Curveball,3.8%
+476205,NA,NA
+407890,4-Seam Fastball,50.7%
+407890,Slider,31.9%
+407890,Curveball,7.7%
+407890,Changeup,7.3%
+407890,Sinker,2.5%
+572143,4-Seam Fastball,71.9%
+572143,Curveball,14.4%
+572143,Changeup,13.1%
+572143,Slider,0.7%
+448306,4-Seam Fastball,25.6%
+448306,Cutter,23.2%
+448306,Curveball,19.1%
+448306,Changeup,17.6%
+448306,Sinker,11.1%
+448306,Eephus,3.5%
+461829,Changeup,32.8%
+461829,4-Seam Fastball,32.8%
+461829,Curveball,19.1%
+461829,Sinker,13.9%
+461829,Slider,1.3%
+435261,NA,NA
+643230,4-Seam Fastball,38.9%
+643230,Changeup,24.3%
+643230,Slider,22.5%
+643230,Sinker,11.8%
+643230,Curveball,2.5%
+491688,NA,NA
+605288,Sinker,43.7%
+605288,4-Seam Fastball,20.3%
+605288,Slider,12.3%
+605288,Curveball,12.1%
+605288,Changeup,11.6%
+571969,4-Seam Fastball,40%
+571969,Slider,27.7%
+571969,Sinker,16.9%
+571969,Changeup,15.4%
+572810,NA,NA
+519322,Slider,37.5%
+519322,Sinker,27.7%
+519322,Changeup,17.7%
+519322,4-Seam Fastball,15.7%
+519322,Curveball,1.3%
+446899,Sinker,73.1%
+446899,Curveball,18.5%
+446899,Changeup,8.3%
+446899,4-Seam Fastball,0.1%
+457428,NA,NA
+451085,4-Seam Fastball,48.8%
+451085,Slider,24.4%
+451085,Changeup,16.1%
+451085,Curveball,8.8%
+451085,Sinker,2%
+592811,Sinker,43.6%
+592811,Slider,31.5%
+592811,Curveball,24.2%
+592811,4-Seam Fastball,0.6%
+622492,Sinker,39.9%
+622492,Slider,32.3%
+622492,4-Seam Fastball,27.8%
+455009,4-Seam Fastball,53.1%
+455009,Slider,34.8%
+455009,Sinker,12.1%
+424144,Slider,43.1%
+424144,Sinker,43.1%
+424144,4-Seam Fastball,13.9%
+448842,NA,NA
+502083,4-Seam Fastball,67.2%
+502083,Curveball,22.5%
+502083,Sinker,8.8%
+502083,Changeup,1.4%
+518961,NA,NA
+641851,Slider,71.4%
+641851,Sinker,16.6%
+641851,4-Seam Fastball,11.6%
+641851,Changeup,0.5%
+543607,Sinker,35.4%
+543607,4-Seam Fastball,26.2%
+543607,Changeup,24.1%
+543607,Curveball,13.9%
+543607,Slider,0.4%
+656547,4-Seam Fastball,52.4%
+656547,Changeup,24.2%
+656547,Slider,10.1%
+656547,Cutter,9.8%
+656547,Curveball,3.5%
+571882,4-Seam Fastball,36.7%
+571882,Slider,30.5%
+571882,Curveball,19.9%
+571882,Changeup,12.9%
+519393,Cutter,39.6%
+519393,Sinker,25.6%
+519393,Slider,21.8%
+519393,4-Seam Fastball,13%
+642207,Changeup,52.7%
+642207,4-Seam Fastball,41.8%
+642207,Cutter,3.5%
+642207,Sinker,2.1%
+675916,4-Seam Fastball,50.2%
+675916,Curveball,49.8%
+657571,4-Seam Fastball,79.6%
+657571,Cutter,20.4%
+605169,4-Seam Fastball,62.1%
+605169,Curveball,36.8%
+605169,Changeup,1.1%
+592329,4-Seam Fastball,33.8%
+592329,Sinker,30.8%
+592329,Slider,27.3%
+592329,Changeup,8.1%
+518703,Slider,39.6%
+518703,4-Seam Fastball,32.1%
+518703,Sinker,22.2%
+518703,Curveball,5.8%
+518703,Changeup,0.3%
+434718,Slider,47.4%
+434718,Sinker,47.4%
+434718,Changeup,5.3%
+607074,4-Seam Fastball,51.1%
+607074,Slider,30.1%
+607074,Changeup,18.8%
+643320,4-Seam Fastball,48.8%
+643320,Slider,48.8%
+643320,Changeup,2.5%
+643297,Sinker,52.7%
+643297,Changeup,24.9%
+643297,Curveball,22%
+643297,4-Seam Fastball,0.5%
+519015,NA,NA
+452718,Sinker,46.8%
+452718,Slider,21.8%
+452718,Split Finger,17.3%
+452718,Cutter,12.8%
+452718,4-Seam Fastball,1.3%
+607727,4-Seam Fastball,57.1%
+607727,Slider,21.4%
+607727,Changeup,14.3%
+607727,Sinker,5.4%
+607727,Curveball,1.8%
+657670,Sinker,30%
+657670,Slider,27.8%
+657670,4-Seam Fastball,26.3%
+657670,Changeup,15.9%
+592872,4-Seam Fastball,47.7%
+592872,Changeup,36.8%
+592872,Curveball,9%
+592872,Cutter,6.5%
+606149,Slider,50.7%
+606149,4-Seam Fastball,48.5%
+606149,Sinker,0.4%
+606149,Changeup,0.4%
+554340,4-Seam Fastball,49.4%
+554340,Slider,29.5%
+554340,Curveball,10.8%
+554340,Changeup,10.4%
+623402,4-Seam Fastball,54.2%
+623402,Changeup,32.4%
+623402,Slider,12.7%
+623402,Sinker,0.7%
+625643,4-Seam Fastball,50.7%
+625643,Slider,28.6%
+625643,Changeup,20.7%
+460677,NA,NA
+592433,4-Seam Fastball,63.6%
+592433,Slider,20%
+592433,Changeup,16.1%
+592433,Sinker,0.3%
+452676,NA,NA
+627894,4-Seam Fastball,54%
+627894,Slider,40.4%
+627894,Changeup,3%
+627894,Sinker,2.6%
+607457,4-Seam Fastball,65.5%
+607457,Slider,14.7%
+607457,Changeup,12.3%
+607457,Curveball,7.5%
+420864,NA,NA
+570663,4-Seam Fastball,45.4%
+570663,Changeup,36.3%
+570663,Slider,12%
+570663,Sinker,6.3%
+607455,Changeup,51.8%
+607455,4-Seam Fastball,42.4%
+607455,Cutter,5%
+607455,Curveball,0.7%
+516970,4-Seam Fastball,36.3%
+516970,Sinker,25.7%
+516970,Curveball,21.9%
+516970,Changeup,16.1%
+572308,4-Seam Fastball,42.9%
+572308,Slider,33.8%
+572308,Changeup,11.7%
+572308,Sinker,11.7%
+279782,NA,NA
+501817,Cutter,40%
+501817,4-Seam Fastball,28%
+501817,Sinker,24%
+501817,Split Finger,4%
+501817,Curveball,4%
+425647,NA,NA
+628318,4-Seam Fastball,63.8%
+628318,Slider,17.1%
+628318,Sinker,11.5%
+628318,Curveball,5%
+628318,Changeup,2.6%
+425647,NA,NA
+628318,4-Seam Fastball,63.8%
+628318,Slider,17.1%
+628318,Sinker,11.5%
+628318,Curveball,5%
+628318,Changeup,2.6%
+606291,4-Seam Fastball,71.4%
+606291,Slider,17.5%
+606291,Changeup,11.1%
+502264,Sinker,42.3%
+502264,4-Seam Fastball,32.7%
+502264,Slider,23.5%
+502264,Changeup,1.5%
+546276,4-Seam Fastball,75.1%
+546276,Curveball,19.2%
+546276,Sinker,2.5%
+546276,Changeup,2.5%
+546276,Slider,0.7%
+669203,Sinker,33.1%
+669203,Cutter,31.5%
+669203,Slider,12.7%
+669203,Changeup,11.2%
+669203,Curveball,9.1%
+669203,4-Seam Fastball,2.5%
+605498,4-Seam Fastball,34.1%
+605498,Slider,29.4%
+605498,Changeup,23.5%
+605498,Sinker,12.9%
+621219,Sinker,33.2%
+621219,4-Seam Fastball,25.7%
+621219,Changeup,16%
+621219,Curveball,15%
+621219,Slider,10.1%
+444354,NA,NA
+641941,4-Seam Fastball,62.3%
+641941,Cutter,35.5%
+641941,Curveball,1.9%
+641941,Sinker,0.3%
+452741,NA,NA
+433587,Curveball,35.2%
+433587,Sinker,32.2%
+433587,Changeup,16.2%
+433587,Slider,9%
+433587,4-Seam Fastball,7.5%
+239795,NA,NA
+457744,Slider,48.6%
+457744,4-Seam Fastball,44.3%
+457744,Changeup,6.7%
+457744,Curveball,0.4%
+534631,NA,NA
+434592,NA,NA
+641149,Sinker,36.6%
+641149,Slider,36.3%
+641149,4-Seam Fastball,20.9%
+641149,Changeup,6.3%
+592422,Sinker,40.4%
+592422,4-Seam Fastball,31%
+592422,Slider,28.7%
+543022,Sinker,43.8%
+543022,Cutter,30%
+543022,Curveball,13.5%
+543022,4-Seam Fastball,7.5%
+543022,Changeup,5.1%
+434669,NA,NA
+608601,4-Seam Fastball,43.2%
+608601,Curveball,27.3%
+608601,Changeup,22.8%
+608601,Sinker,6.6%
+449072,NA,NA
+430683,NA,NA
+572309,Sinker,44.1%
+572309,Slider,16.9%
+572309,Changeup,16.9%
+572309,4-Seam Fastball,16.9%
+572309,Curveball,5.1%
+521655,4-Seam Fastball,54.1%
+521655,Sinker,16.3%
+521655,Slider,15.2%
+521655,Curveball,8.7%
+521655,Split Finger,5.7%
+643327,Curveball,38.2%
+643327,Cutter,38%
+643327,Changeup,10.1%
+643327,Sinker,8.1%
+643327,4-Seam Fastball,5.6%
+150009,NA,NA
+425626,Sinker,48.8%
+425626,Slider,27.4%
+425626,Changeup,21.6%
+425626,Curveball,2.1%
+476206,NA,NA
+547973,4-Seam Fastball,72.4%
+547973,Slider,21.6%
+547973,Sinker,4.5%
+547973,Split Finger,1.5%
+599899,NA,NA
+457435,4-Seam Fastball,31.1%
+457435,Sinker,27.4%
+457435,Slider,22.6%
+457435,Changeup,18.9%
+605182,4-Seam Fastball,39.9%
+605182,Slider,32.7%
+605182,Curveball,12.5%
+605182,Changeup,8.3%
+605182,Cutter,6.6%
+572044,Slider,60.7%
+572044,4-Seam Fastball,34.8%
+572044,Changeup,4.4%
+643325,Sinker,65.3%
+643325,Slider,25%
+643325,Changeup,9.7%
+622772,Sinker,59%
+622772,Slider,15.1%
+622772,Changeup,10.8%
+622772,4-Seam Fastball,9.2%
+622772,Curveball,3.1%
+622772,Cutter,2.8%
+592716,Sinker,54.2%
+592716,Slider,33.2%
+592716,Changeup,12.5%
+592716,Curveball,0.1%
+545332,Slider,47.1%
+545332,4-Seam Fastball,47.1%
+545332,Split Finger,5.7%
+643617,4-Seam Fastball,33.2%
+643617,Sinker,26.6%
+643617,Slider,23.5%
+643617,Curveball,12.8%
+643617,Changeup,3.9%
+571927,Sinker,53.7%
+571927,Changeup,26.5%
+571927,Curveball,15%
+571927,Slider,4.7%
+657612,Sinker,46%
+657612,4-Seam Fastball,44%
+657612,Slider,10.1%
+453343,Cutter,55.1%
+453343,Curveball,39%
+453343,Split Finger,3.1%
+453343,4-Seam Fastball,2.8%
+136600,Sinker,44.5%
+136600,Slider,31.1%
+136600,Changeup,13.4%
+136600,Curveball,9.2%
+136600,4-Seam Fastball,0.8%
+136600,Eephus,0.8%
+407901,NA,NA
+518852,NA,NA
+543037,4-Seam Fastball,52.8%
+543037,Slider,24.4%
+543037,Curveball,17.2%
+543037,Changeup,5.6%
+455374,4-Seam Fastball,68.9%
+455374,Slider,25.3%
+455374,Changeup,5.8%
+543532,Slider,54.7%
+543532,4-Seam Fastball,33.4%
+543532,Changeup,6%
+543532,Curveball,5.9%
+502004,Cutter,52.4%
+502004,Slider,22.9%
+502004,Sinker,20.9%
+502004,4-Seam Fastball,2%
+502004,Changeup,1.6%
+502004,Curveball,0.2%
+449820,NA,NA
+643410,Changeup,27.4%
+643410,Sinker,27%
+643410,4-Seam Fastball,24.8%
+643410,Cutter,10.9%
+643410,Curveball,9.9%
+519344,4-Seam Fastball,29.6%
+519344,Sinker,28.6%
+519344,Slider,19.9%
+519344,Curveball,18.9%
+519344,Changeup,3%
+663776,4-Seam Fastball,44.6%
+663776,Slider,25.1%
+663776,Changeup,22.9%
+663776,Curveball,7.4%
+664062,4-Seam Fastball,47.5%
+664062,Split Finger,29.8%
+664062,Slider,16.7%
+664062,Curveball,6%
+452027,Sinker,39.8%
+452027,4-Seam Fastball,24.9%
+452027,Slider,19.4%
+452027,Curveball,8.2%
+452027,Changeup,7.7%
+592612,Cutter,48.4%
+592612,4-Seam Fastball,22.7%
+592612,Slider,15.1%
+592612,Sinker,13.8%
+346848,NA,NA
+543746,Sinker,61%
+543746,Slider,23.4%
+543746,Curveball,11.7%
+543746,4-Seam Fastball,3.9%
+458676,4-Seam Fastball,35.1%
+458676,Cutter,19.3%
+458676,Slider,16.9%
+458676,Split Finger,10.1%
+458676,Curveball,9.5%
+458676,Changeup,9.2%
+136263,NA,NA
+664854,4-Seam Fastball,43.3%
+664854,Cutter,35.6%
+664854,Curveball,17%
+664854,Changeup,4.1%
+121096,NA,NA
+656945,4-Seam Fastball,59.4%
+656945,Slider,38.8%
+656945,Sinker,1.7%
+448592,NA,NA
+668676,4-Seam Fastball,37.6%
+668676,Slider,27.8%
+668676,Changeup,25.3%
+668676,Curveball,9.3%
+596027,Slider,40%
+596027,Curveball,22.5%
+596027,4-Seam Fastball,20%
+596027,Sinker,17.5%
+657031,Slider,47.9%
+657031,4-Seam Fastball,42.5%
+657031,Sinker,9.6%
+543726,4-Seam Fastball,44.2%
+543726,Cutter,31.3%
+543726,Curveball,23.9%
+543726,Sinker,0.6%
+518876,4-Seam Fastball,24.7%
+518876,Curveball,22.2%
+518876,Cutter,20.1%
+518876,Sinker,17.5%
+518876,Changeup,15.4%
+543155,NA,NA
+434672,4-Seam Fastball,48.6%
+434672,Changeup,25.9%
+434672,Curveball,25.3%
+434672,Sinker,0.2%
+656222,Changeup,43.7%
+656222,4-Seam Fastball,42.4%
+656222,Cutter,13.9%
+458713,NA,NA
+488751,NA,NA
+541640,Sinker,41%
+541640,Cutter,37.9%
+541640,Changeup,11.8%
+541640,Curveball,5.6%
+541640,4-Seam Fastball,3.6%
+592346,4-Seam Fastball,47.3%
+592346,Cutter,18.7%
+592346,Changeup,14.7%
+592346,Sinker,11.8%
+592346,Curveball,7.5%
+519169,4-Seam Fastball,55.9%
+519169,Slider,32%
+519169,Curveball,7.6%
+519169,Changeup,4.5%
+489002,4-Seam Fastball,79.4%
+489002,Curveball,11.6%
+489002,Slider,3.7%
+489002,Sinker,3.3%
+489002,Changeup,2%
+543903,Slider,42.1%
+543903,4-Seam Fastball,35.7%
+543903,Changeup,15.2%
+543903,Sinker,7%
+150118,NA,NA
+539438,4-Seam Fastball,69.2%
+539438,Curveball,15.4%
+539438,Changeup,15.4%
+425747,NA,NA
+571917,Slider,51%
+571917,4-Seam Fastball,40.3%
+571917,Sinker,7.4%
+571917,Changeup,1.3%
+623913,4-Seam Fastball,43.7%
+623913,Slider,37.6%
+623913,Changeup,16%
+623913,Curveball,2.5%
+623913,Sinker,0.2%
+489448,4-Seam Fastball,75%
+489448,Slider,17.5%
+489448,Curveball,7.5%
+543339,4-Seam Fastball,75.1%
+543339,Slider,17.1%
+543339,Changeup,5.8%
+543339,Curveball,1.9%
+458220,NA,NA
+462136,4-Seam Fastball,52.6%
+462136,Changeup,31.5%
+462136,Cutter,11.7%
+462136,Curveball,4.2%
+592712,Slider,51.2%
+592712,4-Seam Fastball,37.7%
+592712,Sinker,9%
+592712,Changeup,2.1%
+449173,Sinker,61.1%
+449173,Slider,24.4%
+449173,Curveball,9.9%
+449173,Changeup,3.1%
+449173,4-Seam Fastball,1.5%
+543258,Slider,58.2%
+543258,4-Seam Fastball,40.2%
+543258,Split Finger,1%
+543258,Sinker,0.5%
+548389,4-Seam Fastball,43.6%
+548389,Curveball,23.9%
+548389,Changeup,17.3%
+548389,Slider,14.8%
+548389,Sinker,0.4%
+622608,4-Seam Fastball,55.9%
+622608,Slider,24.6%
+622608,Changeup,10.4%
+622608,Curveball,9.2%
+518858,Sinker,52.1%
+518858,Slider,46.3%
+518858,4-Seam Fastball,1.4%
+518858,Changeup,0.3%
+592468,4-Seam Fastball,39.2%
+592468,Curveball,19.3%
+592468,Changeup,16.7%
+592468,Cutter,13%
+592468,Sinker,10.4%
+592468,Slider,1.3%
+446135,NA,NA
+606273,4-Seam Fastball,50.8%
+606273,Changeup,29.3%
+606273,Curveball,13.4%
+606273,Sinker,6.5%
+646057,NA,NA
+543883,4-Seam Fastball,47.7%
+543883,Cutter,34.7%
+543883,Changeup,8%
+543883,Sinker,5.6%
+543883,Slider,4%
+462945,4-Seam Fastball,65.5%
+462945,Changeup,21.6%
+462945,Slider,12.9%
+502212,4-Seam Fastball,33.9%
+502212,Slider,21.3%
+502212,Changeup,17.9%
+502212,Sinker,13.5%
+502212,Curveball,13.4%
+501529,NA,NA
+642528,4-Seam Fastball,42.6%
+642528,Sinker,24.6%
+642528,Curveball,17.5%
+642528,Changeup,15.2%
+542924,4-Seam Fastball,70.1%
+542924,Curveball,25.6%
+542924,Changeup,3.4%
+542924,Cutter,0.9%
+474521,4-Seam Fastball,60.8%
+474521,Slider,22%
+474521,Changeup,10.8%
+474521,Cutter,5.7%
+474521,Sinker,0.8%
+572703,Slider,49.4%
+572703,4-Seam Fastball,45.6%
+572703,Changeup,5.1%
+622098,4-Seam Fastball,46.8%
+622098,Cutter,31.2%
+622098,Curveball,11.9%
+622098,Changeup,10.1%
+119154,NA,NA
+457566,NA,NA
+491708,4-Seam Fastball,40.3%
+491708,Sinker,27%
+491708,Slider,23.1%
+491708,Split Finger,9.4%
+491708,Changeup,0.3%
+451532,4-Seam Fastball,30.4%
+451532,Sinker,29.3%
+451532,Cutter,18.4%
+451532,Changeup,9.9%
+451532,Slider,8.9%
+451532,Curveball,3.1%
+469134,4-Seam Fastball,44.1%
+469134,Slider,20.1%
+469134,Curveball,19.9%
+469134,Sinker,11.1%
+469134,Cutter,3.5%
+469134,Changeup,1.4%
+451650,NA,NA
+456696,Cutter,31.4%
+456696,4-Seam Fastball,27.6%
+456696,Sinker,24.5%
+456696,Curveball,16.1%
+456696,Changeup,0.4%
+476594,4-Seam Fastball,64%
+476594,Slider,22.9%
+476594,Changeup,13%
+475857,4-Seam Fastball,58%
+475857,Slider,27.2%
+475857,Sinker,9.3%
+475857,Changeup,5.4%
+592314,Slider,31.4%
+592314,Sinker,22.9%
+592314,4-Seam Fastball,21.4%
+592314,Changeup,12.9%
+592314,Curveball,11.4%
+502327,4-Seam Fastball,59.3%
+502327,Changeup,19.8%
+502327,Slider,16.1%
+502327,Curveball,4.6%
+502327,Sinker,0.1%
+450282,4-Seam Fastball,35%
+450282,Sinker,32.5%
+450282,Slider,32.5%
+592804,4-Seam Fastball,57.8%
+592804,Curveball,21.8%
+592804,Changeup,20.4%
+506693,4-Seam Fastball,40.6%
+506693,Changeup,25.3%
+506693,Sinker,21.1%
+506693,Slider,6.1%
+506693,Curveball,4.2%
+506693,Eephus,2.7%
+571911,Slider,50%
+571911,4-Seam Fastball,27.8%
+571911,Sinker,22.2%
+545346,4-Seam Fastball,32.6%
+545346,Sinker,30.2%
+545346,Cutter,29.7%
+545346,Curveball,4.7%
+545346,Changeup,2.9%
+407193,NA,NA
+457117,4-Seam Fastball,56.5%
+457117,Slider,34.7%
+457117,Changeup,5.6%
+457117,Sinker,3.2%
+430597,NA,NA
+502593,Sinker,65.3%
+502593,Changeup,24.6%
+502593,Slider,9.3%
+502593,4-Seam Fastball,0.8%
+474256,NA,NA
+605388,Slider,45.7%
+605388,4-Seam Fastball,20.1%
+605388,Changeup,16.9%
+605388,Sinker,13.7%
+605388,Curveball,3.7%
+605374,4-Seam Fastball,64.5%
+605374,Slider,25.4%
+605374,Sinker,10.1%
+592398,Sinker,41.9%
+592398,Slider,26.8%
+592398,4-Seam Fastball,21.7%
+592398,Changeup,9.1%
+592398,Curveball,0.5%
+445216,NA,NA
+622065,Curveball,24.6%
+622065,Cutter,21.6%
+622065,Changeup,21.1%
+622065,4-Seam Fastball,19.8%
+622065,Sinker,12.9%
+457733,NA,NA
+517629,4-Seam Fastball,60.3%
+517629,Changeup,25.9%
+517629,Slider,13.8%
+657624,4-Seam Fastball,57.6%
+657624,Slider,23.5%
+657624,Changeup,13.8%
+657624,Curveball,5%
+623465,4-Seam Fastball,66.2%
+623465,Slider,26.4%
+623465,Changeup,7.4%
+544931,4-Seam Fastball,44.7%
+544931,Curveball,34.1%
+544931,Changeup,20%
+544931,Sinker,1.2%
+465015,NA,NA
+543518,4-Seam Fastball,66%
+543518,Curveball,22.9%
+543518,Slider,6.9%
+543518,Changeup,4.2%
+543716,4-Seam Fastball,66.7%
+543716,Slider,21.7%
+543716,Changeup,11.6%
+518493,NA,NA
+425514,NA,NA
+542669,4-Seam Fastball,51.1%
+542669,Slider,23.6%
+542669,Changeup,15.5%
+542669,Sinker,7.7%
+542669,Split Finger,2.1%
+572038,4-Seam Fastball,50%
+572038,Slider,50%
+444857,Cutter,34%
+444857,Sinker,29.3%
+444857,Curveball,26.5%
+444857,4-Seam Fastball,6.1%
+444857,Changeup,4.1%
+643550,Cutter,56.9%
+643550,Curveball,32.8%
+643550,4-Seam Fastball,8.6%
+643550,Changeup,1.7%
+645848,NA,NA
+664180,4-Seam Fastball,43.8%
+664180,Curveball,31.4%
+664180,Cutter,19%
+664180,Sinker,2.9%
+664180,Changeup,2.9%
+424324,NA,NA
+664208,4-Seam Fastball,46.4%
+664208,Cutter,31.7%
+664208,Curveball,20.3%
+664208,Sinker,1.6%
+593144,4-Seam Fastball,71.9%
+593144,Slider,27.6%
+593144,Sinker,0.5%
+544928,4-Seam Fastball,55.2%
+544928,Slider,31%
+544928,Changeup,13.8%
+502179,4-Seam Fastball,54.5%
+502179,Curveball,30.9%
+502179,Slider,9.1%
+502179,Changeup,5.5%
+346801,NA,NA
+491159,4-Seam Fastball,68.6%
+491159,Slider,15.8%
+491159,Cutter,15.6%
+453281,Changeup,34.9%
+453281,Cutter,27.8%
+453281,Sinker,19.1%
+453281,Curveball,13.4%
+453281,4-Seam Fastball,4.9%
+641490,4-Seam Fastball,69.5%
+641490,Slider,20.7%
+641490,Changeup,9.8%
+542960,Cutter,31.6%
+542960,Changeup,24%
+542960,Sinker,19.2%
+542960,4-Seam Fastball,17.6%
+542960,Slider,7.6%
+665093,Sinker,53%
+665093,Curveball,20.8%
+665093,Split Finger,20.3%
+665093,Slider,5.9%
+622217,Cutter,45.3%
+622217,4-Seam Fastball,41.6%
+622217,Changeup,8%
+622217,Curveball,5.1%
+664701,4-Seam Fastball,61.6%
+664701,Slider,22.2%
+664701,Changeup,10.1%
+664701,Sinker,6.1%
+518603,4-Seam Fastball,48.2%
+518603,Slider,31.9%
+518603,Changeup,10.2%
+518603,Sinker,9.6%
+571616,Sinker,44.4%
+571616,Changeup,33.3%
+571616,Slider,22.2%
+502011,4-Seam Fastball,58.8%
+502011,Slider,29.4%
+502011,Changeup,11.8%
+493133,NA,NA
+543942,Slider,38.9%
+543942,Sinker,31.3%
+543942,Curveball,15.3%
+543942,Split Finger,13.7%
+543942,4-Seam Fastball,0.8%
+502578,Slider,51.6%
+502578,Sinker,45.2%
+502578,Changeup,3.2%
+521055,NA,NA
+607188,4-Seam Fastball,61%
+607188,Split Finger,27.2%
+607188,Slider,11.8%
+605513,4-Seam Fastball,45.1%
+605513,Slider,20.9%
+605513,Sinker,20.9%
+605513,Changeup,9.1%
+605513,Curveball,4%
+445153,NA,NA
+453304,NA,NA
+457453,NA,NA
+467008,Sinker,26.9%
+467008,Slider,23.9%
+467008,4-Seam Fastball,20.9%
+467008,Cutter,19.4%
+467008,Split Finger,9%
+430587,NA,NA
+435178,NA,NA
+120221,NA,NA
+623439,4-Seam Fastball,55.6%
+623439,Cutter,17.5%
+623439,Curveball,17.5%
+623439,Slider,9.5%
+642558,Slider,31%
+642558,Sinker,27.4%
+642558,4-Seam Fastball,22.6%
+642558,Changeup,15.5%
+642558,Curveball,3.6%
+460370,NA,NA
+670456,4-Seam Fastball,54.7%
+670456,Slider,45.3%
+453232,NA,NA
+502055,NA,NA
+571035,4-Seam Fastball,29.3%
+571035,Slider,28.4%
+571035,Changeup,19.8%
+571035,Curveball,14.9%
+571035,Sinker,7.5%
+607259,4-Seam Fastball,38.1%
+607259,Curveball,18.8%
+607259,Sinker,18.2%
+607259,Cutter,13.3%
+607259,Changeup,11.7%
+475416,Sinker,37.7%
+475416,Slider,29.4%
+475416,4-Seam Fastball,28.5%
+475416,Changeup,4.4%
+407845,Sinker,47.4%
+407845,Changeup,28.8%
+407845,4-Seam Fastball,20.6%
+407845,Slider,3.3%
+457422,NA,NA
+605232,4-Seam Fastball,36.6%
+605232,Sinker,29%
+605232,Slider,23%
+605232,Changeup,11.5%
+623430,4-Seam Fastball,53.2%
+623430,Slider,40.9%
+623430,Changeup,6%
+450580,NA,NA
+491220,NA,NA
+503566,4-Seam Fastball,50%
+503566,Slider,40%
+503566,Changeup,10%
+468528,NA,NA
+400076,NA,NA
+641341,Sinker,38.6%
+641341,Slider,37.1%
+641341,Changeup,14.4%
+641341,4-Seam Fastball,9.8%
+547888,Slider,37.7%
+547888,Split Finger,24.8%
+547888,4-Seam Fastball,24.1%
+547888,Sinker,7.5%
+547888,Curveball,5.9%
+518418,Sinker,69.2%
+518418,Curveball,28.8%
+518418,Split Finger,1.9%
+444553,NA,NA
+150404,NA,NA
+425861,NA,NA
+608718,4-Seam Fastball,71.5%
+608718,Changeup,13.6%
+608718,Sinker,7.8%
+608718,Curveball,7.2%
+112526,Sinker,62.3%
+112526,4-Seam Fastball,16.4%
+112526,Changeup,11.1%
+112526,Slider,7.4%
+112526,Cutter,2.8%
+429719,Cutter,27.4%
+429719,Slider,25.2%
+429719,4-Seam Fastball,23.3%
+429719,Sinker,13.9%
+429719,Changeup,7.5%
+429719,Curveball,2.7%
+573127,Slider,59.9%
+573127,Sinker,21%
+573127,4-Seam Fastball,19.1%
+429400,Sinker,61.9%
+429400,Curveball,24.6%
+429400,4-Seam Fastball,8.7%
+429400,Changeup,4.8%
+608650,4-Seam Fastball,64%
+608650,Curveball,20.9%
+608650,Changeup,15.1%
+455092,NA,NA
+407816,NA,NA
+118158,NA,NA
+584171,Changeup,30.4%
+584171,Sinker,27.5%
+584171,4-Seam Fastball,23%
+584171,Slider,16.8%
+584171,Curveball,2.3%
+657786,4-Seam Fastball,54.2%
+657786,Slider,38.5%
+657786,Changeup,7.3%
+575070,4-Seam Fastball,45.5%
+575070,Changeup,30.7%
+575070,Slider,13.6%
+575070,Sinker,10.2%
+430613,Sinker,77.2%
+430613,Slider,12.8%
+430613,Changeup,9.4%
+430613,4-Seam Fastball,0.7%
+400058,NA,NA
+431162,Sinker,52.4%
+431162,Changeup,15.5%
+431162,Slider,15.3%
+431162,4-Seam Fastball,10.3%
+431162,Curveball,6.6%
+543935,Slider,53.5%
+543935,Sinker,28.2%
+543935,4-Seam Fastball,17.3%
+543935,Cutter,0.5%
+543935,Changeup,0.5%
+446003,NA,NA
+553970,4-Seam Fastball,34.7%
+553970,Cutter,26.1%
+553970,Sinker,17.1%
+553970,Changeup,15.2%
+553970,Slider,6.9%
+407911,NA,NA
+502195,NA,NA
+451628,NA,NA
+598286,Changeup,32.8%
+598286,Sinker,26.3%
+598286,Cutter,22.6%
+598286,4-Seam Fastball,15.1%
+598286,Curveball,3.2%
+605280,Curveball,59.1%
+605280,Sinker,31.8%
+605280,Slider,9.1%
+622797,Sinker,46.5%
+622797,Slider,20.6%
+622797,Changeup,19.7%
+622797,Curveball,13.2%
+435080,NA,NA
+456585,NA,NA
+445202,NA,NA
+606959,4-Seam Fastball,40.1%
+606959,Sinker,32.3%
+606959,Changeup,14.6%
+606959,Slider,8.3%
+606959,Curveball,3.6%
+606959,Cutter,1%
+592833,4-Seam Fastball,50%
+592833,Slider,50%
+656798,4-Seam Fastball,62.5%
+656798,Curveball,19.7%
+656798,Changeup,14.2%
+656798,Slider,3.7%
+592473,Sinker,79.8%
+592473,Slider,9.1%
+592473,Changeup,7.1%
+592473,4-Seam Fastball,4%
+606167,4-Seam Fastball,44%
+606167,Slider,30%
+606167,Changeup,16.1%
+606167,Sinker,9.9%
+276914,NA,NA
+456701,4-Seam Fastball,43.6%
+456701,Slider,22.6%
+456701,Split Finger,22.6%
+456701,Curveball,10.5%
+456701,Sinker,0.8%
+605242,Sinker,34.7%
+605242,4-Seam Fastball,27.7%
+605242,Slider,23.1%
+605242,Changeup,9.7%
+605242,Curveball,4.9%
+150188,NA,NA
+459987,4-Seam Fastball,37.1%
+459987,Changeup,26.2%
+459987,Slider,21.5%
+459987,Curveball,15.3%
+542947,Sinker,50.9%
+542947,Slider,24.3%
+542947,Cutter,18.8%
+542947,Changeup,5.5%
+542947,4-Seam Fastball,0.5%
+592858,4-Seam Fastball,53%
+592858,Curveball,34.2%
+592858,Cutter,12.8%
+458584,Cutter,77.8%
+458584,Curveball,22.2%
+543266,NA,NA
+400061,NA,NA
+621295,4-Seam Fastball,60.5%
+621295,Changeup,24.1%
+621295,Slider,15.1%
+621295,Sinker,0.3%
+448693,NA,NA
+447755,4-Seam Fastball,76.9%
+447755,Changeup,16.8%
+447755,Slider,6.4%
+430904,NA,NA
+150414,NA,NA
+502706,Sinker,43.5%
+502706,Curveball,37.3%
+502706,Changeup,16%
+502706,4-Seam Fastball,3.2%
+605143,4-Seam Fastball,59.7%
+605143,Slider,40.3%
+596071,4-Seam Fastball,50%
+596071,Changeup,27.8%
+596071,Slider,11.1%
+596071,Curveball,11.1%
+641482,4-Seam Fastball,40%
+641482,Slider,36.4%
+641482,Curveball,17.6%
+641482,Changeup,5.5%
+641482,Sinker,0.6%
+519301,Sinker,64%
+519301,Curveball,19.8%
+519301,Changeup,16.2%
+571578,Slider,40.3%
+571578,Sinker,29.8%
+571578,4-Seam Fastball,22.3%
+571578,Changeup,5.6%
+571578,Curveball,2.1%
+457429,Slider,44.6%
+457429,4-Seam Fastball,35.7%
+457429,Sinker,19.6%
+430630,4-Seam Fastball,61.6%
+430630,Slider,19.4%
+430630,Changeup,18.8%
+430630,Sinker,0.2%
+543045,4-Seam Fastball,61.7%
+543045,Changeup,16.9%
+543045,Slider,13.9%
+543045,Curveball,7.4%
+542882,Changeup,36.8%
+542882,4-Seam Fastball,36.8%
+542882,Curveball,11.8%
+542882,Cutter,8.2%
+542882,Sinker,6.4%
+573124,Sinker,52.6%
+573124,Slider,44.4%
+573124,Curveball,1.8%
+573124,4-Seam Fastball,1.2%
+621408,4-Seam Fastball,58.3%
+621408,Slider,41.7%
+622253,Sinker,35.1%
+622253,Slider,26%
+622253,4-Seam Fastball,22.8%
+622253,Changeup,16.1%
+467094,4-Seam Fastball,33.3%
+467094,Sinker,24.1%
+467094,Changeup,18%
+467094,Curveball,12.9%
+467094,Cutter,11.8%
+571521,4-Seam Fastball,50%
+571521,Slider,47.4%
+571521,Sinker,2.6%
+469167,NA,NA
+471822,Slider,52.8%
+471822,4-Seam Fastball,37.5%
+471822,Sinker,9.7%
+543023,NA,NA
+543278,Changeup,44.8%
+543278,Curveball,20%
+543278,4-Seam Fastball,19.2%
+543278,Cutter,14.1%
+543278,Sinker,1.9%
+463037,NA,NA
+672773,4-Seam Fastball,55.3%
+672773,Slider,25.5%
+672773,Changeup,19.2%
+605218,4-Seam Fastball,66.1%
+605218,Curveball,33.9%
+519267,4-Seam Fastball,51.2%
+519267,Curveball,24.8%
+519267,Cutter,21.7%
+519267,Sinker,2.3%
+430580,Sinker,31.5%
+430580,Split Finger,21.2%
+430580,Cutter,19.7%
+430580,4-Seam Fastball,15.9%
+430580,Curveball,11.3%
+430580,Eephus,0.5%
+608349,4-Seam Fastball,62.4%
+608349,Curveball,33.8%
+608349,Changeup,3.4%
+608349,Sinker,0.4%
+434637,NA,NA
+425539,NA,NA
+605260,Curveball,44.5%
+605260,Sinker,43.1%
+605260,Changeup,10%
+605260,4-Seam Fastball,2.2%
+605260,Cutter,0.2%
+117955,NA,NA
+592233,Sinker,60.4%
+592233,Curveball,37.1%
+592233,4-Seam Fastball,1.5%
+592233,Changeup,1%
+458690,Sinker,61.5%
+458690,Curveball,25.9%
+458690,Changeup,7.6%
+458690,4-Seam Fastball,4.5%
+458690,Slider,0.6%
+642229,Sinker,27.8%
+642229,Changeup,20.9%
+642229,4-Seam Fastball,20.9%
+642229,Curveball,17.6%
+642229,Slider,12.7%
+665001,Sinker,54.5%
+665001,Slider,28.6%
+665001,Curveball,15.6%
+665001,Changeup,1.3%
+502748,Sinker,49.2%
+502748,Slider,33.9%
+502748,Changeup,11.9%
+502748,Curveball,3.4%
+502748,4-Seam Fastball,1.7%
+630023,Sinker,52.1%
+630023,Split Finger,23.7%
+630023,Slider,15.8%
+630023,4-Seam Fastball,8.4%
+430083,NA,NA
+462480,4-Seam Fastball,48.2%
+462480,Slider,19.6%
+462480,Changeup,17.9%
+462480,Curveball,14.3%
+594977,4-Seam Fastball,63.8%
+594977,Curveball,23.8%
+594977,Changeup,11.9%
+594977,Cutter,0.4%
+456068,4-Seam Fastball,38.1%
+456068,Split Finger,21%
+456068,Slider,17.1%
+456068,Curveball,12.1%
+456068,Sinker,11.7%
+460701,Slider,32.8%
+460701,4-Seam Fastball,27.6%
+460701,Sinker,13.8%
+460701,Curveball,9.5%
+460701,Changeup,9.5%
+460701,Cutter,6.9%
+642607,Sinker,55.2%
+642607,Slider,18.9%
+642607,Changeup,13.4%
+642607,4-Seam Fastball,12.5%
+462985,Changeup,40.7%
+462985,Curveball,22%
+462985,Sinker,16.9%
+462985,Slider,10.2%
+462985,4-Seam Fastball,10.2%
+501789,Cutter,76.5%
+501789,Curveball,22.3%
+501789,4-Seam Fastball,1.2%
+461791,NA,NA
+607706,Sinker,58.5%
+607706,4-Seam Fastball,23.2%
+607706,Slider,17.1%
+607706,Changeup,1.2%
+608641,4-Seam Fastball,48%
+608641,Changeup,22.4%
+608641,Curveball,20.1%
+608641,Slider,8.9%
+608641,Sinker,0.6%
+502229,NA,NA
+596295,4-Seam Fastball,52.5%
+596295,Curveball,24.3%
+596295,Slider,15.8%
+596295,Changeup,7.4%
+518566,4-Seam Fastball,37.2%
+518566,Changeup,31.8%
+518566,Slider,21.7%
+518566,Curveball,4.8%
+518566,Cutter,4.4%
+346800,NA,NA
+434671,Split Finger,29.1%
+434671,4-Seam Fastball,28.5%
+434671,Cutter,21%
+434671,Sinker,8.7%
+434671,Changeup,6.5%
+434671,Curveball,6.2%
+519293,Slider,47.3%
+519293,4-Seam Fastball,44.3%
+519293,Curveball,8.4%
+621289,4-Seam Fastball,51%
+621289,Changeup,18.8%
+621289,Curveball,16.7%
+621289,Slider,13.5%
+518633,4-Seam Fastball,39.4%
+518633,Slider,17.2%
+518633,Changeup,15.2%
+518633,Sinker,14.1%
+518633,Curveball,14.1%
+456027,4-Seam Fastball,57.3%
+456027,Slider,20.7%
+456027,Changeup,16.5%
+456027,Sinker,5.3%
+456027,Curveball,0.3%
+605483,4-Seam Fastball,50.6%
+605483,Changeup,19.8%
+605483,Slider,15%
+605483,Curveball,14.6%
+150274,4-Seam Fastball,47.2%
+150274,Slider,24%
+150274,Curveball,15.2%
+150274,Sinker,11.2%
+150274,Changeup,2.4%
+592527,Slider,39.3%
+592527,Sinker,36.4%
+592527,4-Seam Fastball,18.2%
+592527,Curveball,4.8%
+592527,Changeup,1.3%
+516935,4-Seam Fastball,40.6%
+516935,Slider,31.5%
+516935,Sinker,27.9%
+658792,4-Seam Fastball,50.5%
+658792,Slider,17.4%
+658792,Curveball,17.1%
+658792,Changeup,15%
+605447,Slider,59.9%
+605447,4-Seam Fastball,40.1%
+469159,NA,NA
+448802,4-Seam Fastball,34.8%
+448802,Sinker,32%
+448802,Slider,16%
+448802,Changeup,12.2%
+448802,Curveball,4.9%
+621363,4-Seam Fastball,88.5%
+621363,Curveball,10%
+621363,Split Finger,1.5%
+519105,NA,NA
+543169,Slider,41.7%
+543169,Sinker,36.5%
+543169,4-Seam Fastball,20.5%
+543169,Changeup,1.4%
+452240,NA,NA
+542953,Curveball,53.6%
+542953,Sinker,39.6%
+542953,Changeup,6.8%
+448694,NA,NA
+543343,4-Seam Fastball,38.4%
+543343,Slider,27.4%
+543343,Sinker,20.5%
+543343,Changeup,13.7%
+502026,Split Finger,32.1%
+502026,Sinker,31.5%
+502026,Curveball,25%
+502026,4-Seam Fastball,11.5%
+518468,4-Seam Fastball,72.1%
+518468,Slider,17.4%
+518468,Changeup,7%
+518468,Curveball,3.5%
+669270,4-Seam Fastball,38.6%
+669270,Slider,35.1%
+669270,Sinker,19.3%
+669270,Changeup,7%
+425827,NA,NA
+573186,Sinker,36.3%
+573186,Slider,30.9%
+573186,Cutter,24.1%
+573186,Changeup,5.3%
+573186,4-Seam Fastball,2.4%
+573186,Curveball,1%
+517593,Changeup,45.5%
+517593,4-Seam Fastball,31.8%
+517593,Slider,21.2%
+517593,Curveball,1.5%
+607644,4-Seam Fastball,52.3%
+607644,Changeup,24.7%
+607644,Curveball,12.6%
+607644,Slider,10.3%
+133225,NA,NA
+615868,4-Seam Fastball,71.1%
+615868,Curveball,24.4%
+615868,Changeup,4.4%
+544727,Sinker,45.5%
+544727,Slider,28.8%
+544727,4-Seam Fastball,14.3%
+544727,Split Finger,11.2%
+544727,Curveball,0.2%
+425840,Slider,51.9%
+425840,4-Seam Fastball,40.2%
+425840,Sinker,7.3%
+425840,Changeup,0.6%
+571676,Changeup,36.8%
+571676,Sinker,32.4%
+571676,Slider,26.5%
+571676,Curveball,4.4%
+607237,Slider,55.5%
+607237,4-Seam Fastball,40.8%
+607237,Sinker,3.7%
+459415,NA,NA
+518813,Slider,51.3%
+518813,4-Seam Fastball,37.1%
+518813,Curveball,11.1%
+518813,Changeup,0.5%
+606625,4-Seam Fastball,58.4%
+606625,Slider,34.6%
+606625,Changeup,6.9%
+527055,Slider,47.1%
+527055,Sinker,45.6%
+527055,4-Seam Fastball,7.4%
+600526,4-Seam Fastball,44.3%
+600526,Sinker,32%
+600526,Slider,18.4%
+600526,Changeup,5.2%
+519381,Slider,29.1%
+519381,Cutter,23.6%
+519381,Curveball,20%
+519381,4-Seam Fastball,16.4%
+519381,Sinker,7.3%
+519381,Changeup,3.6%
+451585,NA,NA
+656605,4-Seam Fastball,55.6%
+656605,Slider,21.8%
+656605,Curveball,19.5%
+656605,Changeup,3.1%
+622075,Slider,44.8%
+622075,4-Seam Fastball,39.5%
+622075,Changeup,12.3%
+622075,Sinker,3.4%
+605254,4-Seam Fastball,42.9%
+605254,Slider,29.8%
+605254,Changeup,9.8%
+605254,Curveball,9%
+605254,Sinker,8.5%
+445204,NA,NA
+451132,NA,NA
+460059,Sinker,59.3%
+460059,Curveball,15.1%
+460059,Split Finger,12.8%
+460059,Slider,12.3%
+460059,4-Seam Fastball,0.5%
+605894,4-Seam Fastball,50.2%
+605894,Curveball,25.8%
+605894,Changeup,14.1%
+605894,Sinker,9.9%
+501697,Sinker,43.7%
+501697,Slider,37.1%
+501697,4-Seam Fastball,14.6%
+501697,Changeup,4.6%
+547943,Changeup,27.8%
+547943,Cutter,24.2%
+547943,4-Seam Fastball,24.1%
+547943,Curveball,13.3%
+547943,Sinker,10.6%
+607536,Changeup,25.3%
+607536,Slider,23.7%
+607536,4-Seam Fastball,20.6%
+607536,Curveball,18.9%
+607536,Sinker,11.6%
+543506,Slider,42.5%
+543506,4-Seam Fastball,38.4%
+543506,Changeup,12.5%
+543506,Sinker,6.6%
+594986,Cutter,38.4%
+594986,Sinker,35.4%
+594986,4-Seam Fastball,17.5%
+594986,Curveball,8.6%
+543101,Slider,31.6%
+543101,4-Seam Fastball,28.6%
+543101,Sinker,22.6%
+543101,Curveball,10.1%
+543101,Changeup,7.1%
+503444,Sinker,50.1%
+503444,Slider,24.5%
+503444,Changeup,24%
+503444,4-Seam Fastball,1.5%
+572362,4-Seam Fastball,55.7%
+572362,Curveball,27.3%
+572362,Changeup,16.1%
+572362,Sinker,0.9%
+460069,NA,NA
+543542,Curveball,36.9%
+543542,Sinker,31%
+543542,4-Seam Fastball,27.4%
+543542,Slider,3.3%
+543542,Changeup,1.4%
+407860,NA,NA
+400008,NA,NA
+472551,Sinker,56.7%
+472551,Curveball,28.1%
+472551,Changeup,14%
+472551,4-Seam Fastball,1.2%
+425786,Slider,56.2%
+425786,4-Seam Fastball,33.7%
+425786,Curveball,10.1%
+605463,Sinker,49.2%
+605463,Slider,42.9%
+605463,4-Seam Fastball,7.9%
+425844,4-Seam Fastball,41.2%
+425844,Changeup,27.2%
+425844,Slider,15.9%
+425844,Curveball,15.7%
+643778,4-Seam Fastball,39.6%
+643778,Changeup,23.7%
+643778,Sinker,20.2%
+643778,Curveball,16.5%
+607219,Sinker,76.9%
+607219,Slider,23.1%
+518452,4-Seam Fastball,35.8%
+518452,Changeup,32.2%
+518452,Cutter,17.4%
+518452,Curveball,12%
+518452,Sinker,2.5%
+592705,4-Seam Fastball,47.4%
+592705,Slider,36.8%
+592705,Changeup,15.8%
+285064,4-Seam Fastball,37.2%
+285064,Slider,22.2%
+285064,Curveball,15.6%
+285064,Changeup,12.9%
+285064,Sinker,12.1%
+500765,4-Seam Fastball,55.8%
+500765,Slider,24%
+500765,Changeup,16.1%
+500765,Sinker,4.1%
+623352,4-Seam Fastball,67.7%
+623352,Slider,32.3%
+434578,NA,NA
+448857,NA,NA
+429715,NA,NA
+136734,NA,NA
+656685,Slider,33.3%
+656685,4-Seam Fastball,32.9%
+656685,Sinker,20.3%
+656685,Curveball,13.5%
+543921,4-Seam Fastball,55.7%
+543921,Changeup,25%
+543921,Curveball,19.3%
+545363,Sinker,60.5%
+545363,Slider,20.4%
+545363,Curveball,16.7%
+545363,Changeup,1.2%
+545363,4-Seam Fastball,1.2%
+592332,4-Seam Fastball,49.1%
+592332,Split Finger,42.2%
+592332,Slider,6.8%
+592332,Sinker,1.9%
+493416,NA,NA
+430665,NA,NA
+406874,NA,NA
+434137,Sinker,54.5%
+434137,Curveball,31.2%
+434137,4-Seam Fastball,11.7%
+434137,Changeup,2.6%
+445968,Sinker,47.4%
+445968,Slider,46.8%
+445968,Changeup,2.9%
+445968,4-Seam Fastball,2.9%
+664641,4-Seam Fastball,58.7%
+664641,Split Finger,23.9%
+664641,Slider,13%
+664641,Curveball,4.3%
+461833,4-Seam Fastball,55.5%
+461833,Curveball,17.6%
+461833,Cutter,16.2%
+461833,Sinker,10.1%
+461833,Changeup,0.5%
+446185,4-Seam Fastball,39%
+446185,Cutter,28.5%
+446185,Sinker,13.8%
+446185,Curveball,9.8%
+446185,Changeup,8.9%
+519168,4-Seam Fastball,57.1%
+519168,Curveball,27.6%
+519168,Slider,9.8%
+519168,Changeup,5.6%
+621242,4-Seam Fastball,60.9%
+621242,Slider,37.7%
+621242,Sinker,1%
+621242,Changeup,0.2%
+621242,Cutter,0.2%
+606131,Sinker,40.9%
+606131,Slider,34.8%
+606131,Split Finger,22.1%
+606131,4-Seam Fastball,2.2%
+543135,4-Seam Fastball,37.7%
+543135,Cutter,31.1%
+543135,Curveball,17.1%
+543135,Split Finger,14%
+543184,Sinker,34.3%
+543184,Slider,19.6%
+543184,Curveball,18.6%
+543184,4-Seam Fastball,14.5%
+543184,Changeup,13%
+458530,NA,NA
+641850,Slider,36.4%
+641850,Sinker,30.3%
+641850,Changeup,21.8%
+641850,4-Seam Fastball,11.5%
+150337,NA,NA
+605255,4-Seam Fastball,37%
+605255,Slider,30.2%
+605255,Curveball,17.3%
+605255,Sinker,15.6%
+435538,NA,NA
+592815,4-Seam Fastball,33.3%
+592815,Sinker,28.5%
+592815,Slider,20.3%
+592815,Curveball,17.9%
+493200,4-Seam Fastball,42.5%
+493200,Cutter,38.7%
+493200,Curveball,14%
+493200,Changeup,4.6%
+493200,Slider,0.3%
+657205,4-Seam Fastball,59.3%
+657205,Slider,28.4%
+657205,Changeup,10.4%
+657205,Sinker,1.9%
+664054,4-Seam Fastball,55.2%
+664054,Slider,40.8%
+664054,Changeup,4%
+425656,NA,NA
+460029,NA,NA
+645261,Sinker,34.9%
+645261,4-Seam Fastball,24.8%
+645261,Slider,22.1%
+645261,Changeup,10.3%
+645261,Curveball,8%
+453273,NA,NA
+279571,4-Seam Fastball,46.1%
+279571,Slider,37%
+279571,Sinker,8.9%
+279571,Curveball,7.9%
+279571,Changeup,0.2%
+435400,Cutter,52.9%
+435400,Sinker,26.3%
+435400,4-Seam Fastball,19.5%
+435400,Changeup,1.2%
+592222,Changeup,38.1%
+592222,Sinker,34.4%
+592222,Slider,22.7%
+592222,4-Seam Fastball,4.8%
+115817,NA,NA
+548337,Slider,34%
+548337,4-Seam Fastball,30.8%
+548337,Sinker,19.9%
+548337,Changeup,10.3%
+548337,Curveball,5.1%
+489446,4-Seam Fastball,64.4%
+489446,Split Finger,35.6%
+527048,Cutter,32%
+527048,Changeup,25.8%
+527048,Sinker,17.7%
+527048,4-Seam Fastball,15.1%
+527048,Curveball,9.4%
+446861,NA,NA
+627500,4-Seam Fastball,53.8%
+627500,Changeup,38.5%
+627500,Curveball,7.7%
+534737,4-Seam Fastball,56%
+534737,Slider,26.1%
+534737,Changeup,10.5%
+534737,Curveball,7.4%
+133460,NA,NA
+607391,Cutter,29.9%
+607391,Slider,27.9%
+607391,Sinker,22.1%
+607391,4-Seam Fastball,16.9%
+607391,Changeup,3.2%
+408310,NA,NA
+346871,NA,NA
+446209,NA,NA
+516910,Cutter,40.4%
+516910,Sinker,28.8%
+516910,4-Seam Fastball,11.5%
+516910,Curveball,11.5%
+516910,Changeup,7.7%
+504379,Sinker,67.4%
+504379,Slider,26.1%
+504379,Changeup,6.5%
+430675,NA,NA
+489039,Sinker,45%
+489039,Slider,44%
+489039,Changeup,11%
+594577,Slider,39.6%
+594577,4-Seam Fastball,33.6%
+594577,Cutter,24.2%
+594577,Curveball,2.5%
+493247,Sinker,57.6%
+493247,Slider,36.8%
+493247,Changeup,5.4%
+493247,Split Finger,0.2%
+501957,4-Seam Fastball,30%
+501957,Slider,23.3%
+501957,Changeup,18.3%
+501957,Sinker,16.9%
+501957,Curveball,11.5%
+501874,NA,NA
+467099,NA,NA
+282332,Cutter,42%
+282332,Slider,30.2%
+282332,Sinker,14.3%
+282332,Changeup,12.2%
+282332,4-Seam Fastball,1.3%
+444427,NA,NA
+543551,NA,NA
+459932,NA,NA
+518526,Slider,42.4%
+518526,Sinker,40.9%
+518526,4-Seam Fastball,16.7%
+430588,NA,NA
+430673,NA,NA
+593576,Split Finger,48.1%
+593576,4-Seam Fastball,42.6%
+593576,Sinker,9.3%
+434628,Sinker,38.8%
+434628,Slider,37.7%
+434628,4-Seam Fastball,12.8%
+434628,Curveball,6.6%
+434628,Changeup,4.1%
+501822,4-Seam Fastball,29.2%
+501822,Cutter,26.7%
+501822,Sinker,20.1%
+501822,Split Finger,13.6%
+501822,Slider,10.5%
+647336,Sinker,31.2%
+647336,Slider,28.6%
+647336,4-Seam Fastball,28.1%
+647336,Changeup,12.1%
+150438,NA,NA
+407924,NA,NA
+592789,Sinker,29.8%
+592789,4-Seam Fastball,29.3%
+592789,Changeup,16.3%
+592789,Slider,15.2%
+592789,Curveball,9.5%
+668678,4-Seam Fastball,39%
+668678,Cutter,25.7%
+668678,Changeup,19%
+668678,Curveball,16.1%
+668678,Sinker,0.2%
+445612,4-Seam Fastball,72.8%
+445612,Slider,19.3%
+445612,Changeup,6.5%
+445612,Sinker,1.5%
+458657,NA,NA
+580792,Slider,56.9%
+580792,4-Seam Fastball,43.1%
+642233,Sinker,65.1%
+642233,Curveball,34.1%
+642233,Changeup,0.7%
+572947,NA,NA
+643493,4-Seam Fastball,42.9%
+643493,Slider,23.3%
+643493,Changeup,19.2%
+643493,Curveball,13.6%
+643493,Sinker,1%
+593334,Curveball,36.1%
+593334,4-Seam Fastball,34.4%
+593334,Changeup,19%
+593334,Sinker,10.5%
+502190,Cutter,26.1%
+502190,Changeup,20.7%
+502190,Sinker,18.3%
+502190,4-Seam Fastball,14.4%
+502190,Slider,12.6%
+502190,Curveball,7.9%
+444874,NA,NA
+503449,4-Seam Fastball,54.6%
+503449,Slider,32.2%
+503449,Changeup,12.7%
+503449,Sinker,0.3%
+503449,Curveball,0.2%
+622795,4-Seam Fastball,45%
+622795,Changeup,37%
+622795,Slider,18%
+502272,Slider,43.3%
+502272,4-Seam Fastball,34.6%
+502272,Curveball,15.4%
+502272,Sinker,6.7%
+447744,NA,NA
+453184,NA,NA
+429781,Slider,24.7%
+429781,4-Seam Fastball,19.7%
+429781,Changeup,17.8%
+429781,Sinker,17.3%
+429781,Curveball,14.3%
+429781,Cutter,6.2%
+430618,NA,NA
+518771,4-Seam Fastball,52.8%
+518771,Cutter,38.5%
+518771,Changeup,3.9%
+518771,Curveball,3.7%
+518771,Sinker,1.1%
+474039,Changeup,90%
+474039,Curveball,10%
+543359,Sinker,53%
+543359,Slider,43.3%
+543359,4-Seam Fastball,3.7%
+329092,Sinker,60.8%
+329092,Slider,38.4%
+329092,4-Seam Fastball,0.7%
+554432,Sinker,70%
+554432,Slider,21.3%
+554432,4-Seam Fastball,6.3%
+554432,Changeup,2.5%
+433584,Sinker,44%
+433584,Changeup,25.6%
+433584,Slider,17.9%
+433584,4-Seam Fastball,12.5%
+643414,Sinker,44.6%
+643414,Split Finger,38.6%
+643414,Slider,14.5%
+643414,4-Seam Fastball,2.4%
+447714,Sinker,49.3%
+447714,Slider,35.5%
+447714,4-Seam Fastball,15.2%
+518420,4-Seam Fastball,39.5%
+518420,Changeup,18.4%
+518420,Slider,17.1%
+518420,Sinker,14.5%
+518420,Curveball,10.5%
+112020,NA,NA
+500909,NA,NA
+217096,4-Seam Fastball,30%
+217096,Sinker,28%
+217096,Changeup,22%
+217096,Curveball,20%
+434622,Sinker,35.9%
+434622,Split Finger,20.1%
+434622,Slider,19.9%
+434622,4-Seam Fastball,19%
+434622,Curveball,4.3%
+434622,Cutter,0.8%
+543779,4-Seam Fastball,60.9%
+543779,Curveball,18.8%
+543779,Changeup,18.5%
+543779,Sinker,1.8%
+543380,4-Seam Fastball,65.6%
+543380,Sinker,25%
+543380,Curveball,9.4%
+430101,NA,NA
+488722,NA,NA
+553883,Changeup,42.7%
+553883,4-Seam Fastball,41.5%
+553883,Curveball,15.9%
+446099,Sinker,62.4%
+446099,Curveball,14.9%
+446099,4-Seam Fastball,12.6%
+446099,Slider,10.2%
+614179,4-Seam Fastball,58.3%
+614179,Slider,25%
+614179,Curveball,13.3%
+614179,Changeup,3.3%
+502281,Slider,70.8%
+502281,Sinker,25%
+502281,Cutter,4.2%
+543242,Slider,47.8%
+543242,4-Seam Fastball,47.8%
+543242,Changeup,4.3%
+523989,4-Seam Fastball,49.6%
+523989,Slider,46.4%
+523989,Sinker,3.2%
+523989,Changeup,0.8%
+641778,4-Seam Fastball,53.3%
+641778,Cutter,21.7%
+641778,Slider,12.3%
+641778,Curveball,8.2%
+641778,Changeup,4.5%
+641712,Sinker,36.3%
+641712,4-Seam Fastball,22.8%
+641712,Slider,20%
+641712,Curveball,18.7%
+641712,Changeup,2.2%
+518748,Slider,53.1%
+518748,4-Seam Fastball,38.1%
+518748,Curveball,8.8%
+622259,4-Seam Fastball,55%
+622259,Slider,45%
+595881,4-Seam Fastball,56.1%
+595881,Changeup,18.7%
+595881,Curveball,13.7%
+595881,Slider,11.5%
+595881,Sinker,0%
+608344,4-Seam Fastball,34.1%
+608344,Changeup,26.8%
+608344,Slider,18.3%
+608344,Sinker,18.3%
+608344,Curveball,2.4%
+434438,NA,NA
+543118,Split Finger,50.3%
+543118,4-Seam Fastball,48%
+543118,Slider,1.8%
+596331,4-Seam Fastball,48%
+596331,Slider,32.6%
+596331,Sinker,19.4%
+592499,Slider,49.1%
+592499,4-Seam Fastball,33.3%
+592499,Curveball,10.5%
+592499,Changeup,7%
+605317,4-Seam Fastball,61.7%
+605317,Slider,35.7%
+605317,Changeup,2.6%
+122620,NA,NA
+449097,4-Seam Fastball,61.8%
+449097,Slider,19.6%
+449097,Split Finger,17.1%
+449097,Sinker,1.6%
+448722,NA,NA
+542946,Slider,53.8%
+542946,4-Seam Fastball,38.5%
+542946,Sinker,7.7%
+572955,Curveball,54.2%
+572955,Sinker,43.2%
+572955,4-Seam Fastball,2.6%
+116034,NA,NA
+663432,4-Seam Fastball,61.9%
+663432,Slider,38.1%
+445276,Cutter,61.9%
+445276,Sinker,28.5%
+445276,Slider,9.6%
+612672,4-Seam Fastball,48.1%
+612672,Slider,22.7%
+612672,Curveball,22.4%
+612672,Changeup,3.8%
+612672,Sinker,3%
+605541,Slider,35.5%
+605541,4-Seam Fastball,34.5%
+605541,Sinker,23.9%
+605541,Changeup,4.9%
+605541,Curveball,1.2%
+607625,4-Seam Fastball,32.3%
+607625,Sinker,22.6%
+607625,Curveball,19.3%
+607625,Slider,15.1%
+607625,Changeup,10.7%
+519357,NA,NA
+624647,Sinker,52.4%
+624647,Slider,35.9%
+624647,4-Seam Fastball,10.3%
+624647,Changeup,1.4%
+656492,Cutter,52.2%
+656492,4-Seam Fastball,30.4%
+656492,Changeup,13%
+656492,Curveball,4.3%
+434482,NA,NA
+658431,4-Seam Fastball,33.3%
+658431,Sinker,20.2%
+658431,Slider,20.2%
+658431,Changeup,20.2%
+658431,Curveball,6%
+669432,4-Seam Fastball,54.2%
+669432,Slider,21.8%
+669432,Changeup,18.1%
+669432,Sinker,5.8%
+622251,4-Seam Fastball,68%
+622251,Curveball,27.5%
+622251,Sinker,4.4%
+150011,NA,NA
+664299,4-Seam Fastball,63%
+664299,Slider,25.5%
+664299,Changeup,7.2%
+664299,Curveball,4.3%
+642092,Sinker,62.4%
+642092,Slider,20%
+642092,Curveball,16%
+642092,Changeup,1.6%
+660813,Sinker,67.7%
+660813,Slider,28.9%
+660813,4-Seam Fastball,3.1%
+660813,Changeup,0.3%
+454972,NA,NA
+572086,4-Seam Fastball,51.8%
+572086,Slider,26.3%
+572086,Changeup,11.4%
+572086,Curveball,8.8%
+572086,Cutter,0.9%
+572086,Sinker,0.9%
+605501,Sinker,65.2%
+605501,Curveball,31.5%
+605501,4-Seam Fastball,3.3%
+656805,Sinker,56.1%
+656805,Slider,24%
+656805,Cutter,13.4%
+656805,Changeup,4.1%
+656805,4-Seam Fastball,2.4%
+656557,4-Seam Fastball,37%
+656557,Slider,35.5%
+656557,Sinker,24.5%
+656557,Split Finger,3%
+446901,NA,NA
+450312,NA,NA
+606996,Slider,35.4%
+606996,4-Seam Fastball,28.1%
+606996,Changeup,18.5%
+606996,Sinker,13.5%
+606996,Curveball,4.6%
+445177,NA,NA
+657376,Slider,37.3%
+657376,Sinker,32.5%
+657376,4-Seam Fastball,21.4%
+657376,Changeup,8.7%
+621078,4-Seam Fastball,30.3%
+621078,Sinker,20%
+621078,Curveball,19.3%
+621078,Slider,15.3%
+621078,Changeup,15%
+600887,4-Seam Fastball,54.5%
+600887,Curveball,43.6%
+600887,Changeup,1.8%
+656913,4-Seam Fastball,42.4%
+656913,Slider,37.9%
+656913,Changeup,19.7%
+643532,Sinker,67.6%
+643532,4-Seam Fastball,15.3%
+643532,Changeup,12.6%
+643532,Curveball,4.5%
+642067,4-Seam Fastball,44.1%
+642067,Slider,33.6%
+642067,Curveball,19.4%
+642067,Sinker,2%
+642067,Changeup,1%
+519405,NA,NA
+656271,4-Seam Fastball,43.3%
+656271,Curveball,22.3%
+656271,Sinker,18.5%
+656271,Changeup,15.3%
+656271,Slider,0.6%
+656232,4-Seam Fastball,49.4%
+656232,Changeup,17.6%
+656232,Cutter,13.7%
+656232,Slider,10.9%
+656232,Curveball,8.4%
+450545,NA,NA
+408069,NA,NA
+407113,NA,NA
+448252,NA,NA
+538506,4-Seam Fastball,49.3%
+538506,Changeup,15.9%
+538506,Slider,14.5%
+538506,Sinker,11.6%
+538506,Curveball,8.7%
+657611,4-Seam Fastball,48.5%
+657611,Slider,36.1%
+657611,Curveball,15.5%
+641853,Sinker,71.4%
+641853,Curveball,28.6%
+664139,4-Seam Fastball,54.4%
+664139,Slider,27.8%
+664139,Changeup,16.2%
+664139,Curveball,1.7%
+594867,Sinker,38.8%
+594867,4-Seam Fastball,21.6%
+594867,Slider,20.1%
+594867,Curveball,12.3%
+594867,Changeup,7.1%
+502168,NA,NA
+640462,4-Seam Fastball,63.9%
+640462,Slider,24.8%
+640462,Changeup,9.4%
+640462,Curveball,2%
+665759,4-Seam Fastball,64.9%
+665759,Slider,29.4%
+665759,Sinker,3.1%
+665759,Changeup,2.6%
+543488,NA,NA
+592677,Slider,51.8%
+592677,4-Seam Fastball,36.8%
+592677,Changeup,11.5%
+476531,NA,NA
+665733,4-Seam Fastball,52.6%
+665733,Slider,23.3%
+665733,Changeup,15.8%
+665733,Sinker,6.8%
+665733,Curveball,1.5%
+429718,NA,NA
+476123,4-Seam Fastball,57.7%
+476123,Changeup,23.1%
+476123,Curveball,19.2%
+645307,4-Seam Fastball,47.9%
+645307,Changeup,17.9%
+645307,Curveball,17.1%
+645307,Slider,15.4%
+645307,Sinker,1.7%
+672911,4-Seam Fastball,51.3%
+672911,Changeup,23.1%
+672911,Slider,17.9%
+672911,Sinker,7.7%
+640444,4-Seam Fastball,35.7%
+640444,Slider,29.4%
+640444,Sinker,23.8%
+640444,Changeup,8.7%
+640444,Curveball,2.4%
+605469,4-Seam Fastball,47.2%
+605469,Slider,27.7%
+605469,Curveball,14.5%
+605469,Changeup,10.7%
+523648,NA,NA
+676604,4-Seam Fastball,44.6%
+676604,Slider,37.3%
+676604,Changeup,10.9%
+676604,Curveball,7.3%
+528748,4-Seam Fastball,31.4%
+528748,Curveball,26.1%
+528748,Sinker,18.8%
+528748,Changeup,14%
+528748,Slider,9.7%
+449110,NA,NA
+642226,4-Seam Fastball,62.1%
+642226,Slider,21.4%
+642226,Changeup,16.5%
+607951,Slider,62.8%
+607951,4-Seam Fastball,19.8%
+607951,Changeup,9.1%
+607951,Sinker,8.3%
+621368,4-Seam Fastball,60.2%
+621368,Slider,28.1%
+621368,Changeup,11.4%
+621368,Sinker,0.3%
+548348,NA,NA
+656302,4-Seam Fastball,47.8%
+656302,Slider,30.1%
+656302,Changeup,12.7%
+656302,Curveball,9.3%
+623485,4-Seam Fastball,47%
+623485,Changeup,27.8%
+623485,Curveball,25.2%
+681911,4-Seam Fastball,72.9%
+681911,Changeup,18%
+681911,Slider,9%
+664069,4-Seam Fastball,53.9%
+664069,Curveball,23.7%
+664069,Changeup,22.4%
+626929,4-Seam Fastball,47.4%
+626929,Slider,30.1%
+626929,Changeup,14%
+626929,Curveball,8.5%
+660896,4-Seam Fastball,46.4%
+660896,Slider,44.7%
+660896,Changeup,8.9%
+658791,4-Seam Fastball,52.6%
+658791,Changeup,23.7%
+658791,Curveball,21.1%
+658791,Slider,2.6%
+545357,Sinker,36%
+545357,4-Seam Fastball,36%
+545357,Split Finger,14%
+545357,Slider,14%
+663460,4-Seam Fastball,54.2%
+663460,Changeup,29.9%
+663460,Curveball,15.9%
+600965,4-Seam Fastball,49.5%
+600965,Slider,44.1%
+600965,Curveball,6.5%
+665152,4-Seam Fastball,39.6%
+665152,Curveball,27.2%
+665152,Cutter,19.1%
+665152,Sinker,11.6%
+665152,Changeup,2.6%
+489056,NA,NA
+650556,Slider,44.7%
+650556,Curveball,19.7%
+650556,Sinker,17.1%
+650556,4-Seam Fastball,17.1%
+650556,Changeup,1.3%
+664948,Cutter,52.7%
+664948,4-Seam Fastball,24.1%
+664948,Curveball,23.2%
+595939,4-Seam Fastball,35.3%
+595939,Curveball,35.3%
+595939,Slider,29.4%
+543125,NA,NA
+464416,4-Seam Fastball,44.1%
+464416,Slider,31.5%
+464416,Sinker,16.5%
+464416,Curveball,4.3%
+464416,Changeup,3.6%
+572017,NA,NA
+504186,4-Seam Fastball,58.7%
+504186,Slider,23.9%
+504186,Curveball,13%
+504186,Changeup,4.3%
+622503,Changeup,36%
+622503,Curveball,22.8%
+622503,4-Seam Fastball,21.1%
+622503,Sinker,20.2%
+643329,Sinker,35.9%
+643329,Slider,26%
+643329,4-Seam Fastball,24.4%
+643329,Changeup,13.7%
+592330,Sinker,88.2%
+592330,Curveball,10.1%
+592330,4-Seam Fastball,1.7%
+666622,4-Seam Fastball,48.5%
+666622,Changeup,30.3%
+666622,Slider,21.2%
+455376,4-Seam Fastball,67.6%
+455376,Slider,26.7%
+455376,Sinker,5.7%
+623434,Sinker,51.4%
+623434,Slider,33.6%
+623434,Changeup,15%
+518582,NA,NA
+457786,NA,NA
+657044,Sinker,51.8%
+657044,Slider,38.4%
+657044,4-Seam Fastball,9.1%
+657044,Changeup,0.7%
+620445,4-Seam Fastball,58.7%
+620445,Changeup,28%
+620445,Curveball,13.3%
+425530,NA,NA
+457581,NA,NA
+489400,NA,NA
+444992,NA,NA
+642083,Sinker,39%
+642083,Slider,30%
+642083,4-Seam Fastball,23%
+642083,Changeup,8%
+664141,Sinker,35.1%
+664141,Slider,32.3%
+664141,4-Seam Fastball,13.9%
+664141,Curveball,13.7%
+664141,Changeup,5%
+622490,Slider,50%
+622490,4-Seam Fastball,50%
+547942,4-Seam Fastball,48.6%
+547942,Slider,31.2%
+547942,Curveball,11.7%
+547942,Changeup,8.5%
+595928,4-Seam Fastball,55.7%
+595928,Slider,43.5%
+595928,Sinker,0.8%
+642203,4-Seam Fastball,64%
+642203,Slider,20.9%
+642203,Changeup,14%
+642203,Sinker,1.1%
+642546,Sinker,47.1%
+642546,Slider,39.8%
+642546,Changeup,12.9%
+642546,4-Seam Fastball,0.2%
+642584,Sinker,46.7%
+642584,Curveball,27.9%
+642584,Changeup,18.3%
+642584,4-Seam Fastball,7%
+669373,4-Seam Fastball,58.9%
+669373,Changeup,16.4%
+669373,Slider,15.7%
+669373,Curveball,7.8%
+669373,Cutter,1.2%
+665621,4-Seam Fastball,63.1%
+665621,Slider,23.4%
+665621,Changeup,13.5%
+656876,4-Seam Fastball,68.2%
+656876,Slider,17.5%
+656876,Curveball,10.3%
+656876,Changeup,4%
+434666,NA,NA
+547568,NA,NA
+676979,4-Seam Fastball,84.7%
+676979,Slider,10.6%
+676979,Changeup,4.7%
+669424,4-Seam Fastball,48.5%
+669424,Changeup,27.3%
+669424,Curveball,18.2%
+669424,Slider,6.1%
+457468,NA,NA
+663366,4-Seam Fastball,39.1%
+663366,Slider,25.5%
+663366,Sinker,15.5%
+663366,Changeup,14.5%
+663366,Curveball,5.5%
+664714,4-Seam Fastball,49.4%
+664714,Curveball,26.7%
+664714,Changeup,23.9%
+661440,Sinker,46.3%
+661440,Changeup,36.6%
+661440,Slider,14.6%
+661440,Curveball,2.4%
+650738,4-Seam Fastball,56.3%
+650738,Slider,25%
+650738,Curveball,9.4%
+650738,Changeup,9.4%
+650530,Sinker,59.9%
+650530,Slider,22%
+650530,Changeup,13.9%
+650530,4-Seam Fastball,4.2%
+656420,4-Seam Fastball,54%
+656420,Slider,28%
+656420,Changeup,18%
+641743,4-Seam Fastball,56.5%
+641743,Curveball,23.2%
+641743,Changeup,18.1%
+641743,Cutter,2.2%
+675921,4-Seam Fastball,56.5%
+675921,Slider,21.6%
+675921,Changeup,15.9%
+675921,Curveball,5.9%
+641995,4-Seam Fastball,63.3%
+641995,Slider,33.3%
+641995,Changeup,3.3%
+624427,4-Seam Fastball,59.4%
+624427,Changeup,17.1%
+624427,Slider,15.7%
+624427,Curveball,7.8%
+656353,4-Seam Fastball,75.5%
+656353,Slider,13.2%
+656353,Curveball,11.3%
+667465,Sinker,65.3%
+667465,Slider,21.5%
+667465,Changeup,13.2%
+332292,NA,NA
+635903,Sinker,66.7%
+635903,Slider,26.7%
+635903,4-Seam Fastball,6.7%
+641360,4-Seam Fastball,81.8%
+641360,Curveball,15.2%
+641360,Sinker,3%
+621350,4-Seam Fastball,60.4%
+621350,Slider,39.6%
+666674,Sinker,50%
+666674,Slider,50%
+607320,Cutter,35.7%
+607320,Changeup,25.4%
+607320,4-Seam Fastball,22.6%
+607320,Curveball,16.3%
+514981,Changeup,38.7%
+514981,4-Seam Fastball,34.9%
+514981,Slider,15.1%
+514981,Sinker,8.5%
+514981,Curveball,2.8%
+459988,NA,NA
+660600,4-Seam Fastball,68.2%
+660600,Slider,26%
+660600,Curveball,3.9%
+660600,Changeup,1.9%
+666204,Curveball,48.6%
+666204,4-Seam Fastball,48.6%
+666204,Cutter,2.7%
+460104,NA,NA
+607179,4-Seam Fastball,62.2%
+607179,Changeup,19.4%
+607179,Slider,18.5%
+518972,NA,NA
+621290,Slider,60.4%
+621290,Sinker,34.2%
+621290,Curveball,5.3%
+685493,4-Seam Fastball,40.8%
+685493,Split Finger,39.4%
+685493,Slider,17.1%
+685493,Curveball,2.6%
+219194,NA,NA
+621058,4-Seam Fastball,48.7%
+621058,Changeup,29.5%
+621058,Curveball,12.8%
+621058,Slider,9%
+506648,NA,NA
+664285,Sinker,54.8%
+664285,Curveball,33.5%
+664285,Changeup,9.7%
+664285,4-Seam Fastball,2%
+641576,4-Seam Fastball,51.9%
+641576,Curveball,22.2%
+641576,Slider,11.1%
+641576,Sinker,7.4%
+641576,Changeup,7.4%
+622703,Changeup,37.8%
+622703,4-Seam Fastball,31.1%
+622703,Slider,17.8%
+622703,Curveball,6.7%
+622703,Sinker,6.7%
+641501,Curveball,41.2%
+641501,Sinker,35.3%
+641501,Changeup,11%
+641501,4-Seam Fastball,8.8%
+641501,Slider,3.7%
+605335,4-Seam Fastball,47.3%
+605335,Slider,28.7%
+605335,Curveball,12%
+605335,Changeup,12%
+640464,Sinker,48.4%
+640464,Slider,32%
+640464,Curveball,9.1%
+640464,4-Seam Fastball,6.5%
+640464,Changeup,3.9%
+643478,4-Seam Fastball,57.6%
+643478,Curveball,42.4%
+623437,Sinker,68.9%
+623437,Slider,30.3%
+623437,4-Seam Fastball,0.8%
+641540,Sinker,39.4%
+641540,Slider,21.7%
+641540,4-Seam Fastball,21%
+641540,Changeup,11%
+641540,Curveball,6.8%
+657209,4-Seam Fastball,55.9%
+657209,Curveball,42.4%
+657209,Sinker,1.7%
+463017,NA,NA
+680702,Sinker,37.8%
+680702,Slider,34.8%
+680702,4-Seam Fastball,27.5%
+605528,4-Seam Fastball,30.4%
+605528,Sinker,28.6%
+605528,Slider,21.4%
+605528,Changeup,19.6%
+605338,Sinker,56%
+605338,Slider,37.9%
+605338,4-Seam Fastball,6%
+543195,Knuckleball,75.5%
+543195,Sinker,13.6%
+543195,Cutter,10.9%
+656548,4-Seam Fastball,62.5%
+656548,Curveball,31.3%
+656548,Changeup,6.3%
+607087,NA,NA
+474226,NA,NA
+669952,Curveball,31.8%
+669952,4-Seam Fastball,27.3%
+669952,Sinker,22.7%
+669952,Slider,18.2%
+425507,NA,NA
+663770,4-Seam Fastball,66.7%
+663770,Slider,31.5%
+663770,Curveball,1.9%
+605482,Cutter,69.6%
+605482,Curveball,14.9%
+605482,Slider,14%
+605482,Changeup,1.5%
+666200,4-Seam Fastball,30.5%
+666200,Changeup,24.8%
+666200,Curveball,23.5%
+666200,Sinker,21.2%
+448241,NA,NA
+542884,4-Seam Fastball,45.2%
+542884,Changeup,19%
+542884,Slider,16.7%
+542884,Curveball,14.3%
+542884,Sinker,4.8%
+543677,4-Seam Fastball,63.6%
+543677,Curveball,36.4%
+676831,4-Seam Fastball,53.2%
+676831,Changeup,28.6%
+676831,Slider,18.2%
+656849,4-Seam Fastball,37.4%
+656849,Slider,25.9%
+656849,Changeup,18.7%
+656849,Sinker,15.8%
+656849,Curveball,2.2%
+595441,4-Seam Fastball,33.3%
+595441,Sinker,28.2%
+595441,Slider,25.6%
+595441,Curveball,7.7%
+595441,Changeup,5.1%
+473265,NA,NA
+656240,Slider,32.3%
+656240,Sinker,30.6%
+656240,4-Seam Fastball,27.4%
+656240,Changeup,8.1%
+656240,Curveball,1.6%
+656629,4-Seam Fastball,62.5%
+656629,Slider,16.4%
+656629,Curveball,11.3%
+656629,Changeup,9.8%
+641726,4-Seam Fastball,45.3%
+641726,Cutter,20.8%
+641726,Sinker,15.1%
+641726,Changeup,11.3%
+641726,Curveball,7.5%
+608167,4-Seam Fastball,60%
+608167,Changeup,40%
+606478,Sinker,50%
+606478,Changeup,28.6%
+606478,Slider,14.3%
+606478,4-Seam Fastball,7.1%
+641672,4-Seam Fastball,46.9%
+641672,Changeup,25.2%
+641672,Slider,20.6%
+641672,Sinker,7.3%
+664350,Changeup,26.7%
+664350,Sinker,24%
+664350,4-Seam Fastball,23.8%
+664350,Slider,17.2%
+664350,Curveball,8.4%
+543853,NA,NA
+446398,NA,NA
+471803,NA,NA
+642130,4-Seam Fastball,76.5%
+642130,Slider,22.6%
+642130,Changeup,0.9%
+500902,NA,NA
+500891,Sinker,58.8%
+500891,Changeup,26.3%
+500891,Slider,15%
+670167,4-Seam Fastball,48.4%
+670167,Curveball,34.5%
+670167,Changeup,13.5%
+670167,Sinker,3.6%
+605521,Slider,53.2%
+605521,4-Seam Fastball,44.2%
+605521,Curveball,2.6%
+641447,4-Seam Fastball,39%
+641447,Slider,25.7%
+641447,Changeup,20.3%
+641447,Sinker,15%
+489020,NA,NA
+666120,4-Seam Fastball,46.9%
+666120,Changeup,30.8%
+666120,Curveball,20.8%
+666120,Sinker,1.4%
+666129,4-Seam Fastball,49.6%
+666129,Curveball,30.7%
+666129,Changeup,14.6%
+666129,Slider,5.1%
+667463,Sinker,59.7%
+667463,Slider,18.3%
+667463,Changeup,17.2%
+667463,4-Seam Fastball,3.8%
+667463,Curveball,1.1%
+592244,NA,NA
+676051,Sinker,63.1%
+676051,Slider,24.9%
+676051,Changeup,9.4%
+676051,4-Seam Fastball,2.7%
+621076,4-Seam Fastball,59.2%
+621076,Slider,29.6%
+621076,Sinker,5.6%
+621076,Changeup,4.2%
+621076,Curveball,1.4%
+573009,Sinker,47.4%
+573009,Curveball,45.6%
+573009,Changeup,7%
+543668,NA,NA
+641302,4-Seam Fastball,22%
+641302,Sinker,21.9%
+641302,Changeup,17.9%
+641302,Slider,15%
+641302,Cutter,14.2%
+641302,Curveball,9%
+676886,4-Seam Fastball,37.5%
+676886,Changeup,37.5%
+676886,Slider,25%
+448337,NA,NA
+425466,NA,NA
+663399,Slider,40.8%
+663399,4-Seam Fastball,22.4%
+663399,Sinker,22.4%
+663399,Changeup,14.3%
+501870,4-Seam Fastball,32.6%
+501870,Slider,30.5%
+501870,Curveball,23.2%
+501870,Changeup,12.6%
+501870,Sinker,1.1%
+519003,NA,NA
+543493,NA,NA
+517059,Sinker,48.5%
+517059,Curveball,30.3%
+517059,Changeup,21.2%
+543803,Cutter,38.6%
+543803,Sinker,36.4%
+543803,Curveball,13.6%
+543803,Changeup,9.1%
+543803,4-Seam Fastball,2.3%
+593417,4-Seam Fastball,37.2%
+593417,Sinker,24.8%
+593417,Changeup,18.7%
+593417,Slider,17.2%
+593417,Curveball,2%
+400141,NA,NA
+656382,Slider,39.5%
+656382,Sinker,34.2%
+656382,4-Seam Fastball,26.3%
+668687,Cutter,52.6%
+668687,Curveball,46.9%
+668687,Slider,0.5%
+669145,4-Seam Fastball,51.4%
+669145,Changeup,24.3%
+669145,Slider,22.4%
+669145,Curveball,1.9%
+570702,Slider,46.5%
+570702,Sinker,32.5%
+570702,4-Seam Fastball,21%
+660422,4-Seam Fastball,52.6%
+660422,Changeup,31.6%
+660422,Sinker,10.5%
+660422,Slider,5.3%
+543357,4-Seam Fastball,53.5%
+543357,Slider,34.9%
+543357,Curveball,9.3%
+543357,Cutter,2.3%
+663734,4-Seam Fastball,59.1%
+663734,Changeup,18.9%
+663734,Slider,13.6%
+663734,Curveball,8.3%
+400125,NA,NA
+657766,4-Seam Fastball,32.9%
+657766,Slider,27.5%
+657766,Sinker,22.8%
+657766,Changeup,16.8%
+450864,NA,NA
+571479,4-Seam Fastball,57.5%
+571479,Slider,21.7%
+571479,Changeup,20.8%
+663642,NA,NA
+451075,NA,NA
+457761,NA,NA
+592280,4-Seam Fastball,48.5%
+592280,Slider,37.6%
+592280,Changeup,13.9%
+668941,Sinker,31.2%
+668941,Slider,27.1%
+668941,4-Seam Fastball,25.3%
+668941,Changeup,16.5%
+605138,4-Seam Fastball,49.4%
+605138,Slider,23.4%
+605138,Curveball,14.4%
+605138,Changeup,12.1%
+605138,Sinker,0.8%
+657585,4-Seam Fastball,64.3%
+657585,Slider,25.4%
+657585,Cutter,7.5%
+657585,Split Finger,2.8%
+657770,4-Seam Fastball,37.3%
+657770,Slider,29.4%
+657770,Changeup,17.6%
+657770,Sinker,15.7%
+640448,Sinker,70.5%
+640448,Slider,20.9%
+640448,Split Finger,8.4%
+640448,4-Seam Fastball,0.2%
+664977,Sinker,61.2%
+664977,Cutter,38.8%
+608335,Sinker,32.9%
+608335,Slider,31.3%
+608335,4-Seam Fastball,28.8%
+608335,Changeup,6.9%
+641907,Sinker,57.7%
+641907,Curveball,39.4%
+641907,4-Seam Fastball,1.9%
+641907,Slider,1%
+456387,Knuckleball,70.2%
+456387,4-Seam Fastball,23.1%
+456387,Changeup,6.7%
+663554,Sinker,26.9%
+663554,4-Seam Fastball,25.4%
+663554,Slider,19.7%
+663554,Split Finger,17.9%
+663554,Curveball,10.1%
+425818,NA,NA
+663474,4-Seam Fastball,53.1%
+663474,Slider,20.2%
+663474,Curveball,16.5%
+663474,Changeup,10.2%
+656793,4-Seam Fastball,57.2%
+656793,Changeup,24.6%
+656793,Slider,11.8%
+656793,Curveball,6.4%
+621114,4-Seam Fastball,58.1%
+621114,Cutter,24.7%
+621114,Slider,17.1%
+600944,4-Seam Fastball,42.2%
+600944,Changeup,25.8%
+600944,Curveball,19.5%
+600944,Slider,12.5%
+664076,4-Seam Fastball,50%
+664076,Curveball,30%
+664076,Slider,20%
+446341,NA,NA
+429723,NA,NA
+624418,4-Seam Fastball,48.2%
+624418,Slider,17.6%
+624418,Changeup,17.2%
+624418,Curveball,17%
+683232,4-Seam Fastball,67.5%
+683232,Curveball,31.6%
+683232,Sinker,0.9%
+460257,NA,NA
+656061,4-Seam Fastball,51.2%
+656061,Changeup,23.3%
+656061,Slider,18.6%
+656061,Curveball,7%
+429721,NA,NA
+670912,4-Seam Fastball,56.1%
+670912,Slider,29.7%
+670912,Curveball,10.4%
+670912,Changeup,3.8%
+641656,4-Seam Fastball,74.7%
+641656,Slider,21.7%
+641656,Changeup,3.6%
+622780,4-Seam Fastball,68.2%
+622780,Slider,25.9%
+622780,Changeup,5.9%
+408052,NA,NA
+621139,4-Seam Fastball,68.8%
+621139,Changeup,23.9%
+621139,Slider,7.3%
+622088,Sinker,40.6%
+622088,Slider,39.8%
+622088,Curveball,16.7%
+622088,Changeup,2.9%
+672715,4-Seam Fastball,64.8%
+672715,Changeup,17.8%
+672715,Slider,17.5%
+660546,4-Seam Fastball,66.7%
+660546,Changeup,27.3%
+660546,Curveball,6.1%
+460580,NA,NA
+434629,NA,NA
+621129,Slider,37.3%
+621129,4-Seam Fastball,29.7%
+621129,Sinker,20.5%
+621129,Changeup,12.4%
+602928,4-Seam Fastball,43.9%
+602928,Changeup,24.3%
+602928,Slider,14.9%
+602928,Cutter,6.8%
+602928,Curveball,6.1%
+602928,Sinker,4.1%
+456421,NA,NA
+570488,Changeup,48.9%
+570488,Sinker,45.2%
+570488,Slider,5.9%
+600921,4-Seam Fastball,55.8%
+600921,Slider,23.2%
+600921,Changeup,20%
+600921,Sinker,1.1%
+469735,NA,NA
+669211,4-Seam Fastball,62%
+669211,Changeup,17.4%
+669211,Curveball,10.4%
+669211,Slider,10.2%
+669064,4-Seam Fastball,52.6%
+669064,Curveball,20.6%
+669064,Changeup,17.5%
+669064,Slider,9.3%
+622256,NA,NA
+543594,4-Seam Fastball,50%
+543594,Changeup,18.3%
+543594,Cutter,17.5%
+543594,Curveball,11.8%
+543594,Slider,2.4%
+469834,NA,NA
+677976,Sinker,43.9%
+677976,Slider,35.3%
+677976,Changeup,16.3%
+677976,4-Seam Fastball,4.5%
+503438,NA,NA
+453301,NA,NA
+657240,4-Seam Fastball,57.1%
+657240,Changeup,17.6%
+657240,Slider,15%
+657240,Curveball,9.4%
+657240,Sinker,0.9%
+545348,4-Seam Fastball,34.1%
+545348,Changeup,30.3%
+545348,Sinker,30%
+545348,Slider,5.6%
+663903,Sinker,57.1%
+663903,Slider,37.4%
+663903,Changeup,4.7%
+663903,4-Seam Fastball,0.7%
+641739,4-Seam Fastball,43.5%
+641739,Slider,38.8%
+641739,Changeup,17.6%
+641401,4-Seam Fastball,48.9%
+641401,Changeup,35.3%
+641401,Cutter,15.8%
+501745,NA,NA
+629498,4-Seam Fastball,60.3%
+629498,Slider,37.9%
+629498,Sinker,1.7%
+642028,4-Seam Fastball,52.5%
+642028,Changeup,23.2%
+642028,Slider,22.4%
+642028,Curveball,1.1%
+642028,Sinker,0.8%
+459439,NA,NA
+663878,4-Seam Fastball,50.6%
+663878,Slider,36.1%
+663878,Changeup,6.8%
+663878,Curveball,6.5%
+594056,Slider,50.9%
+594056,4-Seam Fastball,49.1%
+451135,NA,NA
+621294,4-Seam Fastball,51.4%
+621294,Curveball,36%
+621294,Changeup,12.6%
+677651,4-Seam Fastball,53.7%
+677651,Changeup,18.2%
+677651,Slider,10.8%
+677651,Cutter,9.9%
+677651,Curveball,7.4%
+490008,NA,NA
+664337,4-Seam Fastball,33.1%
+664337,Changeup,26.6%
+664337,Curveball,21%
+664337,Cutter,16.9%
+664337,Slider,2.4%
+672578,Sinker,40.8%
+672578,Curveball,33.3%
+672578,Changeup,15.3%
+672578,4-Seam Fastball,10.6%
+457751,NA,NA
+670990,4-Seam Fastball,59.5%
+670990,Slider,40%
+670990,Sinker,0.5%
+445090,NA,NA
+502356,NA,NA
+621592,4-Seam Fastball,46.6%
+621592,Slider,37.6%
+621592,Sinker,10.1%
+621592,Changeup,5.8%
+490313,NA,NA
+605477,Sinker,52.1%
+605477,Slider,37.5%
+605477,4-Seam Fastball,10.4%
+503483,NA,NA
+669459,Slider,68%
+669459,4-Seam Fastball,32%
+664074,4-Seam Fastball,37%
+664074,Curveball,23.8%
+664074,Cutter,23.4%
+664074,Sinker,7.9%
+664074,Changeup,7.9%
+593619,4-Seam Fastball,41.3%
+593619,Sinker,37.5%
+593619,Slider,18.8%
+593619,Changeup,2.5%
+594580,4-Seam Fastball,55.8%
+594580,Slider,34%
+594580,Changeup,8.2%
+594580,Sinker,2%
+477237,NA,NA
+676596,Sinker,53.4%
+676596,Slider,29.4%
+676596,Changeup,15.5%
+676596,4-Seam Fastball,0.9%
+676596,Curveball,0.9%
+573016,Sinker,38.1%
+573016,Changeup,35.7%
+573016,Slider,19%
+573016,4-Seam Fastball,7.1%
+627262,4-Seam Fastball,63.3%
+627262,Slider,27.8%
+627262,Sinker,5.1%
+627262,Changeup,3.8%
+596049,4-Seam Fastball,59.2%
+596049,Changeup,23.3%
+596049,Curveball,11.7%
+596049,Slider,5.8%
+433581,NA,NA
+506988,NA,NA
+641420,4-Seam Fastball,42.9%
+641420,Slider,36.3%
+641420,Changeup,13.7%
+641420,Sinker,7.1%
+668338,4-Seam Fastball,50%
+668338,Cutter,23.7%
+668338,Slider,13.2%
+668338,Curveball,6.6%
+668338,Sinker,6.6%
+680692,4-Seam Fastball,54%
+680692,Slider,20.4%
+680692,Changeup,16.1%
+680692,Curveball,9.5%
+656686,4-Seam Fastball,62.6%
+656686,Curveball,19.1%
+656686,Changeup,11%
+656686,Slider,7.3%
+605428,Sinker,60.4%
+605428,Changeup,17.7%
+605428,Curveball,11.5%
+605428,4-Seam Fastball,10.4%
+448167,Sinker,57.9%
+448167,Slider,26.9%
+448167,Changeup,15.2%
+629496,4-Seam Fastball,42.6%
+629496,Changeup,25.1%
+629496,Slider,18.5%
+629496,Curveball,7.2%
+629496,Sinker,6.2%
+629496,Eephus,0.5%
+656970,Changeup,36.9%
+656970,4-Seam Fastball,33.2%
+656970,Slider,16.8%
+656970,Curveball,13.1%
+656814,4-Seam Fastball,45%
+656814,Slider,17.5%
+656814,Changeup,13.8%
+656814,Curveball,12.5%
+656814,Sinker,11.3%
+572728,Cutter,47.2%
+572728,4-Seam Fastball,30.6%
+572728,Changeup,11.5%
+572728,Curveball,6.1%
+572728,Sinker,4.7%
+458669,NA,NA
+665620,4-Seam Fastball,59.6%
+665620,Changeup,16.9%
+665620,Curveball,14.5%
+665620,Slider,9%
+425860,NA,NA
+501627,Sinker,66.7%
+501627,Slider,26.7%
+501627,Changeup,6.7%
+670550,4-Seam Fastball,49.2%
+670550,Curveball,24.1%
+670550,Slider,23%
+670550,Changeup,3.7%
+656004,4-Seam Fastball,57.1%
+656004,Slider,38.8%
+656004,Changeup,4.1%
+660431,4-Seam Fastball,57.6%
+660431,Slider,39.4%
+660431,Changeup,3%
+606944,4-Seam Fastball,79.5%
+606944,Slider,19.3%
+606944,Split Finger,1.2%
+621366,Sinker,47.8%
+621366,Slider,37.9%
+621366,Changeup,14.3%
+670056,4-Seam Fastball,74.5%
+670056,Slider,12.3%
+670056,Curveball,12.3%
+670056,Sinker,0.6%
+670056,Changeup,0.3%
+650668,4-Seam Fastball,52.2%
+650668,Curveball,21%
+650668,Slider,17.1%
+650668,Changeup,9.8%
+621593,4-Seam Fastball,58.8%
+621593,Curveball,35.3%
+621593,Changeup,5.9%
+451783,4-Seam Fastball,72.5%
+451783,Slider,26.9%
+451783,Curveball,0.6%
+660494,4-Seam Fastball,48.3%
+660494,Changeup,28.5%
+660494,Curveball,19.8%
+660494,Slider,3.3%
+642578,4-Seam Fastball,59%
+642578,Slider,17.9%
+642578,Changeup,12.8%
+642578,Curveball,10.3%
+591672,4-Seam Fastball,60%
+591672,Curveball,20%
+591672,Changeup,20%
+542235,NA,NA
